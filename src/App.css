@@ -1,9 +1,4 @@
-/* ==== ESTILOS GENERALES ==== */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 
 body {
   margin: 0;
@@ -90,10 +85,10 @@ h1 {
   left: 0;
   width: 5px;
   height: 100%;
-  background: linear-gradient(180deg, #667eea, #764ba2);
 }
 
 /* ==== COLORES DE SECCIONES ==== */
+
 .menu-item.chatbot::before { background: linear-gradient(180deg, #11998e, #38ef7d); }
 .menu-item.info::before { background: linear-gradient(180deg, #ee0979, #ff6a00); }
 .menu-item.servicios::before { background: linear-gradient(180deg, #4facfe, #00f2fe); }
