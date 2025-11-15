@@ -161,7 +161,7 @@ export default function InformacionNutricional() {
       id: 11,
       nombre: "Espinaca",
       categoria: "vegetal",
-      imagen: "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=400&h=300&fit=crop",
+      imagen: "https://www.gastronomiavasca.net/uploads/image/file/3368/espinacas.jpg",
       descripcion: "Hoja verde con hierro no hemo y folatos.",
       hierro: "~3-4 mg/100g",
       proteina: "~3 g/100g",
@@ -215,7 +215,7 @@ export default function InformacionNutricional() {
   };
 
   return (
-    <div className="min-h-screen  p-4 md:p-8">
+    <div className="min-h-screen  ">
       {/* Header */}
       <div className="max-w-6xl mx-auto mb-8">
         <div className="bg-white rounded-3xl shadow-lg p-6 md:p-8">
@@ -235,12 +235,12 @@ export default function InformacionNutricional() {
 
       {/* Filtros de Categoría */}
       <div className="max-w-6xl mx-auto mb-6">
-        <div className="flex flex-wrap gap-3 justify-center">
+        <div className="flex flex-wrap gap-3 justify-center ">
           {categorias.map(cat => (
             <button
               key={cat.id}
               onClick={() => setCategoriaActiva(cat.id)}
-              className={`px-6 py-2.5 rounded-full font-medium transition-all duration-300 shadow-md hover:shadow-lg ${
+              className={`px-6 py-2.5 rounded-full font-medium transition-all duration-300 shadow-md hover:shadow-lg hover:shadow-xl hover:-translate-y-1 ${
                 categoriaActiva === cat.id
                   ? 'bg-gradient-to-r from-purple-600 to-blue-600 text-white scale-105'
                   : 'bg-white text-gray-700 hover:bg-gray-50'
@@ -254,11 +254,11 @@ export default function InformacionNutricional() {
       </div>
 
       {/* Grid de Alimentos */}
-      <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6 ">
         {alimentosFiltrados.map(alimento => (
           <div
             key={alimento.id}
-            className="bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-xl"
+            className="bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-xl hover:shadow-xl hover:-translate-y-1 "
           >
             {/* Imagen */}
             <div 
@@ -371,7 +371,7 @@ export default function InformacionNutricional() {
       </div>
 
       {/* 🔘 Botón Volver */}
-      <div className="flex justify-center mt-8 mb-10">
+      <div className="flex justify-center mt-8">
         <Link
           to="/"
           className="inline-block border-2 border-white text-white hover:bg-white hover:text-indigo-700 font-semibold py-2 px-6 rounded-full shadow-md transition-all duration-300"
