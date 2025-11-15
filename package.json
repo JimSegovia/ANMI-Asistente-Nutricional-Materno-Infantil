@@ -1,7 +1,8 @@
 {
-  "name": "appwebreact",
+  "name": "anmi-app",
   "private": true,
-  "version": "0.0.0",
+  "description": "Asistente Nutricional Materno Infantil",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",

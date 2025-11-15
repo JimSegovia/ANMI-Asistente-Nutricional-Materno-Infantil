@@ -89,12 +89,12 @@ h1 {
 
 /* ==== COLORES DE SECCIONES ==== */
 
-.menu-item.chatbot::before { background: linear-gradient(180deg, #11998e, #38ef7d); }
+/* .menu-item.chatbot::before { background: linear-gradient(180deg, #11998e, #38ef7d); }
 .menu-item.info::before { background: linear-gradient(180deg, #ee0979, #ff6a00); }
 .menu-item.servicios::before { background: linear-gradient(180deg, #4facfe, #00f2fe); }
 .menu-item.recetas::before { background: linear-gradient(180deg, #fa709a, #fee140); }
 .menu-item.biblioteca::before { background: linear-gradient(180deg, #30cfd0, #330867); }
-.menu-item.config::before { background: linear-gradient(180deg, #a8edea, #fed6e3); }
+.menu-item.config::before { background: linear-gradient(180deg, #a8edea, #fed6e3); } */
 
 .icon {
   font-size: 2.5em;
