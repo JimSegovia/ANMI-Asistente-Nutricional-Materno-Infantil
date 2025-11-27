@@ -1,0 +1,3716 @@
+Lima, 2019
+
+Guías
+Alimentarias
+para la
+
+Población
+Peruana
+Elaborado por:
+- Mirko Luis Lázaro Serrano
+- César Hugo Domínguez Curi
+
+Lima, 2019
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+1
+
+Catalogación hecha por el Centro de Información y Documentación Científica del INS
+Lázaro Serrano, Mirko Luis
+Guías alimentarias para la población peruana / Mirko Luis Lázaro Serrano y César
+Hugo Domínguez Curi. – Lima: Ministerio de Salud. Instituto Nacional de Salud, 2019.
+55 p.: il., tab., 23 cm.
+1. GUÍAS ALIMENTARIAS 2. PROMOCION DE ALIMENTOS 3. ESTILOS DE VIDA
+SALUDABLE 4. PERÚ
+I. Domínguez Curi, César Hugo
+II. Perú. Ministerio de Salud
+III. Instituto Nacional de Salud (Perú). Centro Nacional de Alimentación y Nutrición.
+
+ISBN: 978-612-310-119-0
+Hecho el Depósito Legal en la Biblioteca Nacional del Perú N° 2019-03576
+1ra edición (marzo 2019)
+Tiraje: 2 000 ejemplares
+© Ministerio de Salud. 2019
+Av. Salaverry cuadra 8 s/n, Jesús María, Lima, Perú.
+Teléfono (511) 315-6600
+Página web: www.minsa.gob.pe
+© Instituto Nacional de Salud. 2019
+Cápac Yupanqui 1400, Jesús María, Lima, Perú.
+Teléfono (511) 748-1111
+Correo electrónico: posmaster@ins.gob.pe
+Página web: www.ins.gob.pe
+Impreso por:
+D’GRAFICOS SERVICIOS GRÁFICOS Y PUBLICACIONES E.I.R.L.
+R.U.C. 20553287066
+Calle Ceres N° 222 Urb. Villacampa
+Rímac - Lima - Perú
+Se terminó de imprimir en marzo de 2019
+La versión electrónica de este documento se encuentra disponible en forma
+gratuita en: www.ins.gob.pe
+Prohibida la reproducción total o parcial de esta obra por cualquier medio sin
+autorización del Instituto Nacional de Salud
+
+2
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+MINISTERIO DE SALUD
+Ministra
+ELIZABETH ZULEMA TOMÁS GONZÁLES
+Viceministro de Salud Pública
+NEPTALÍ SANTILLÁN RUIZ
+Viceministro de Prestaciones y Aseguramiento en Salud
+ÓSCAR ERNESTO COSAVALENTE VIDARTE
+Dirección General de Intervenciones Estratégicas en Salud Pública
+Director General
+GUSTAVO MARTÍN ROSELL DE ALMEIDA
+INSTITUTO NACIONAL DE SALUD
+Jefe Institucional
+HANS DEMETRIO VÁSQUEZ SOPLOPUCO
+Subjefe Institucional
+MANUEL CATACORA VILLASANTE
+CENTRO NACIONAL DE ALIMENTACIÓN Y NUTRICIÓN
+Directora General
+NELLY MERCEDES ZAVALETA PIMENTEL
+Directora Ejecutiva de Prevención del Riesgo y Daño Nutricional
+PATRICIA VELARDE DELGADO
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+3
+
+4
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+5
+
+6
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+EQUIPO TÉCNICO RESPONSABLE DE LA ELABORACIÓN DEL DOCUMENTO TÉCNICO
+Mirko Luis Lázaro Serrano - Centro Nacional de Alimentación y Nutrición
+César Hugo Domínguez Curi - Centro Nacional de Alimentación y Nutrición
+PARTICIPARON EN LA EDICIÓN FINAL DEL DOCUMENTO TÉCNICO
+Rosa Elena Cruz Maldonado - Colegio de Nutricionistas del Perú
+Magaly Roxana Herrera Tello - Consejo Regional IV - Colegio de Nutricionistas del Perú
+Hillary Creed-Kanashiro - Instituto de Investigación Nutricional
+Lizette Ganoza Morón - Instituto de Investigación Nutricional
+Lita Palomares Estrada - Universidad Peruana Cayetano Heredia
+Fernando Castro Verástegui - FAO Perú
+Julie Mariaca Oblitas - Dirección General de Intervenciones Estratégicas del Ministerio
+de Salud
+Mirko Luis Lázaro Serrano - Centro Nacional de Alimentación y Nutrición
+César Hugo Domínguez Curi - Centro Nacional de Alimentación y Nutrición
+Nelly Zavaleta Pimentel - Centro Nacional de Alimentación y Nutrición
+Patricia Velarde Delgado - Centro Nacional de Alimentación y Nutrición
+Hans Demetrio Vásquez Soplopuco - Instituto Nacional de Salud
+María Inés Sánchez-Griñán Caballero - Ministerio de Salud
+Enrique Roberto Jacoby Martínez - Consultor del Ministerio de Salud
+ASISTENCIA TÉCNICA FAO INTERNACIONAL Y FAO PERÚ
+Verónika Molina - Consultora FAO Guías Alimentarias para América Latina
+Yenory Hernández Garbanzo - FAO Nutrition and Food Systems, Division ESN, Roma, Italia
+Israel Ríos Castillo, Oficina Subregional de la FAO para Mesoamérica
+María Elena Rojas - FAO Perú
+Fernando Castro Verástegui - FAO Perú
+PARTICIPARON EN LA REVISIÓN Y VALIDACIÓN TÉCNICA – Segundo panel
+María Luisa Cairampoma Gago - Ministerio de Salud
+Juan Del Canto y Dorador - Ministerio de Salud
+Lily Rocío Alva Tarazona - Ministerio de Salud
+Marisol Borda Belizario - Ministerio de Salud
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+7
+
+Jorge Arturo Hancco Saavedra - Ministerio de Salud
+Hugo Navarro Moscoso - Ministerio de Salud
+Rosa Elena Cruz Maldonado - Ministerio de Salud
+Julie Mariaca Oblitas - Ministerio de Salud
+Helen Nereyda Iñoñán Oyola - Ministerio de Agricultura y Riego
+Angel Durand Figallo - Ministerio de Agricultura y Riego
+Fernando Castro Verástegui - FAO Perú
+Gianina Pereira Pinedo - FAO Perú
+Roxana Maldonado Fernández - Sociedad Peruana de Nutrición
+Lita Palomares Estrada - Universidad Peruana Cayetano Heredia
+Claudia Ontaneda Mandujano - Universidad Peruana de Ciencias Aplicadas
+Ruth Palomino Santolalla - Universidad Peruana de Ciencias Aplicadas
+Rossina Pareja Torres - Instituto de Investigación Nutricional
+Evelyn Paán Quispe - Colegio de Nutricionistas del Perú
+Lucio Huamán Espino - Centro Nacional de Alimentación y Nutrición
+PARTICIPARON EN LA REVISIÓN Y VALIDACIÓN TÉCNICA – Primer panel
+Lady Pillaca Ogosi - Ministerio de Salud
+Oscar Boggio Nieto - Ministerio de Salud
+Virginia Solís Solís - Ministerio de Salud
+Concepción López Rey - Ministerio de Salud
+Julie Mariaca Oblitas - Ministerio de Salud
+Laura Anco Vara - Ministerio de Salud
+Rosa Peña Rosales - Ministerio de Educación
+Luis Antonio Bolaños De la Cruz -Ministerio de Educación
+Mirtha Salinas Bernal - Ministerio de Agricultura y Riego
+Nelly Zavaleta Pimentel - Instituto de Investigación Nutricional
+Hillary Creed-Kanashiro - Instituto de Investigación Nutricional
+Guiselle Karolyne Mendoza Roldán - Colegio de Nutricionistas del Perú
+Luzmila Troncoso Corzo -Sociedad Peruana de Nutrición
+María Del Pilar Cereceda Bujaico - Universidad Nacional Mayor de San Marcos
+Jeannette Díaz Novoa - Universidad Peruana de Ciencias Aplicadas
+
+8
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+PARTICIPARON EN LA REVISIÓN Y VALIDACIÓN A NIVEL REDES DE LIMA y DIRESAS
+Redes de Salud de Lima - Representantes de la Estrategia Sanitaria de
+Alimentación y Nutrición y Estrategia Sanitaria de Daños No Transmisibles
+Gloria Santos Yábar, Red de Lima Ciudad
+Ninfa Solórzano Cóndor, Red de Lima Ciudad
+Aurelia Mejía Ariza, Red de Lima Este
+Percy Escriba Quispe, Red de Lima Este
+Armando Romero Pisfil, Red de Salud Villa El Salvador - Lurín - Pachacamac - Pucusana
+Nuyen Espinoza Dionisio, Red de Salud San Juan de Miraflores - Villa María del Triunfo
+Yesenia Berrospi Guillén, Red de San Juan de Miraflores - Villa María del Triunfo
+Gloria Cabello López, Red de Salud Lima Norte IV
+Lizzet Sarmiento Ariza, Red de Salud Lima Norte IV
+Patricia Brito Saavedra, Red de Salud Túpac Amaru
+Asunta Huamán Cruz, Red de Salud Túpac Amaru
+Mario Estupiñán Torres, Red de Salud Rímac - San Martín - Los Olivos
+Meliza Marín Cabello, Red de Salud Rímac - San Martín - Los Olivos
+Dirección Regional de Salud Loreto - Representantes de la Estrategia Sanitaria de
+Alimentación y Nutrición, Estrategia Sanitaria de Daños No Transmisibles y Promoción
+de la Salud
+Jenny Esther Carrasco Montañez
+Wilder Arbildo Rojas
+Patricia Milagros Padilla Barbarán
+Graciela Giovanna García Córdova
+Idely Yahuarcani Arirama
+Elvia Betty Malafaya Rivera
+César Luis Bardales Gonzáles
+Maribel Correa Cajachagua
+Atenas López Ríos
+Debora Del Carmen Alvarado Alvarado
+Henry Daza Grandez Paula
+Rosa Chumpitaz Magipo
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+9
+
+Dirección Regional de Salud Junín - Representantes de la Estrategia Sanitaria de
+Alimentación y Nutrición Saludable, Estrategia Sanitaria de Daños No Transmisibles y
+Promoción de la Salud
+Willians Aguilar Quispe
+Yoleni Reyes Castañeda
+Jhony Chuquillanqui Anglas
+Yolanda Lily Velásquez Zevallos
+Leydi Medalit Linares Manrique
+Edy Caja Taipe
+Katty Geanina Gavino Samaniego
+Elizabeth Julia Mávila Morales
+Janeth Ivonne Gordillo Inostroza
+Angélica Panez Vila
+María Porras Aliaga
+Silvia Villegas Lazo
+Yraida Claudia Camarena Anchiraico
+Carmen Rosa Lozano Buendía
+Andrea Del Carmen Campos Alfaro
+PARTICIPARON EN LA VALIDACIÓN DE CAMPO DE MENSAJES DEL
+DOCUMENTO TÉCNICO
+César Hugo Domínguez Curi - Centro Nacional de Alimentación y Nutrición
+Rosa Victoria Salvatierra Ruiz - Centro Nacional de Alimentación y Nutrición
+Carmen Toyama Valladares Escobedo - Centro Nacional de Alimentación y Nutrición
+Luisa Amelia De La Zota Ángeles - Centro Nacional de Alimentación y Nutrición
+Mirko Luis Lázaro Serrano - Centro Nacional de Alimentación y Nutrición
+AGRADECIMIENTOS ESPECIALES
+A los niños, adolescentes, jóvenes, adultos y adultos mayores que participaron en los
+aproximadamente 60 grupos focales realizados en Lima, Lambayeque, Ayacucho, Cusco y
+Loreto.
+Al equipo de comunicadores, sociólogos y educadores que realizaron los talleres y grupos
+focales para la validación con la población.
+
+Si por algún acto involuntario en la presente lista se omitió a
+alguna persona o institución que contribuyó en la elaboración del documento,
+ofrecemos de antemano nuestras más sinceras disculpas.
+10
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+Índice
+Introducción
+
+13
+
+1. Aspectos generales
+
+15
+
+Finalidad
+
+15
+
+Objetivo
+
+15
+
+Ámbito de aplicación
+
+15
+
+Base legal
+
+15
+
+Responsabilidad
+
+16
+
+2. Principios para la elaboración de las guías alimentarias para la
+población peruana
+3. Mensajes para una alimentación saludable
+Temática A: Prefiere y elige alimentos naturales como la base
+
+17
+23
+23
+
+de tu alimentación y evita los alimentos ultra-procesados
+Temática B: Prepara comidas y platos con alimentos naturales,
+
+23
+
+y recurre a la rica y variada tradición culinaria del Perú
+Temática C: Practica un estilo de vida saludable
+
+23
+
+Gráfica Alimentaria
+
+36
+
+Anexos:
+Anexo 1 Recetas saludables y variadas
+
+37
+
+Anexo 2 Conceptos básicos
+
+45
+
+Bibliografía
+
+50
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+11
+
+12
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+Introducción
+Las Guías Alimentarias, tienen el propósito
+
+chatarra, lista para consumirse a toda hora.
+
+de orientar a las y los peruanos sobre temas
+
+Estos nuevos patrones de alimentación, han
+
+relacionados a la alimentación y nutrición,
+
+ocasionado un incremento del sobrepeso
+
+promoviendo hábitos de alimentación y
+
+y la obesidad en las últimas dos décadas,
+
+estilos de vida saludables para una vida plena
+
+siendo un problema en todos los grupos
+
+y libre de enfermedades. Buscan además
+
+poblacionales, ocasionando enfermedades
+
+crear un encuentro entre los conocimientos
+
+asociadas al sobrepeso, como son la
+
+científicos actuales, la realidad alimentaria
+
+diabetes, enfermedades cardio-vasculares,
+
+del Perú y las valiosas tradiciones culinarias
+
+hipertensión arterial y varios cánceres.
+
+de nuestro país.
+En este contexto, nuestro país ha aprobado
+Esta fusión de conocimiento científico
+
+diversas normas legales1,2,3 con el objetivo
+
+y popular, requiere también dar soporte
+
+de garantizar, proteger y promover una
+
+a
+
+alimentación
+
+políticas
+
+públicas
+
+de
+
+producción,
+
+saludable,
+
+principalmente
+
+distribución y acceso de los peruanos y
+
+a los niños, niñas y adolescentes. En ese
+
+peruanas a una gran diversidad de alimentos
+
+sentido, y con la finalidad de continuar,
+
+locales. La alimentación saludable comienza
+
+brindando información a la población sobre
+
+con la disponibilidad y acceso a alimentos
+
+opciones de alimentos y alternativas de
+
+naturales variados y de calidad. Por este
+
+preparaciones y combinaciones saludables
+
+motivo,
+
+son
+
+que ayuden a mantener un estado de
+
+también un instrumento para promover la
+
+salud óptimo y contribuyan a la prevención
+
+implementación de políticas públicas de
+
+de enfermedades el Centro Nacional de
+
+seguridad alimentaria y de agricultura.
+
+Alimentación
+
+estas
+
+Guías
+
+alimentarias
+
+y
+
+Nutrición
+
+del
+
+Instituto
+
+Nacional de Salud ha elaborado las Guías
+En el Perú coexisten la malnutrición por
+
+Alimentarias para la población peruana.
+
+déficit que se manifiesta en desnutrición
+y anemia especialmente en los niños y
+
+El proceso de elaboración de las Guías
+
+gestantes, y la malnutrición por exceso
+
+ha
+
+debido
+
+comprendido
+
+la
+
+participación
+
+representantes
+
+de
+
+alto contenido energético y bajo valor
+
+instituciones
+
+académicas,
+
+nutricional, por la creciente popularidad
+
+profesionales, instituciones que realizan
+
+de la comida industrial, conocida también
+
+investigación en alimentación y nutrición,
+
+como comida ultra procesada o comida
+
+así como la asistencia técnica internacional
+
+al
+
+consumo
+
+de
+
+alimentos
+
+de
+
+entidades
+
+de
+
+públicas,
+colegios
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+13
+
+de la Organización de las Naciones Unidas
+
+Este proceso converge con otros esfuerzos
+
+para la Alimentación y Nutrición (FAO). En
+
+que se han realizado en los últimos años, la
+
+la elaboración de las Guías se ha priorizado
+
+promulgación de la Ley No. 30021 “Ley de
+
+los principales problemas de malnutrición
+
+Promoción de la Alimentación Saludable
+
+y problemas de salud asociados a la
+
+para
+
+nutrición de la población peruana, brindando
+
+así como el Reglamento de la Ley Nº
+
+recomendaciones y mensajes educativos.
+
+30021 y la aprobación del Manual de
+
+Niños,
+
+Niñas
+
+y
+
+Adolescentes”;
+
+Advertencias Publicitarias y su próxima
+Asimismo, indicamos que la elaboración
+
+aplicación de etiquetas de advertencia que
+
+de estas guías está basada en el derecho
+
+ayuden al público a identificar productos
+
+a la alimentación, como derecho humano,
+
+empaquetados industriales con altos niveles
+
+adoptado
+
+de azúcar, grasa y sal y contenidos de grasa
+
+por
+
+el
+
+Perú
+
+en
+
+acuerdos
+
+internacionales suscritos para alcanzar la
+
+trans.
+
+seguridad alimentaria y nutricional, a fin de
+que las personas, familias y comunidades
+
+Tenemos la convicción que el presente
+
+tengan acceso físico y económico, en todo
+
+documento contribuirá a las acciones de
+
+momento, a una alimentación adecuada y
+
+promoción de una alimentación saludable
+
+suficiente, que corresponda a las tradiciones
+
+para
+
+culturales de la población .
+
+nutricionales teniendo como enfoque una
+
+4
+
+la
+
+prevención
+
+de
+
+los
+
+problemas
+
+alimentación basada en alimentos naturales,
+De la misma manera, es necesario destacar
+
+que respeta nuestra cultura culinaria y
+
+que las Guías alimentarias han tomado en
+
+diversidad alimentaria.
+
+cuenta el aporte invalorable de niños y niñas,
+adolescentes, jóvenes, adultos y adultos
+mayores peruanos de diversas regiones del
+país, que contribuyeron con su opinión para
+la elaboración final de los mensajes claves
+para una alimentación saludable.
+
+14
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+1. Aspectos Generales
+Finalidad
+Contribuir
+
+a
+
+Ámbito de aplicación
+alimentación
+
+El presente Documento Técnico es de
+
+de la población peruana y con ello al
+
+mejorar
+
+la
+
+aplicación en todos los establecimientos
+
+mantenimiento y la mejora de su estado de
+
+de salud y servicios médicos de apoyo
+
+salud y nutrición.
+
+del Ministerio de Salud, de los Gobiernos
+Regionales (Dirección Regional de Salud
+
+Objetivos
+
+- DIRESA, Gerencia Regional de Salud GERESA o las que hagan sus veces en el
+
+• Establecer
+
+principios
+
+para
+
+una
+
+ámbito regional), de los Gobiernos Locales,
+
+alimentación saludable en la población
+
+del Seguro Social de Salud - EsSalud, de las
+
+peruana mayor de dos años de edad.
+
+Sanidades de las Fuerzas Armadas, de la
+
+• Establecer mensajes educativos claves
+sobre
+
+alimentación
+
+saludable
+
+Sanidad de la Policía Nacional del Perú, de
+
+que
+
+los establecimientos de salud privados; y,
+
+contribuyan a mejorar la alimentación y
+
+otros prestadores que brinden atenciones de
+
+nutrición de la población peruana mayor
+
+salud en todo el país, en sus actividades de
+
+de dos años de edad.
+
+atención integral de la salud, de promoción
+de la salud, intramurales o extramurales,
+según
+
+corresponda.
+
+Puede
+
+servir
+
+de
+
+referencia para los sectores que forman
+
+La promoción de la
+alimentación saludable
+es una estrategia
+fundamental en la
+protección de la salud de
+la familia peruana.
+
+parte de la Estrategia Nacional de Seguridad
+Alimentaria y Nutricional en el marco de
+lo dispuesto en el Decreto Supremo Nº
+021-2013-MINAGRI.
+
+Base legal
+• Ley Nº 26842, Ley General de Salud y sus
+modificatorias.
+• Ley N° 30021, Ley de Promoción de la
+Alimentación Saludable para Niños, Niñas
+y Adolescentes.
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+15
+
+• Decreto Legislativo Nº 1161, Ley de
+
+• Resolución Ministerial Nº 850-2016-SA,
+
+Organización y Funciones del Ministerio
+
+que aprueba el documento denominado
+
+de Salud.
+
+“Normas
+
+• Decreto Supremo N° 021-2013-MINAGRI,
+que aprobó la Estrategia Nacional de
+
+para
+
+la
+
+Elaboración
+
+de
+
+Documentos Normativos del Ministerio de
+Salud”.
+
+Seguridad Alimentaria y Nutricional 2013
+- 2021.
+• Decreto Supremo N° 008-2015-MINAGRI,
+que aprobó el Plan Nacional de Seguridad
+Alimentaria y Nutricional 2015-2021.
+
+Responsabilidad
+Nivel nacional
+
+• Decreto Supremo Nº 008-2017-SA, que
+
+El Ministerio de Salud, a través de la Dirección
+
+aprobó el Reglamento de Organización y
+
+de Promoción de la Salud de la Dirección
+
+Funciones del Ministerio de Salud y sus
+
+General de Intervenciones Estratégicas en
+
+modificatorias.
+
+Salud Pública, en coordinación con el Centro
+
+• Decreto Supremo N° 017-2017-SA, que
+
+Nacional de Alimentación y Nutrición del
+
+aprobó el Reglamento de la Ley N° 30021,
+
+Instituto Nacional de Salud, son responsables
+
+Ley de Promoción de la Alimentación
+
+de la difusión del presente Documento
+
+Saludable.
+
+Técnico. Estas instancias, en el marco de
+
+• Decreto Supremo N° 012-2018-SA, que
+aprobó
+
+el
+
+Manual
+
+de
+
+Advertencias
+
+Publicitarias en el marco de la Ley
+N° 30021, Ley de Promoción de la
+
+sus competencias, son responsables de la
+asistencia técnica, supervisión y evaluación
+del presente Documento Técnico.
+
+Alimentación Saludable para Niños, Niñas
+
+Nivel regional
+
+y Adolescentes y su Reglamento aprobado
+
+La DIRESA/GERESA o las que hagan sus
+
+con Decreto Supremo N° 017-2017-SA.
+
+veces en el ámbito regional son responsables
+
+• Resolución Ministerial N° 209-2015-MINSA,
+
+de la difusión y asistencia técnica en sus
+
+que
+
+aprobó
+
+el
+
+Documento
+
+Técnico:
+
+Gestión para la Promoción de Actividad
+Física para la Salud.
+• Resolución Ministerial N° 229-2016-MINSA,
+
+jurisdicciones respectivas.
+
+Nivel local
+Los
+
+establecimientos
+
+de
+
+salud
+
+son
+
+Técnico:
+
+responsables de implementar y difundir
+
+Lineamientos de Políticas y Estrategias
+
+los contenidos del documento técnico en
+
+para
+
+de
+
+el ámbito de su competencia, en el marco
+
+Enfermedades No Transmisibles (ENT)
+
+de las acciones de educación nutricional
+
+2016-2020.
+
+dirigidas a la población.
+
+que
+
+16
+
+aprobó
+la
+
+el
+
+Documento
+
+Prevención
+
+y
+
+Control
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+2. Principios para la elaboración de las
+guías alimentarias para la población
+peruana
+El presente documento se sustenta tomando
+
+Cultura culinaria y diversidad
+
+en cuenta los siguientes principios:
+Nuestro país cuenta con una gran diversidad
+
+Alimentación adecuada y
+suficiente
+
+alimentaria que tiene como base los
+alimentos en su estado natural producidos
+en los diferentes pisos ecológicos del
+
+En correspondencia con las tradiciones
+
+país, práctica que proviene desde épocas
+
+culturales de la población, para brindar
+
+prehispánicas,
+
+información a la población sobre opciones
+
+con alimentos traídos de otras regiones
+
+de alimentos y alternativas de preparaciones
+
+del mundo. En términos de la culinaria,
+
+y combinaciones saludables, y así puedan
+
+esto implica el desarrollo de saberes y
+
+mantener un estado de salud óptimo y
+
+tecnologías para la domesticación de una
+
+saludable.
+
+amplia gama de insumos alimentarios;
+
+la
+
+cual
+
+se
+
+enriqueció
+
+la conservación, el procesamiento y la
+distribución. Todo este desarrollo, a su vez,
+se expresó en la creación de preparaciones
+
+Nuestra cocina
+aprovecha la diversidad
+de alimentos naturales
+que tenemos a
+disposición, provenientes
+de todo el territorio
+nacional.
+
+específicas, las formas de presentación,
+los hábitos y ocasiones de consumo
+ritualizadas, aportando de esta manera
+a la diversidad como característica de la
+culinaria peruana.
+Esta
+
+cultura
+
+culinaria
+
+hace
+
+que
+
+las
+
+prácticas alimentarias en el Perú se
+reconozcan como elementos centrales de
+la vida cotidiana y pública de la población,
+ya que expresan: 1) identidad y diversidad
+cultural; 2) técnicas y saberes tradicionales
+que contribuyen a la creación de texturas
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+17
+
+CAPÍTULO 2
+
+y
+
+sabores
+
+distintivos
+
+de
+
+recetas
+
+de
+
+identificación regional o nacional; 3) una
+
+para constituir una identidad nacional que
+se reconozca en la diversidad.
+
+oportunidad para el espacio familiar, de
+encuentro y de identidad local o regional,
+
+En ese contexto, el Estado peruano orienta
+
+en especial para poblaciones migrantes del
+
+a la población a una mejor elección de
+
+país, que residen en los centros urbanos
+
+alimentos propios de su cultura5, teniendo
+
+más importantes del país, y 4) la comida
+
+como marco de referencia nuestra diversidad
+
+es percibida por los peruanos y peruanas
+
+alimentaria y la cultura culinaria nacional,
+
+de los distintos lugares del territorio y
+
+regional o local, la misma que es necesario
+
+por aquellos que residen en el extranjero,
+
+mantenerla apelando al uso de alimentos
+
+como recurso importante para insertarse
+
+naturales en las preparaciones realizadas
+
+en el mundo global, pero sobre todo, para
+
+por las familias peruanas.
+
+proyectar una imagen nacional positiva y
+
+18
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+PRINCIPIOS
+
+Comensalidad
+
+Hoy es necesario revalorar la práctica de
+comer nuestros alimentos junto con nuestra
+las
+
+familia, amigos o compañeros de trabajo, una
+
+manifestaciones más características de la
+
+práctica que debe rescatarse pues influye en
+
+sociedad humana: los humanos tendemos
+
+el disfrute y la felicidad7, mientras que comer
+
+a comer en grupo. Esta ha sido una
+
+sólo se asocia con emociones negativas
+
+práctica social desde que el ser humano
+
+como la soledad y el aburrimiento8,9,10,11
+
+existe y ha devenido en un ritual familiar y
+
+sin hacernos conscientes de qué y cuánto
+
+cultural. Sin embargo, la vida moderna, en
+
+ingerimos.
+
+Comer
+
+en
+
+compañía,
+
+es
+
+una
+
+de
+
+el último medio siglo, ha generado nuevas
+demandas laborales a los miembros de la
+familia, necesidad de desplazarse grandes
+distancias en ciudades y la adopción de
+
+La alimentación es un
+proceso social y cultural,
+no solo biológico
+
+diversos instrumentos tecnológicos, que en
+conjunto han favorecido la práctica de comer
+
+La acción de comer se presenta como un
+
+6
+
+a solas, alguna o todas las comidas del día ;
+
+hecho “biológico” y natural. El hecho que
+
+y en muchos de los casos acompañar el
+
+necesitemos comer, y que para ello, hoy
+
+momento de la comida, con la televisión, la
+
+y en el pasado, los humanos tratemos de
+
+computadora o el celular.
+
+procurarnos
+
+alimentos
+
+según
+
+nuestras
+
+necesidades y preferencias, parece algo
+evidente que no merece reflexión. Sin
+
+Comer en compañía,
+promueve hábitos
+más saludables
+y reduce la
+probabilidad
+de padecer de
+sobrepeso.
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+19
+
+CAPÍTULO 2
+
+embargo, hoy entendemos la alimentación
+
+En
+
+como un proceso que va más allá de la
+
+configura como un comportamiento no sólo
+
+ese
+
+contexto,
+
+la
+
+alimentación
+
+se
+
+ingesta de nutrientes, pues se trata de un
+
+biológico, sino también social. La evidencia
+
+fenómeno complejo y multidimensional.
+
+demuestra que el aspecto social influye
+sobre la elección alimentaria y la ingesta
+
+Diversos factores influyen en las elecciones
+
+de alimentos, lo cual puede ser utilizado en
+
+alimentarias, entre los que cabe destacar los
+
+la promoción de cambios saludables en el
+
+biológicos, tales como el hambre, el apetito y
+
+comportamiento alimentario13.
+
+el gusto; los económicos, tales como el costo,
+los ingresos y la accesibilidad a los diferentes
+
+Los problemas alimentarios en nuestro
+
+tipos de alimentos; los sociales, tales como
+
+país
+
+la cultura, la religión, la familia, los estilos
+
+fenómenos sociales vinculados con la
+
+de vida; los que se derivan del tipo y grado
+
+escasez, la abundancia y la globalización,
+
+de conocimientos y/o habilidades relativas
+
+lo cual ofrece pautas que unifican los
+
+a los alimentos en general y a la cocina en
+
+hábitos
+
+particular; los psicológicos, circunstancias
+
+alimentaria14. Por ello, aunque se divulgan
+
+como el carácter o el estrés; y las actitudes,
+
+prácticas
+
+creencias,
+
+siendo la mayoría de ellas socialmente
+
+valores
+
+y
+
+conocimientos
+
+general12.
+
+en
+
+se
+
+encuentran
+
+y
+
+ofrece
+
+relacionados
+
+una
+
+alimentarias
+
+a
+
+homogeneidad
+saludables,
+
+aceptadas, es necesario reforzar el énfasis
+en la relación entre la alimentación y la
+
+Una alimentación
+saludable no sólo
+brinda beneficios
+estéticos, sino,
+que reduce el
+riesgo de sufrir
+enfermedades.
+20
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+La agricultura familiar es
+amigable con los ecosistemas,
+y aprovecha su riqueza natural
+para ofrecer gran variedad
+de alimentos.
+
+salud, vinculando las recomendaciones
+
+Asimismo, resaltar la contribución de la
+
+alimentarias con la prevención de problemas
+
+agricultura familiar, la misma que hace
+
+como la desnutrición y la deficiencia de
+
+énfasis en quienes producen y abastecen de
+
+micronutrientes,
+
+el
+
+alimentos naturales a la población, ofreciendo
+
+sobrepeso y la obesidad, estos últimos
+
+coexistentes
+
+la oportunidad de acceder a ellos para una
+
+directamente
+
+alimentación saludable de las familias.
+
+relacionados
+
+con
+con
+
+las
+
+enfermedades no transmisibles.
+
+Biodiversidad y agricultura
+familiar15
+
+Alimentación basada en
+alimentos naturales o
+mínimamente procesados
+
+La biodiversidad de nuestro territorio ha
+
+Es
+
+brindado a nuestra nación el reconocimiento
+
+del consumo de alimentos en su estado
+
+como uno de los diecisiete países llamados
+
+natural, y que estos sean la base de una
+
+mega diversos, por ser poseedores en
+
+alimentación saludable en la población,
+
+conjunto de más del 70% de la biodiversidad
+
+en un contexto de nuestra diversidad
+
+del planeta, lo que continúa contribuyendo al
+
+alimentaria y la cultura culinaria.
+
+necesario
+
+destacar
+
+la
+
+importancia
+
+desarrollo y la sostenibilidad mundial16.
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+21
+
+22
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+3. Mensajes para una alimentación
+saludable
+Para brindar a la población información
+
+ultra-procesados como bebidas gaseosas,
+
+que contribuya a la adopción de nuevas
+
+jugos
+
+prácticas
+
+yogures azucarados y con colorantes, papas
+
+de
+
+alimentación
+
+saludable
+
+y
+
+a la mejora de su estado nutricional, se
+proponen
+
+doce
+
+mensajes,
+
+que
+
+de
+
+frutas
+
+azucarados
+
+envasados,
+
+fritas envasadas, entre otros.
+
+toman
+
+en cuenta: 1) elegir alimentos naturales
+como la base de la alimentación; 2) evitar
+
+Temática B:
+
+alimentos procesados y ultra-procesados
+
+mensajes están divididos en tres temáticas
+
+Prepara comidas y platos con
+alimentos naturales, y recurre
+a la rica y variada tradición
+culinaria del Perú.
+
+de la siguiente manera:
+
+Conjunto de mensajes que promueven la
+
+para prevenir enfermedades; y 3) practicar
+un estilo de vida saludable. Así, los
+
+comida casera y preparaciones culinarias
+tradicionales, que se adaptan perfectamente
+
+Temática A:
+
+a una cocina que al mismo tiempo es
+
+Prefiere
+y
+elige
+alimentos
+naturales como la base de
+tu alimentación y evita los
+alimentos ultra-procesados.
+
+saludable y sabrosa.
+
+Conjunto de mensajes que promueven la
+elección y consumo de alimentos naturales
+
+Practica un
+saludable.
+
+como: frutas, vegetales, menestras, carnes,
+
+Conjunto
+
+leche y cereales que son ricos en fibra, hierro
+
+prácticas como beber agua, hacer ejercicio
+
+y diversos minerales y nutrientes. Asimismo,
+
+cotidianamente, evitar permanecer largas
+
+se recomienda consumir con moderación los
+
+horas sentado y mantener una actitud crítica
+
+alimentos procesados como quesos, pan,
+
+a la publicidad de comidas y bebidas ultra-
+
+mermeladas o jamones, entre otros, por cuanto
+
+procesadas.
+
+Temática C:
+de
+
+estilo
+
+mensajes
+
+de
+
+que
+
+vida
+
+describen
+
+contienen cantidades elevadas de sal o azúcar.
+Del mismo modo, se sugiere evitar alimentos
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+23
+
+CAPÍTULO 3
+
+Prefiere y elige alimentos naturales como
+la base de tu alimentación y evita los
+alimentos ultra-procesados
+Mensaje 1
+Elige y disfruta todos los días
+de la variedad de
+alimentos naturales
+disponibles en tu localidad
+
+que
+
+estos
+
+alimentos
+
+reemplacen
+
+las
+
+preparaciones caseras a ser consumidas
+por las familias.
+Es recomendable que los ingredientes
+culinarios como el aceite, azúcar y sal, sean
+
+El Perú, en el ámbito internacional, es
+
+usados con moderación. Asimismo, se
+
+reconocido como una despensa natural
+
+recomienda emplear ingredientes culinarios
+
+de alimentos únicos en calidad y sabor,
+
+de origen natural, como los ajíes, hierbas
+
+los mismos que preparados de manera
+
+aromáticas, pimienta, cominos, ajos, entre
+
+saludable constituyen la base de una
+
+otros, que pueden ser utilizados a gusto del
+
+dieta que contiene todas las propiedades
+
+comensal.
+
+saludables del alimento, permitiendo de esta
+
+.
+
+manera cubrir las necesidades nutricionales
+del organismo, previniendo la desnutrición,
+sobrepeso/obesidad
+
+y
+
+enfermedades
+
+asociadas
+
+las
+
+enfermedades
+
+como
+
+cardiovasculares,
+
+hipertensión,
+
+diabetes
+
+entre otras; en ese sentido, la elección de
+alimentos frescos y naturales propios de
+la región se convierte en la base de una
+alimentación saludable
+
+y culturalmente
+
+apropiada.
+Por tal motivo, es recomendable consumir
+alimentos naturales en lugar de alimentos
+ultra procesados que contienen excesivas
+cantidades de sodio, azúcar, grasa saturada
+
+Consejos prácticos:
+• Prepara tus comidas con
+alimentos naturales y
+disponibles en tu localidad.
+• Consume comidas locales
+preparadas de manera
+saludable.
+• Disfruta de nuestra
+gastronomía sin exagerar en
+sus cantidades.
+• Si comes fuera de casa,
+busca un menú casero o
+comida tradicional.
+
+y grasa trans. Asimismo, se debe evitar
+
+24
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+Mensaje 2
+Reduce el consumo de
+alimentos procesados
+para proteger tu salud.
+Los alimentos procesados son aquellos
+elaborados de manera artesanal o industrial,
+a partir de alimentos en estado natural. Para
+su elaboración se añade sal, azúcar, aceite
+u otras sustancias de uso culinario, con
+el propósito de hacerlos durables y más
+agradables al paladar. En su preparación se
+utilizan diferentes procedimientos, entre los
+
+Consejos prácticos:
+• Elige alimentos que tengan
+un menor contenido de
+azúcar y sal. Revisa las
+etiquetas.
+• Evita consumir diariamente
+alimentos procesados.
+• Cuando consumas alimentos
+procesados, come en
+porciones pequeñas.
+
+cuales destacan la cocción, el secado o la
+fermentación no alcohólica, como el caso de
+los panes, el queso y el yogur.
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+25
+
+CAPÍTULO 3
+
+Mensaje 3
+Protege tu salud evitando
+el consumo de alimentos
+ultra-procesados.
+
+a partir de materias orgánicas, como derivados de petróleo y carbón (colorantes,
+aromatizantes, resaltadores de sabor y diversos tipos de aditivos usados para dotar
+a los productos de propiedades sensoriales
+
+Los alimentos ultra procesados son formu-
+
+atractivas).
+
+laciones industriales fabricadas íntegra o
+mayormente con sustancias extraídas de
+
+Son ejemplos de este tipo de alimentos, las
+
+alimentos (aceites, grasas, azúcar, almidón,
+
+bebidas gaseosas endulzadas, jugos de fru-
+
+proteínas), derivadas de constituyentes de
+
+tas embotellados, panes empaquetados, go-
+
+alimentos (grasas hidrogenadas, almidón
+
+losinas, queques empaquetados, la mayoría
+
+modificado) o sintetizadas en laboratorios
+
+de galletas dulces y saladas, comidas para
+preparar en microondas,
+
+Consejos prácticos:
+• Al preparar la lonchera de tus
+hijos, evita los productos ultra
+procesados como embutidos,
+galletas rellenas y bocaditos
+dulces o salados envasados.
+• Es aconsejable no consumir
+mayonesa y otras cremas
+o salsas envasadas con tus
+alimentos, porque contienen
+altos contenidos de sal,
+grasas saturadas y grasas
+trans.
+• Es recomendable disminuir
+el consumo de pasteles y
+queques ultra procesados, por
+su alto contenido de grasas y
+azúcares.
+• Evita bebidas azucaradas
+envasadas y consume agua
+natural.
+
+26
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+Prepara comidas y platos con alimentos
+naturales, y recurre a la rica y variada
+tradición culinaria del Perú.
+Mensaje 4
+Pon color y salud en tu vida,
+consumiendo diariamente
+frutas y verduras.
+
+Considerando
+
+estos
+
+beneficios,
+
+la
+
+Organización Mundial de la Salud (OMS)
+recomienda
+
+consumir
+
+diariamente
+
+un
+
+mínimo de 400 gramos de frutas y verduras20.
+Resulta importante que toda tu familia
+
+Las frutas y verduras contienen vitaminas,
+
+acompañe cada comida con una porción
+
+minerales y otros componentes esenciales
+
+de fruta y verduras de colores variados. Es
+
+para el buen funcionamiento de nuestro
+
+preciso señalar que es preferible evitar las
+
+cuerpo y la prevención de enfermedades.
+
+frutas o verduras envasadas, pues suelen
+
+Asimismo, las frutas y verduras contribuyen
+
+contener preservantes, añadidos de azúcar,
+
+a prevenir el sobrepeso, reduciendo el riesgo
+
+aceite y/o sal.
+
+de sufrir enfermedades cardiovasculares,
+hipertensión, diabetes y diversos tipos
+de cáncer, claramente asociados a esa
+condición17,18,19.
+
+Cantidad recomendada
+
+400 gramos de verduras y frutas al día
+
+MEDIO PLATO
+de verduras en el
+ALMUERZO
+
++
+
++
+
+MEDIO PLATO
+de verduras en la
+CENA
+
++
+
+TRES FRUTAS durante el DÍA
+
+Consejos prácticos:
+• Cuando vayas de compras,
+elige frutas y verduras
+de distintos colores, y de
+preferencia, de la estación.
+• Acompaña tu almuerzo y
+tu cena con ensaladas de
+verduras frescas o cocidas.
+• Anímate a añadir una fruta en
+tu desayuno, almuerzo y cena.
+• Lava bien las frutas y verduras
+antes de consumirlas.
+• Anímate a probar frutas y
+verduras que usualmente no
+consumes.
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+27
+
+CAPÍTULO 3
+
+Mensaje 5
+Fortalece tu cuerpo y mente,
+comiendo diariamente un
+alimento de origen animal, como
+carnes, vísceras, sangrecita,
+pescado, huevos y lácteos.
+
+período de lactancia, que son más propensos
+a la anemia. En este sentido, cabe resaltar que
+la sangrecita y las vísceras como el hígado,
+el corazón, el bazo, y el riñón, son excelentes
+fuentes de hierro.
+Del mismo modo, cabe destacar que el
+
+Los alimentos de origen animal ayudan a la
+
+pescado, gracias a su aporte de ácidos grasos
+
+formación, crecimiento y mantenimiento de
+
+omega-3, contribuye a la disminución del
+
+tu cuerpo, pues contienen proteínas de alto
+
+riesgo cardiovascular21,22,23 por lo cual resulta
+
+valor biológico, que son esenciales para la
+
+recomendable integrarlo a la dieta familiar
+
+construcción y reparación de los tejidos del
+
+dos veces a más a la semana, aprovechando
+
+organismo; y micronutrientes, como vitamina
+
+que en nuestro país existe gran variedad y
+
+A, vitamina D y vitaminas del complejo B;
+
+disponibilidad en todas las regiones.
+
+y minerales como el hierro y el zinc, que
+previenen la anemia y contribuyen al desarrollo
+
+Así también, el huevo resulta un alimento
+
+de nuestras defensas contra las enfermedades.
+
+importante por el aporte de proteína de
+alto
+
+valor
+
+biológico
+
+que
+
+contribuye
+
+al
+
+y
+
+mantenimiento de un buen estado nutricional,
+
+recomendable en todos los grupos de edad,
+
+así como al crecimiento y desarrollo en niños,
+
+sobre todo en el caso de los niños, mujeres
+
+adolescentes y gestantes. Los lácteos son
+
+adolescentes, mujeres embarazadas o en
+
+también una fuente de proteínas y calcio24.
+
+Así,
+
+su
+
+consumo
+
+resulta
+
+saludable
+
+Consejos prácticos:
+• Consume
+carnes
+rojas,
+vísceras o sangrecita al menos
+tres veces por semana.
+• Consume menos frituras.
+En
+su
+lugar,
+prefiere
+preparaciones guisadas, a la
+plancha, al horno o al vapor.
+• Consume pescado al menos
+dos veces por semana.
+• Consume carne de aves,
+
+28
+
+como pollo, pavo y pavita, u
+otras, como cuy o conejo, dos
+veces por semana.
+• Antes de cocinar, retira la grasa
+visible de las carnes rojas, y el
+pellejo de las aves.
+• Puedes consumir un huevo al
+día, de preferencia sancochado.
+• Consume leche, queso y yogur
+naturales para fortalecer tus
+huesos y tus dientes.
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+MENSAJES PARA UNA ALIMENTACIÓN SALUDABLE
+
+Mensaje 6
+Que no te falten las menestras; son sabrosas, muy saludables y se
+pueden preparar de muchas formas.
+Las menestras, como las lentejas, los
+
+Su consumo resulta saludable y recomendable
+
+frijoles, las arvejas, las habas, los pallares,
+
+para que forme parte integral de nuestra
+
+garbanzos entre otros, constituyen una
+
+dieta regular en todos los grupos de edad,
+
+buena fuente de proteína de origen vegetal y
+
+sobre todo para las personas con actividad
+
+en combinación con los cereales de la dieta
+
+física intensa, los adolescentes en edad
+
+cotidiana, aportan aminoácidos esenciales a
+
+de crecimiento, las gestantes y lactantes,
+
+nuestro organismo. Además, las menestras
+
+así como los adultos mayores. Además,
+
+contienen fibra, vitaminas y minerales. Del
+
+contribuye a la prevención y control de la
+
+mismo modo, son fuente de carbohidratos
+
+presión alta y su consumo está asociado a un
+
+complejos que brindan energía25,26.
+
+menor riesgo de mortalidad por enfermedad
+cardiovascular27.
+
+Consejos prácticos:
+• Acompaña tu preparación
+de menestras con un
+cereal, como arroz o
+quinua, y puedes servirla
+con pequeñas porciones
+de alimento de origen
+animal, como carne, pollo,
+pescado, vísceras o huevo.
+• Agrega menestras a tus
+ensaladas.
+• Acompaña el consumo
+de menestras con frutas
+o jugos naturales ricos en
+vitamina C, como limonada.
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+29
+
+CAPÍTULO 3
+
+Mensaje 7
+Cuida tu salud; evita el
+sobrepeso disminuyendo el
+consumo de azúcares en
+tus comidas y bebidas.
+El consumo excesivo de azúcar contribuye
+al sobrepeso e incrementa el riesgo de sufrir
+enfermedades cardiovasculares, obesidad
+y diabetes28,29,3031,32. Según la Organización
+Mundial de la Salud (OMS) se ha comprobado
+que la ingesta de alimentos y bebidas ricos en
+azúcares puede ser una fuente importante de
+calorías innecesarias, para toda la población.
+Cabe resaltar que existen varios productos
+como
+
+gaseosas,
+
+jugos
+
+y
+
+refrescos
+
+azucarados, galletas, postres, entre otros que
+contienen cantidades excesivas de azúcar.
+
+30
+
+De acuerdo a la OMS, el consumo de azúcares
+se debería reducir a menos del 10% del total
+de energía33 que se necesita diariamente.
+Esto es equivalente a 10 cucharaditas al día.
+
+Consejos prácticos:
+• Acostúmbrate a disfrutar
+de infusiones y refrescos
+preparados en casa sin azúcar.
+• Reemplaza los postres,
+galletas rellenas, dulces
+envasados y tortas por frutas
+al natural.
+• Reemplaza las gaseosas, los
+jugos de fruta envasados y los
+jugos azucarados envasados,
+por agua o jugos naturales sin
+azúcar.
+• Al preparar la bebida para
+la lonchera de tus hijos,
+considera opciones saludables
+como agua, refrescos
+naturales a base de frutas,
+chicha morada, emolientes o
+infusiones, todos ellos, bajos
+en azúcar o sin azúcar.
+• La miel de abeja, la
+algarrobina y la chancaca
+contienen azúcar, modera su
+consumo.
+• Disfruta el sabor propio de los
+alimentos naturales y de tus
+preparaciones.
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+MENSAJES PARA UNA ALIMENTACIÓN SALUDABLE
+
+Proporción adecuada
+
+Mensaje 8
+Cuida tu peso consumiendo
+con moderación el arroz, el pan
+y los fideos.
+
+Plato de 21 cm.
+
+El consumo excesivo de estos productos
+contribuye al sobrepeso e incrementa el riesgo
+de sufrir enfermedades cardiovasculares y
+diabetes. Disminuye las porciones de estos
+alimentos.
+
+MEDIO PLATO
+de verduras
+
+UN CUARTO
+de cereales
+
+UN CUARTO de
+alimentos de origen animal
+
+Comemos como si
+fueramos a realizar
+un gran despliegue de
+energía física, y luego
+pasamos la mayor
+parte del día sentados
+en casa, en el centro
+de trabajo, en el
+colegio y/o en
+el transporte.
+
+.
+
+Consejos prácticos:
+• En el desayuno, puedes
+consumir hasta dos
+unidades de pan
+dependiendo de tu
+actividad física.
+• Consume arroz o fideos
+o pan en el almuerzo
+o la cena, no los tres
+alimentos a la vez.
+• Evita servirte el plato
+lleno o repetir, no son
+prácticas saludables.
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+31
+
+CAPÍTULO 3
+
+Mensaje 9
+Evita la presión alta,
+disminuyendo el uso de sal en
+tus comidas.
+El consumo excesivo de sal contribuye a
+la hipertensión, e incrementa el riesgo de
+padecer enfermedades cardiacas34,35.
+Debido a que la sal se constituye en la
+principal fuente de sodio en nuestra dieta,
+la Organización Mundial de la Salud (OMS)
+y la Organización de las Naciones Unidas
+para la Alimentación y la Agricultura (FAO)
+recomiendan reducir su consumo a menos
+de 5 g/día, lo que equivale a un consumo de
+sodio menor a 2 gramos al día. Cabe indicar
+que datos preliminares establecen que
+nuestro consumo promedio actual es de 7
+gramos diarios por persona, que es más alto
+
+Consejos prácticos:
+• Sazona tus preparaciones con
+ingredientes naturales como
+orégano, tomillo, romero,
+ajíes, entre otros, en lugar de
+sazonadores comerciales que
+tienen mucho sodio.
+• No agregues más sal a tus
+comidas al momento de
+consumirlas, retira el salero
+de tu mesa.
+• Reemplaza las sopas
+instantáneas, embutidos
+y bocaditos salados
+por alimentos frescos y
+preparaciones caseras.
+
+que las recomendaciones de la Organización
+Mundial de la Salud.
+
+La edad afecta
+el sentido del
+gusto, y muchas
+personas adoptan
+la costumbre de
+añadir sal a
+sus comidas.
+32
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+MENSAJES PARA UNA ALIMENTACIÓN SALUDABLE
+
+Practica un estilo de vida saludable
+Mensaje 10
+Mantente saludable
+tomando de 6 a 8 vasos
+de agua al día.
+
+Cabe resaltar que las personas que realizan
+
+El agua es indispensable para el buen
+
+La sensación de sed es un inicio de
+
+funcionamiento de nuestro organismo, y
+
+deshidratación. Por eso, es importante no
+
+dado que no se almacena en el cuerpo, es
+
+esperar a sentirla para tomar agua, por lo
+
+. Por ello, la
+
+que se recomienda planificar su consumo
+
+preciso reponerla durante el día
+
+más actividad física y aquellas que viven en
+ambientes cálidos, requieren de un mayor
+consumo de agua39.
+
+36,37
+
+Autoridad Europea de Seguridad Alimentaria
+
+38
+
+durante el día.
+
+recomienda el consumo diario de 2 a 2.5 litros
+de agua, aproximadamente de 6 a 8 vasos.
+Esta puede provenir de tres fuentes: agua
+pura, infusiones o jugos de frutas sin azúcar, y
+los alimentos que consumimos durante el día.
+
+Consejos prácticos:
+• Durante el día, toma al
+menos 4 vasos de agua
+pura. Los demás pueden
+ser infusiones, refrescos o
+jugos naturales sin azúcar.
+• Asegúrate que el agua que
+estás tomando sea segura.
+Es preferible tomar agua
+hervida.
+• No esperes a tener sed
+para tomar agua.
+• Recuerda incentivar el
+consumo de agua en
+el adulto mayor, ya que
+su sensación de sed se
+encuentra disminuida.
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+33
+
+CAPÍTULO 3
+
+Mensaje 11
+Mantén tu cuerpo y mente
+activos y alertas, realiza
+al menos 30 minutos de
+actividad física al día.
+
+Considerando
+
+La práctica regular de actividad física reduce
+
+Así, es importante que cada uno de los
+
+el riesgo de enfermedades cardiovasculares,
+
+miembros de la familia tenga una rutina de
+
+hipertensión, diabetes y diversos tipos de
+
+actividad física, sean niños, adolescentes,
+
+cáncer, contribuyendo al control adecuado
+
+jóvenes, adultos o adultos mayores.
+
+estos
+
+beneficios,
+
+recomienda mantener niveles adecuados de
+actividad física durante todas las etapas de
+vida.
+
+del peso. Del mismo modo, mejora el estado
+muscular y la función cardiorrespiratoria,
+así
+
+como
+
+la
+
+salud
+
+ósea
+
+y
+
+funcional.
+
+Adicionalmente, contribuye a disminuir el
+estrés, reduciendo los síntomas de depresión
+y ansiedad40,41.
+
+34
+
+la
+
+Organización Mundial de la Salud (OMS)
+
+Consejos prácticos:
+• Las tareas domésticas, como
+barrer, lavar, trapear o baldear,
+también pueden ser parte de
+tu rutina de actividad física.
+• Utiliza las escaleras en lugar
+del ascensor.
+• Procura tener una rutina de
+actividad física de 30 minutos
+o más, no hay necesidad de
+ir a un sitio en especial, por
+ejemplo: caminar, montar
+bicicleta, entre otros.
+• Promueve la práctica grupal
+de juegos, baile o deportes
+con tu familia y amigos.
+• Organízate con tus
+compañeros de oficina para
+realizar la “pausa activa” con
+ejercicios de estiramiento y
+movilidad.
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+MENSAJES PARA UNA ALIMENTACIÓN SALUDABLE
+
+Mensaje 12
+Prefiere preparaciones caseras y disfrútalas en compañía
+Nuestra cocina peruana ha alcanzado un
+
+ese sentido, si comes en la calle busca un
+
+amplio reconocimiento a nivel mundial al
+
+lugar de comida casera en lugar de comidas
+
+privilegiar el uso de alimentos locales, ser
+
+rápidas.
+
+sabrosa, revalorar un estilo de alimentación
+casera como una actividad trascendente para
+
+Está demostrado que el compartir las comidas
+
+el bienestar de hogares y familias. Por eso, es
+
+familiares tiene beneficios, como disminuir
+
+importante estimular que se cocine en casa,
+
+la
+
+y que entre los miembros de la familia se
+
+desórdenes
+
+promueva el aprendizaje de las preparaciones
+
+consumo
+
+caseras42, el disfrutar el momento de consumir
+
+Recuerda que el momento de comer es un
+
+los alimentos tanto en familia o con amigos
+
+acto social, por lo que es aconsejable comer
+
+contribuye al bienestar social y emocional de
+
+en compañía.
+
+probabilidad
+
+de
+
+padecer
+
+alimentarios
+de
+
+alimentos
+
+y
+
+sobrepeso,
+favorecer
+
+el
+
+saludables
+
+.
+
+43,44
+
+las personas.
+Recordemos que una de las principales
+amenazas para disfrutar de una alimentación
+saludable, es el estilo de vida urbano,
+expresado en parte por el crecimiento de las
+cadenas y franquicias de comida rápida. En
+
+Cocinar es una habilidad
+que todo niño debería
+aprender, como nadar,
+tocar un instrumento o
+manejar bicicleta.
+
+Consejos prácticos:
+• Promueve el diálogo a la
+hora de comer con tus
+familiares y amigos.
+• Procura comer en horarios
+determinados y sin prisa.
+• Evita comer frente al
+televisor, computadora,
+celular o tablet.
+• Promueve la participación
+de los integrantes de la
+familia en la planificación
+y preparación de las
+comidas.
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+35
+
+CAPÍTULO 3
+
+Gráfica Alimentaria
+A modo de resumen, aquí presentamos la gráfica alimentaria para la población peruana, que te
+ayudará a recordar la información presentada en los 12 mensajes.
+Esta
+
+gráfica
+
+especialmente
+
+ha
+
+sido
+
+diseñada
+
+para nuestra población y
+fue validada en dos fases.
+La primera, se realizó con
+expertos en alimentación
+y nutrición de entidades
+públicas y privadas, y la
+segunda, con población
+de Lima Metropolitana y
+ciudades de la costa, la
+sierra y la selva de nuestro
+país.
+En
+
+esta
+
+última,
+
+participaron
+
+alrededor
+
+de
+
+400
+
+personas,
+
+de
+
+ambos sexos, en cinco
+distintos rangos de edad:
+estudiantes de primaria
+(08 a 10 años) y secundaria
+(15 a 17 años), jóvenes
+(20 a 29 años), adultos
+(30 a 45 años) y adultos
+mayores (60 a 75 años).
+
+36
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+Anexo 1
+
+Recetas saludables y variadas
+A fin de facilitar la planificación de las comidas de la semana
+y poner en práctica los mensajes y consejos prácticos de la
+presente guía, te presentamos un conjunto de preparaciones
+nutritivas para el momento del almuerzo.
+Recuerda que esta es una manera de promover la participación
+de los integrantes de la familia en la planificación y preparación
+de las comidas.
+
+Seco de pollo con yuquitas
+
+Con ensalada, fruta y refresco bajo en azúcar
+Ingredientes para 4 porciones:
+• 1/2 kg de pollo.
+• 1 1/2 taza de arroz.
+• 1 cebolla.
+• 1 zanahoria.
+• 1 tomate.
+• 1/2 kg de yuca.
+• 1/4 taza de arveja fresca.
+• 1/4 taza de sachaculantro molido.
+• 1 cucharadita de ajo.
+• 1/3 taza de aceite vegetal.
+• 2 cucharadas de ají amarillo molido.
+• Comino y sal yodada.
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+37
+
+ANEXO 1
+
+Higaditos de pollo a la jardinera con sarandaja
+Con ensalada, fruta y refresco bajo en azúcar
+
+Ingredientes para 4 porciones:
+• 1 1/2 taza de arroz.
+• 1/4 kg de hígado de pollo.
+• 1/4 kg de frijol sarandaja.
+• 7 cucharadas de aceite vegetal.
+• 1 zanahoria.
+• 1 cebolla.
+• 1 tomate.
+• 2 dientes de ajo.
+• 1/2 taza de arveja fresca sin vaina.
+• Sal yodada.
+
+Sudado de pescado con lentejitas
+Con ensalada, fruta y refresco bajo en azúcar
+
+Ingredientes para 4 porciones:
+• 1 1/2 taza de arroz.
+• 1/4 kg de pescado.
+• 1/4 kg de lentejas.
+• 1 diente de ajo.
+• 1 tomate.
+• 1 cebolla.
+• 1/4 taza de aceite vegetal.
+• Sal yodada.
+
+38
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+RECETAS SALUDABLES Y VARIADAS
+
+Chanfainita
+
+Con fruta y refresco bajo en azúcar
+Ingredientes para 4 porciones:
+• 1 1/2 taza de arroz.
+• 1/2 kg de bofe de res.
+• 1/2 kg de papa blanca.
+• 1/4 kg de maíz mote.
+• 1 cebolla mediana.
+• 2 tomates medianos.
+• 8 hojas de lechuga.
+• 4 cucharadas de aceite vegetal.
+• Hierba buena, ají colorado molido,
+ají amarillo molido, ajo molido, sal
+yodada, comino, pimienta, orégano.
+
+Locro de zapallo con huevo frito
+Con ensalada, fruta y refresco bajo en azúcar
+
+Ingredientes para 4 porciones:
+• 1 1/2 taza de arroz.
+• 1/2 kg de papa blanca o amarilla.
+• 4 unidades de huevo.
+• 1/2 taza de choclo desgranado.
+• 400g de zapallo.
+• 120g queso fresco.
+• 1/2 cebolla.
+• 3 cucharaditas de huacatay picado.
+• 1/4 taza de aceite vegetal.
+• 1 1/2 cucharada de ají amarillo molido.
+• 1/2 cucharadita de azafrán molido.
+• Ajo, pimienta, comino y sal yodada.
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+39
+
+ANEXO 1
+
+Carne de res con rebosado de trigo
+Con ensalada, fruta y refresco bajo en azúcar
+
+Ingredientes para 4 porciones:
+• 1 taza de arroz.
+• 1/2 kg de carne de res.
+• 3/4 taza de trigo.
+• 1 cebolla.
+• 1 diente de ajo.
+• 1/4 taza de aceite vegetal.
+• Sal yodada.
+
+Picante de arvejas con tallarines y guiso de pollo
+Con ensalada, fruta y refresco bajo en azúcar
+
+Ingredientes para 4 porciones:
+• 400 g de fideos tallarín de casa.
+• 1/4 kg de pulpa de pollo.
+• 1 taza de arveja fresca.
+• 1 cebolla.
+• 2 tomates.
+• 3 dientes de ajos.
+• 1/3 taza de aceite vegetal.
+• 1 zanahoria mediana.
+• 2 tajadas de queso.
+• 1/4 de taza de leche evaporada.
+• 2 cucharadas de huacatay molido.
+• 2 cucharadas de culantro molido.
+• 2 hojas de hongos y laurel.
+• Sal yodada.
+
+40
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+RECETAS SALUDABLES Y VARIADAS
+
+Arroz con pollo
+
+Con fruta y refresco bajo en azúcar
+Ingredientes para 4 porciones:
+• ½ kg de pollo.
+• ¼ taza de aceite.
+• 2 cebollas.
+• 3 dientes de ajo picados.
+• 3 cucharadas de ají amarillo molido.
+• 1 taza de culantro molido.
+• ¾ tazas de arveja.
+• ½ taza de zanahoria en cubos.
+• 2 pimientos rojos.
+• 1 ají amarillo en tiras.
+• 1 ¾ tazas de arroz.
+• Sal yodada y pimienta.
+
+Juane de pollo
+
+Con fruta y refresco bajo en azúcar
+Ingredientes para 4 porciones:
+• 1 1/2 taza de arroz.
+• 1/2 kg de yuca.
+• 4 huevos.
+• 1 kg de pollo.
+• 4 aceitunas.
+• 1 bolita de nuez moscada.
+• 1 cocona.
+• 1/8 de taza de aceite vegetal.
+• 2 dientes de ajos.
+• Orégano, palillo, sal yodada.
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+41
+
+ANEXO 1
+
+Caigua rellena con carne molida y tarwi
+Con ensalada, fruta y refresco bajo en azúcar
+
+Ingredientes para 4 porciones:
+• 1/4 kg de carne molida.
+• 1 1/2 taza de arroz.
+• 1/4 taza de tarwi o chocho.
+• 1 huevo.
+• 1 cebolla.
+• 1 tomate.
+• 1/4 kg arveja.
+• 1 zanahoria.
+• 4 caiguas.
+• 1/4 taza de aceite vegetal
+• 1/4 taza de aceituna.
+• 1/2 kg de yuca.
+• 1 diente de ajo.
+• Sal yodada.
+
+Escabeche de pescado
+
+Con ensalada, fruta y refresco bajo en azúcar
+Ingredientes para 4 porciones:
+• 1 1/2taza de arroz.
+• 1/2 kg de pescado bonito.
+• 1/2 kg de camote amarrillo.
+• 2 cebollas.
+• 1 huevo.
+• 4 hojas de lechuga.
+• 4 aceitunas.
+• 2 cucharadas de harina de trigo.
+• 1/3 taza de aceite vegetal.
+• 1 cucharada de ají amarillo.
+• Sal yodada.
+
+42
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+RECETAS SALUDABLES Y VARIADAS
+
+Ajiaco de olluco con carne
+
+Con ensalada, fruta y refresco bajo en azúcar
+Ingredientes para 4 porciones:
+• 1 1/2 taza de arroz.
+• 1/2 kg de carne de res.
+• 1/4 kg de papa blanca.
+• 1/4 kg de olluco.
+• 4 dientes de ajos.
+• 1/2 tomate.
+• 1 cebolla.
+• 1/4 taza de aceite vegetal.
+• Perejil, culantro, vinagre, comino,
+orégano y sal yodada.
+
+Picante criollo de pota
+
+Con fruta y refresco bajo en azúcar
+Ingredientes para 4 porciones:
+• 3/4 kg pota.
+• 1 cebolla pequeña.
+• 1 1/2 cucharadas de ajo molido.
+• 3 cucharadas de ají panca molido.
+• 3 papas blancas.
+• 1/2 taza de alverjas frescas.
+• 1/2 taza de aceite vegetal.
+• 1 ramita de perejil.
+• 1 ramita de culantro.
+• Pimienta, comino y sal yodada.
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+43
+
+44
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+Anexo 2
+
+Conceptos básicos
+Alimentos Naturales
+
+Los alimentos mínimamente procesados
+o
+
+o de procesamiento primario no contienen
+
+animales— que se encuentran en su
+
+ningún tipo de agregados tales como
+
+estado natural y que no han sido sometidos
+
+aditivos,
+
+a
+
+ingredientes de naturaleza sintética.
+
+Son
+
+aquellos
+
+alimentos
+
+modificaciones
+
+o
+
+—plantas
+
+transformaciones
+
+significativas hasta su preparación culinaria
+
+saborizantes,
+
+edulcorantes
+
+e
+
+y consumo. Hay ciertos procesamientos
+
+Alimentos procesados
+
+básicos a los que se someten los alimentos
+
+Son aquellos elaborados de manera artesanal
+
+naturales
+
+ellos:
+
+o industrial a partir de los alimentos en
+
+la limpieza, la remoción de partes no
+
+estado natural, y que en su elaboración se
+
+comestibles o no deseadas; entre esos
+
+han añadido sal, azúcar u otra sustancia de
+
+procesos se encuentran: partido, selección,
+
+uso culinario, con el propósito de hacerlos
+
+rebanado,
+
+pelado,
+
+durables y más agradables al paladar.
+
+desollado, triturado, limpiado, desgrasado,
+
+En su preparación se utilizan diferentes
+
+descascarillado.
+
+procedimientos entre los cuales están la
+
+sin
+
+alterarlos,
+
+deshuesado,
+
+entre
+
+picado,
+
+cocción, el secado, o la fermentación no
+También los alimentos naturales pueden ser
+
+alcohólica como el caso de panes, queso y
+
+sometidos a procesamientos primarios que
+
+yogur.
+
+no modifican su condición de “naturales”,
+como son los procesos de secado, molienda,
+
+Otros ejemplos incluyen:
+
+tostado,
+
+• Hortalizas tales como zanahorias,
+
+escaldado,
+
+pasteurización,
+al
+
+pepinos, arvejas, palmitos, cebollas
+
+vacío, fermentación no alcohólica y otros
+
+y coliflor conservadas en salmuera o
+
+enfriamiento,
+
+congelación,
+
+envasado
+
+procesos de conservación. Los alimentos
+mínimamente procesados también incluyen
+combinaciones de dos o más alimentos en
+
+encurtidas.
+• Concentrados o pastas de tomate (con
+sal o azúcar).
+
+estado natural o mínimamente procesados
+
+• Frutas en almíbar y frutas confitadas.
+
+o de procesamiento primario.
+
+• Tocino; sardina y atún enlatados.
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+45
+
+ANEXO 2
+
+• Carnes o pescados salados, ahumados
+
+• Yogures y bebidas lácteas aromatizadas
+
+o curados.
+
+y azucaradas.
+
+• Jamones.
+
+• Sopas, fideos instantáneos,
+
+• Quesos; panes y productos horneados
+
+condimentos enlatados, envasados,
+
+(en general).
+
+deshidratados e instantáneos.
+
+• Mermeladas de frutas.
+
+• Pizza y platos de pasta listos para comer.
+• Hamburguesas, salchichas, jamones y
+
+Alimentos ultra procesados
+
+otros embutidos.
+
+Son formulaciones industriales fabricadas
+íntegra
+
+o
+
+mayormente
+
+sustancias
+
+empanizados o de tipo Nuggets y otros
+
+extraídas de alimentos (aceites, grasas,
+
+productos procesados de preparación
+
+azúcar,
+
+rápida.
+
+almidón,
+
+con
+
+• Trozos de carne de ave y pescado
+
+proteínas),
+
+derivadas
+
+de constituyentes de alimentos (grasas
+hidrogenadas,
+
+almidón
+
+modificado)
+
+o
+
+Alimentación
+
+sintetizadas en laboratorios a partir de
+
+Es un conjunto de actos voluntarios llevado
+
+materias orgánicas, como derivados de
+
+a cabo ante una necesidad fisiológica y
+
+petróleo y carbón (colorantes, aromatizantes,
+
+consciente que aprendemos a lo largo de
+
+resaltadores de sabor y diversos tipos de
+
+nuestra vida, abarca elegir los alimentos,
+
+aditivos usados para dotar a los productos
+
+cocinarlos y consumirlos. Los diversos
+
+de propiedades sensoriales atractivas).
+
+modos de realizar estas acciones tienen
+relación con el ambiente, la oferta local y la
+
+Por ejemplo:
+
+cultura; estos determinan, en gran parte, los
+
+• Snacks (bocaditos) dulces o salados
+
+hábitos alimentarios y los estilos de vida de
+
+envasados.
+
+las personas.
+
+• Galletas (Dulces, saladas y rellenas).
+• Helados industriales con colorantes y
+saborizantes artificiales.
+
+Alimentación saludable
+Es
+
+aquella
+
+alimentación
+
+variada
+
+con
+
+• Margarinas, mantecas con grasas trans.
+
+alimentos preferentemente en estado natural
+
+• Caramelos y golosinas (en general)
+
+o con procesamiento mínimo, que aporta
+
+• Bebidas gaseosas, refrescos
+
+energía y todos los nutrientes esenciales
+
+envasados, jugos y extractos
+
+que cada persona necesita para mantenerse
+
+endulzados.
+
+saludable, permitiéndole tener una mejor
+
+• Bizcochos y mezclas para bizcochos y
+barras de cereales.
+• Cereales endulzados para el desayuno.
+
+46
+
+calidad de vida en todas las edades. Una
+alimentación saludable también debe ser
+inocua.
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+CONCEPTOS BÁSICOS
+
+Azúcares
+
+ser convertida en energía mecánica, térmica,
+son
+
+eléctrica, entre otras necesarias para la vida
+
+presentes
+
+del ser humano. La energía de los alimentos
+
+naturalmente en las frutas, plantas, leche
+
+utiliza como unidad de medida la kilocaloría
+
+más los azucares que son agregados por
+
+(kcal).
+
+Considerados
+
+azúcares
+
+los
+
+que
+
+azúcares
+
+totales,
+
+están
+
+el fabricante, cocinero o consumidor, como
+los
+
+monosacáridos
+
+(glucosa,
+
+fructosa,
+
+Estado Nutricional
+
+galactosa) y los disacáridos o azúcares
+
+Es la situación de salud de la persona
+
+compuestos (sacarosa, maltosa, lactosa)
+
+como resultado de su régimen alimentario,
+
+entre otros. También contienen azúcar el
+
+nutrición,
+
+jarabe de maíz de alta fructuosa, el jarabe de
+
+sociales y condiciones de salud.
+
+glucosa, los jarabes de goma o similares, los
+
+estilo
+
+de
+
+vida,
+
+condiciones
+
+jugos de frutas, los concentrados de jugos
+
+Guía alimentaria
+
+de fruta y la miel de abeja .
+
+Es un instrumento educativo que sirve de base
+
+45
+
+para la formulación de políticas nacionales
+
+Educación nutricional
+
+en materia de alimentación y nutrición, salud
+
+Consiste en actividades de aprendizaje cuyo
+
+y agricultura, así como, de programas de
+
+objeto es facilitar la adopción voluntaria de
+
+educación nutricional destinados a fomentar
+
+comportamientos alimentarios y de otro tipo
+
+prácticas de alimentación y estilos de vida
+
+relacionados con la nutrición que fomentan
+
+saludables con el fin de prevenir problemas
+
+la salud y bienestar .
+
+de malnutrición por déficit o por exceso. Es
+
+46
+
+conocida también como Guía Alimentaria
+
+Edulcorantes
+
+Basada en Alimentos – GABAs.
+
+Son aditivos que dan un sabor dulce a
+los alimentos, incluidos los edulcorantes
+
+Grasas Saturadas
+
+artificiales
+
+(aspartame,
+
+Son aquellas grasas cuyos ácidos grasos
+
+sucralosa, sacarina y potasio de acesulfamo),
+
+constituyentes están compuestos por átomos
+
+los edulcorantes naturales no calóricos
+
+de carbono ligados por enlaces simples y
+
+(estevia) y los edulcorantes calóricos tales
+
+cuyas valencias disponibles se encuentran
+
+como los polialcoholes (sorbitol, manitol
+
+“saturadas”- por residuos de hidrógeno.
+
+entre otros) .
+
+Esto hace que su presentación sea sólida a
+
+no
+
+calóricos
+
+47
+
+temperatura ambiente y se derrite conforme
+
+Energía
+
+se eleva la temperatura. En su mayoría las
+
+En nutrición se refiere a la energía química
+
+grasas saturadas provienen de alimentos
+
+proveniente de los alimentos y que puede
+
+de origen animal, aunque también están
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+47
+
+ANEXO 2
+
+presentes en algunas plantas como la palma,
+
+maíz, girasol u oliva; mantequilla, azúcar
+
+el coco y cacao.
+
+blanca, azúcar rubia o morena, chancaca y
+miel; sal fina o gruesa.
+
+Grasas Trans
+Las grasas hidrogenadas son aceites que
+
+Macronutrientes
+
+han sido sometidos a un método químico de
+
+Son compuestos orgánicos constituidos
+
+endurecimiento para conseguir aumentar la
+
+por elementos químicos complejos y que el
+
+plasticidad y su resistencia a la oxidación de
+
+organismo requiere en mayor cantidad para
+
+los aceites líquidos a temperatura ambiente.
+
+su nutrición. Estos son los carbohidratos
+
+Por hidrogenación parcial los aceites se
+
+(formados por almidón, azúcares y fibra),
+
+endurecen, pero no se hacen totalmente
+
+las proteínas (formadas por cadenas de
+
+sólidos. La grasa trans se encuentra en
+
+aminoácidos) y los lípidos (formados por
+
+muchos de los mismos alimentos que la
+
+ácidos grasos).
+
+grasa saturada, como grasas vegetales,
+algunas margarinas, galletas, alimentos
+
+Malnutrición
+
+fritos, productos horneados y en otros
+
+Estado
+
+alimentos procesados hechos con aceites
+
+por la deficiencia o exceso de energía,
+
+vegetales parcialmente hidrogenados 48,49.
+
+macronutrientes
+
+nutricional
+y/o
+
+anormal,
+
+causado
+
+micronutrientes.
+
+Incluye delgadez, sobrepeso, obesidad,
+
+Ingredientes culinarios
+Sustancias
+
+extraídas
+
+anemia y otros.
+
+directamente
+
+de
+
+alimentos sin procesar o mínimamente
+
+Micronutrientes
+
+procesados o de la naturaleza que por lo
+
+Son compuestos constituidos por elementos
+
+general se consumen (o pueden consumirse)
+
+químicos
+
+como
+
+preparaciones
+
+organismo necesita en pequeñas cantidades
+
+culinarias. El proceso de extracción puede
+
+para su nutrición. Estos son: vitaminas
+
+incluir
+
+trituración,
+
+liposolubles (A, D, E y K) e hidrosolubles (C
+
+pulverización y secado. Estas sustancias
+
+y del Complejo B); y los minerales, que se
+
+se usan para sazonar y cocinar alimentos
+
+dividen en macro elementos (calcio, hierro,
+
+sin procesar o mínimamente procesados
+
+magnesio, yodo, fósforo, potasio, sodio) y
+
+y crear platos recién preparados. Los
+
+los micro elementos (manganeso, cobre,
+
+aditivos ayudan a preservar las propiedades
+
+zinc, cobalto y flúor).
+
+ingredientes
+prensado,
+
+de
+
+molienda,
+
+de los alimentos o evitar la proliferación
+de
+
+microorganismos50.Ejemplos
+
+de
+
+ingredientes culinarios: Aceites de soya,
+
+48
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+menos
+
+complejos
+
+y
+
+que
+
+el
+
+CONCEPTOS BÁSICOS
+
+Nutrición
+
+La cantidad de energía que necesita una
+
+Es el conjunto de procesos mecánicos y
+
+persona depende de su edad, sexo, estado
+
+fisiológicos por medio de los cuales el ser
+
+fisiológico y actividad física que realiza.
+
+humano utiliza, transforma e incorpora una
+serie de compuestos que recibe mediante
+
+Recomendaciones nutricionales
+
+la alimentación, con el objeto de obtener
+
+Son las cantidades adicionales necesarias,
+
+energía, construir y reparar las estructuras
+
+como margen de seguridad, para cubrir la
+
+orgánicas,
+
+variabilidad individual en algunos nutrientes.
+
+y
+
+regular
+
+los
+
+procesos
+
+Se basan en las cifras de los requerimientos
+
+metabólicos.
+
+nutricionales
+
+Nutrientes
+Son compuestos orgánicos e inorgánicos
+de
+
+los
+
+alimentos
+
+y
+
+tienen
+
+un
+
+enfoque
+
+poblacional.
+que
+
+cumplen
+
+una
+
+Sodio
+
+función específica en el organismo. Se
+
+Elemento químico que existe de manera
+
+encuentran agrupados en macronutrientes y
+
+natural en los alimentos, asociado a otros
+
+micronutrientes.
+
+residuos moleculares o átomos a manera
+de enlace de tipo iónico formando sales
+
+Nutriente esencial
+
+químicas. Es de gran importancia, ya que
+
+Nutriente que no puede ser producido por
+
+ayuda a mantener el equilibrio hídrico y
+
+el organismo y debe ser aportado por la
+
+ácido base del organismo, constituyendo
+
+alimentación para prevenir deficiencias.
+
+su compuesto más habitual, el cloruro de
+sodio, o lo que usualmente se denomina sal
+
+Porción de
+alimentos
+
+intercambio
+
+de
+
+de mesa. Asimismo, encontramos otras sales
+de sodio que son de origen industrial, como
+
+Es la cantidad de alimento expresada
+
+el glutamato monosódico (acentuador del
+
+en medidas caseras, que aporta una
+
+sabor); benzoato de sodio, acetato de sodio,
+
+cantidad determinada de calorías, lípidos,
+
+bicarbonato de sodio (reguladores de acidez y
+
+carbohidratos y proteínas. Una porción
+
+conservantes); hidróxido de sodio, carbonato
+
+de intercambio de cualquier alimento del
+
+de sodio (regulador de acidez); eritorbato de
+
+mismo grupo tiene un contenido similar de
+
+sodio (antioxidante), entre otros. Un gramo
+
+calorías y de macronutrientes.
+
+de ‘sal de mesa’ contiene 400mg de sodio.
+Un gramo de sodio equivale a 2.5 gr de sal de
+
+Requerimiento de energía
+
+mesa.
+
+Es la cantidad de energía necesaria para
+cubrir el gasto energético de un individuo.
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+49
+
+Bibliografía
+1.
+
+Ley Nº 26842, Ley General de Salud.
+
+2.
+
+Ley N° 30021, Ley de promoción de la alimentación saludable para niños, niñas y
+adolescentes.
+
+3.
+
+Decreto Supremo N° 017-2017-SA -Reglamento de la Ley N° 30021, Ley de promoción de
+la alimentación saludable para niños, niñas y adolescentes
+
+4.
+
+Decreto Supremo N° 021-2013-MINAGRI, que aprobó la Estrategia Nacional de Seguridad
+Alimentaria y Nutricional 2013 – 2021
+
+5.
+
+Cánepa G. Hernández M, Biffi V, Zuleta M. Cocina e identidad – La culinaria peruana
+como patrimonio cultural inmaterial. Ministerio de Cultura - Lima, 2011.
+
+6.
+
+Instituto Internacional de Estudios sobre la Familia. Informe TFW 2014 – 1 Comer en
+familia: hacer de la rutina salud. Mayo 2014
+
+7.
+
+Tina Liang, Stefan Kuhle and Paul J Veugelers. Nutrition and body weights of Canadian
+children watching television and eating while watching televisión. Public Health Nutrition
+(2009): 12(12), 2457 –2463
+
+8.
+
+Wookyoun Cho,Wakako Takeda, Yujin Oh, Naomi Aiba, and Youngmee Lee. Perceptions
+and practices of commensality and solo-eating among Korean and Japanese university
+students: A cross-cultural analysis. Nutr Res Pract. 2015 Oct;9(5):523-529. Published
+online September 01, 2015.
+
+9.
+
+Chapman CD, Nilsson VC, Thune HA˚, Cedernaes J, Le Greve`s M, et al. (2014) Watching
+TV and Food Intake: The Role of Content. PLoS ONE 9(7): e100602. doi:10.1371/journal.
+pone.0100602
+
+10. Brandi. Rollin; Rhonda. Belue, Lori Francis. The Beneficial Effect of Family Meals on
+Obesity Differs by Race, Sex, and Household Education: The National Survey of Children’s
+Health, 2003-2004. September 2010 Volume 110 Number 9. Journal of the American
+Dietetic Association.
+
+50
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+11. Fischler C. 2011 Commensality, society and culture. Social Science Information 50(3–4)
+528–548.
+12. Jesús Contreras Hernández y Mabel Gracia Arnaiz. 2008. Preferencias y consumos
+alimentarios: entre el placer, la conveniencia y la salud. Colección de Estudios Sociales
+No. 24. págs. 153-191. Fundación La Caixa, Barcelona
+13. Robinson E, Thomas J, Aveyard P, Higgs S. What everyone else is eating: a systematic
+review and meta-analysis of the effect of informational eating norms on eating behavior.
+J Acad Nutr Diet. 2014 Mar;114 (3):414-29
+14. Cecilia Diaz Mendez, Isabel Garcia Espejo. La mirada sociológica hacia la alimentación:
+análisis crítico del desarrollo de la investigación en el campo alimentario. Política y
+Sociedad 2014, 51, Núm. 1 15-49.
+15. FAO 2010. Reporte del Taller Técnico: Biodiversidad y Dietas Sostenibles. Roma, 31 Mayo - 1
+Junio
+16. Ministerio del Ambiente (MINAM). 2014. Estrategia Nacional de Diversidad Biológica al
+2021. DS No. 009 /2014-MINAM. Lima, Peru 114 p.
+17. Bertoia ML, Mukamal KJ, Cahill LE, Hou T, Ludwig DS, Mozaffarian D, et al. Changes in
+Intake of Fruits and Vegetables and Weight Change in United States Men and Women
+Followed for Up to 24 Years: Analysis from Three Prospective Cohort Studies. PLoS Med.
+2015;12(9).
+18. Wang P, Fang J, Gao Z, Zhang C, Xie S. Higher intake of fruits, vegetables or their fiber
+reduces the risk of type 2 diabetes: A meta-analysis. J Diabetes Investig. 2016;7(1):56-69
+19. Aune D, Giovannucci E, Boffetta P, Fadnes LT, Keum N, Norat T, et al. Fruit and vegetable
+intake and the risk of cardiovascular disease, total cancer and all-cause mortality-a
+systematic review and dose-response meta-analysis of prospective studies. Int J
+Epidemiol. 2017;46(3):1029-56.
+20. OMS/FAO. Dieta, Nutricion y Prevencion de enfermedades cronicas. Informe de Consulta
+Mixta de Expertos OMS/FAO. Serie de Informes Técnicos 916. 2003.
+21. Starling P, Charlton K, McMahon AT, Lucas C. Fish intake during pregnancy and foetal
+neurodevelopment--a systematic review of the evidence. Nutrients. 2015;7(3):2001-14.
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+51
+
+22. Alhassan A, Young J, Lean MEJ, Lara J. Consumption of fish and vascular risk factors:
+A systematic review and meta-analysis of intervention studies. Atherosclerosis.
+2017;266:87-94.
+23. Shams-White MM, Chung M, Du M, Fu Z, Insogna KL, Karlsen MC, et al. Dietary protein
+and bone health: a systematic review and meta-analysis from the National Osteoporosis
+Foundation. Am J Clin Nutr. 2017;105(6):1528-43.
+24. Thorning TK, Raben A, Tholstrup T, Soedamah-Muthu SS, Givens I, Astrup A. Milk and
+dairy products: good or bad for human health? An assessment of the totality of scientific
+evidence. Food Nutr Res. 2016;60
+25. FAO. Legumbres: Semillas nutritivas para un futuro sostenible [Internet]. Rome: FAO;
+2016 [citado 7 de noviembre de 2017]. 196 p. Disponible en: www.fao.org/3/a-i5528s.
+pdf.
+26. Jayalath VH, de Souza RJ, Sievenpiper JL, Ha V, Chiavaroli L, Mirrahimi A, et al. Effect of
+dietary pulses on blood pressure: a systematic review and meta-analysis of controlled
+feeding trials. Am J Hypertens. 2014;27(1):56-64.
+27. Zhang B, Zhao Q, Guo W, Bao W, Wang X. Association of whole grain intake with allcause, cardiovascular, and cancer mortality: a systematic review and dose-response
+meta-analysis from prospective cohort studies. Eur J Clin Nutr. 2017; doi:10.1038/
+ejcn.2017.149.
+28. Narain A, Kwok CS, Mamas MA. Soft drink intake and the risk of metabolic syndrome: A
+systematic review and meta-analysis. Int J Clin Pract. 2017;71(2).
+29. Greenwood DC, Threapleton DE, Evans CEL, Cleghorn CL, Nykjaer C, Woodhead C, et al.
+Association between sugar-sweetened and artificially sweetened soft drinks and type 2
+diabetes: Systematic review and dose-response meta-analysis of prospective studies. Br J
+Nutr. 2014;112 (5):725-34.
+30. Ruanpeng D, Thongprayoon C, Cheungpasitporn W, Harindhanavudhi T. Sugar and
+artificially sweetened beverages linked to obesity: a systematic review and metaanalysis. QJM Mon J Assoc Physicians. 1 de agosto de 2017;110(8):513-20.
+
+52
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+31. Narain A, Kwok CS, Mamas MA. Soft drinks and sweetened beverages and the risk of
+cardiovascular disease and mortality: a systematic review and meta-analysis. Int J Clin
+Pract. 2016;70(10):791-805.
+32. Xi B, Huang Y, Reilly KH, Li S, Zheng R, Barrio-Lopez MT, et al. Sugar-sweetened
+beverages and risk of hypertension and CVD: a dose-response meta-analysis. Br J Nutr.
+14 de marzo de 2015;113(5):709-17.
+33. Organización Mundial de la Salud. Nota informativa sobre la ingesta de azúcares
+recomendada en la directriz de la OMS para adultos y niños, WHO/NMH/NHD/15.3, 2015.
+34. Saieh A Carlos, Lagomarsino F Edda. Hipertensión arterial y consumo de sal en pediatría.
+Rev. chil. pediatr. [Internet]. 2009 Feb [citado 2016 Sep 16]; 80 (1): 11-20. Disponible
+en: http://www.scielo.cl/scielo.php
+35. Graudal NA, Hubeck-Graudal T, Jurgens G. Effects of low sodium diet versus high sodium
+diet on blood pressure, renin, aldosterone, catecholamines, cholesterol, and triglyceride.
+Cochrane Database Syst Rev. 2017;4:CD004022
+36. Popkin BM, D’Anci KE, Rosenberg IH. Water, Hydration and Health. Nutr Rev. agosto de
+2010;68(8):439-58.
+37. C. Iglesias Rosado y col. Importancia del agua en la hidratación de la población española:
+documento FESNAD 2010. Nutr Hosp. 2011;26(1):27-36
+38. Autoridad Europea de Seguridad Alimentaria. 2018.
+39. Liu X, Zhang D, Liu Y, Sun X, Han C, Wang B, et al. Dose-Response Association Between
+Physical Activity and Incident Hypertension: A Systematic Review and Meta-Analysis of
+Cohort Studies. Hypertens Dallas Tex 1979. 2017;69(5):813-20.
+40. Mahmood S, MacInnis RJ, English DR, Karahalios A, Lynch BM. Domain-specific physical
+activity and sedentary behaviour in relation to colon and rectal cancer risk: a systematic
+review and meta-analysis. Int J Epidemiol. 2017.
+41. Cooney GM, Dwan K, Greig CA, Lawlor DA, Rimer J, Waugh FR, et al. Exercise for
+depression. Cochrane Database Syst Rev. 2013;(9):CD004366.
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+53
+
+42. FAO. La importancia de la educación nutricional. Roma 2011. Adaptado de la Asociación
+Dietética Americana: Nutrition Education for the Public. J Amer Diet Assoc 96, 11, 11831187
+43. Hammons A.J. & Fiese B.A. Is frequency of shared meals related to the nutritional health
+of children and adolescents? Pediatrics Volume 124, Number 6, June 2011.
+44. JM Berge, Wall M, Hsueh TF, Fulkerson JA, Larson N, Neumark-Sztainer D. The protective
+role of family meals for youth obesity: 10-year longitudinal associations. J Pediatr, 2015.
+45. Organización Panamericana de la Salud. 2016. Modelo de perfil de nutrientes.
+Washington, DC: OPS
+46. FAO. Op Cit 2011
+47. Organización Panamericana de la Salud. Op Cit 2016.
+48. Bendsen NT, Christensen R, Bartels EM, Astrup A. Consumption of industrial and ruminant
+trans fatty acids and risk of coronary heart disease: a systematic review and meta-analysis
+of cohort studies. Eur J Clin Nutr 2011;65:773-83
+49. De Souza RJ, Mente A, Maroleanu A, Cozma AI, Ha V, Kishibe T, et al. Intake of saturated
+and trans unsaturated fatty acids and risk of all cause mortality, cardiovascular disease,
+and type 2 diabetes: systematic review and meta-analysis of observational studies. British
+Medical Journal 2015;351:h3978.
+50. Organización Panamericana de la Salud. 2016. Modelo de perfil de nutrientes. Washington,
+DC : OPS
+
+54
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+GUÍAS ALIMENTARIAS PARA LA POBLACIÓN PERUANA
+
+55
+
+IMPRESO POR:
+D’GRAFICOS SERVICIOS GRÁFICOS
+Y PUBLICACIONES EIRL
+Calle Ceres 222 Urb Villacampa Rimac - Lima
+Móvil: 950 627 909 E-mail: graficosypublicaciones@gmail.com
+
+56
+
+INSTITUTO NACIONAL DE SALUD - CENAN
+
+

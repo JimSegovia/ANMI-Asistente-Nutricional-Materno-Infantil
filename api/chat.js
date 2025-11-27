@@ -1,122 +1,127 @@
-import { GoogleGenerativeAI } from "@google/generative-ai"
-import fs from "fs"
-import path from "path"
-import { fileURLToPath } from "url"
-import { createRequire } from "module"
-const require = createRequire(import.meta.url)
+import { GoogleGenerativeAI } from "@google/generative-ai";
+import fs from "fs";
+import path from "path";
 
-const pdfParse = require("pdf-parse")
+// 1. CONFIGURACIÓN DEL MODELO
+// Usamos el 2.0 Flash por ser el más rápido y capaz actualmente
+const MODEL_NAME = "gemini-2.0-flash"; 
 
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
+// 2. PROTECCIÓN ANTI-BLOQUEO (IMPORTANTE)
+// Límite de caracteres para no saturar la capa gratuita
+const CHAR_LIMIT = 100000;
 
-// Inicializar el cliente de API
-// Asegúrate de agregar GEMINI_API_KEY en la sección "Vars" de la barra lateral
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || "")
+const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || "");
 
 export default async function handler(req, res) {
   // Solo permitir peticiones POST
-  if (req.method !== "POST") {
-    return res.status(405).json({ error: "Method not allowed" })
-  }
+  if (req.method !== "POST") return res.status(405).json({ error: "Method not allowed" });
 
   try {
-    const { prompt } = req.body
+    // RECIBIMOS EL PROMPT Y EL HISTORIAL
+    const { prompt, history } = req.body;
+    
+    if (!prompt) return res.status(400).json({ error: "No prompt provided" });
 
-    if (!prompt) {
-      return res.status(400).json({ error: "No prompt provided" })
+    // --- 1. CONVERTIR HISTORIAL A TEXTO ---
+    let conversationHistory = "";
+    if (history && Array.isArray(history)) {
+        // Tomamos los últimos 15 mensajes para mantener el contexto reciente sin saturar
+        const recentHistory = history.slice(-15); 
+        conversationHistory = recentHistory.map(msg => {
+            const role = msg.sender === "user" ? "USUARIO" : "ASISTENTE (TÚ)";
+            return `${role}: ${msg.text}`;
+        }).join("\n");
     }
 
-    // Verificar API Key
-    if (!process.env.GEMINI_API_KEY) {
-      return res.status(500).json({
-        error: "API Key not configured. Please add GEMINI_API_KEY in the Vars section.",
-      })
-    }
-
-    // --- LÓGICA PARA LEER PDFs ---
-    let contextText = ""
+    // --- 2. LEER BASE DE DATOS (data.json) ---
+    let contextText = "";
     try {
-      const possiblePaths = [
-        path.join(__dirname, "documents"), // Relative to this file
-        path.join(process.cwd(), "api", "documents"), // From project root
-        path.join(process.cwd(), "documents"), // Fallback
-      ]
+      const jsonPath = path.join(process.cwd(), 'api', 'data.json');
+      
+      if (fs.existsSync(jsonPath)) {
+        const rawData = fs.readFileSync(jsonPath, 'utf8');
+        const knowledgeBase = JSON.parse(rawData);
 
-      let documentsDir = null
-      for (const p of possiblePaths) {
-        console.log(`[PDF DEBUG] Checking path: ${p}`)
-        if (fs.existsSync(p)) {
-          documentsDir = p
-          console.log(`[PDF DEBUG] Found documents directory at: ${p}`)
-          break
-        }
-      }
+        // A. ORDENAR POR PRIORIDAD (Oficiales primero)
+        knowledgeBase.sort((a, b) => {
+             const aEsOficial = a.category && a.category.includes("OFICIAL");
+             const bEsOficial = b.category && b.category.includes("OFICIAL");
+             if (aEsOficial && !bEsOficial) return -1; 
+             if (!aEsOficial && bEsOficial) return 1;
+             return 0;
+        });
 
-      if (documentsDir) {
-        const files = fs.readdirSync(documentsDir)
-        const pdfFiles = files.filter((file) => file.toLowerCase().endsWith(".pdf"))
+        // B. CONSTRUIR TEXTO CON LÍMITE Y LIMPIEZA DE NOMBRES
+        let totalChars = 0;
 
-        console.log(`[PDF DEBUG] Found ${pdfFiles.length} PDF files:`, pdfFiles)
-
-        for (const file of pdfFiles) {
-          const filePath = path.join(documentsDir, file)
-          const dataBuffer = fs.readFileSync(filePath)
-
-          try {
-            const data = await pdfParse(dataBuffer)
-            if (data && data.text) {
-              // Clean up text slightly to remove excessive whitespace
-              const cleanText = data.text.replace(/\s+/g, " ").trim()
-              contextText += `\n--- INICIO DOCUMENTO: ${file} ---\n${cleanText}\n--- FIN DOCUMENTO: ${file} ---\n`
-              console.log(`[PDF DEBUG] Read ${file}: ${cleanText.length} characters extracted`)
-            } else {
-              console.warn(`[PDF DEBUG] Warning: No text extracted from ${file}`)
+        for (const doc of knowledgeBase) {
+            if (totalChars + doc.content.length < CHAR_LIMIT) {
+                // Limpiamos el nombre del archivo para que la IA lo lea mejor
+                // Ejemplo: "guia_alimentaria.pdf" -> "guia alimentaria"
+                const cleanName = doc.fileName.replace(/\.(pdf|txt)$/i, "").replace(/_/g, " ");
+                const tipo = doc.category || "GENERAL";
+                
+                contextText += `\n--- DOCUMENTO: "${cleanName}" [${tipo}] ---\n${doc.content}\n`;
+                totalChars += doc.content.length;
             }
-          } catch (parseError) {
-            console.error(`[PDF DEBUG] Error parsing ${file}:`, parseError)
-          }
         }
-
-        console.log(`[PDF DEBUG] Total context length: ${contextText.length} characters`)
-      } else {
-        console.error("[PDF DEBUG] CRITICAL: Documents directory not found in any expected location")
-        console.log("[PDF DEBUG] Current working directory:", process.cwd())
-        console.log("[PDF DEBUG] __dirname:", __dirname)
+        console.log(`[CTX] Enviando ${totalChars} caracteres a ${MODEL_NAME}.`);
       }
     } catch (err) {
-      console.error("[PDF DEBUG] Fatal error in PDF reading block:", err)
-      // Continuamos aunque falle la lectura para no romper el chat completamente
+      console.error("Error leyendo contexto:", err);
     }
 
-    // --- PREPARAR PROMPT ---
+    // --- 3. CEREBRO MEJORADO (PERSONALIDAD EXPERTA Y HUMANA) ---
     const finalPrompt = `
-    Eres un asistente inteligente del proyecto ANMI.
-    Usa la siguiente información de contexto extraída de los documentos oficiales para responder a la pregunta del usuario.
+    Eres el Asistente de Nutrición Materno Infantil (ANMI).
+    Tu misión es dar consejos precisos basados EXCLUSIVAMENTE en los documentos oficiales proporcionados.
     
-    REGLAS:
-    1. Si la respuesta está en el contexto, úsalo para responder con precisión.
-    2. Si la respuesta NO está en el contexto, responde amablemente usando tu conocimiento general, pero aclara que esa información específica no estaba en los documentos proporcionados.
-    3. Sé conciso y profesional.
-    4. IMPORTANTE: Usa formato Markdown para tu respuesta (negritas, listas, encabezados) para que sea fácil de leer.
-    5. IMPORTANTE: Al final de tu respuesta, indica explícitamente de qué documento(s) sacaste la información usando el formato: "**Fuente:** [Nombre del archivo]". Si usaste conocimiento general, di "**Fuente:** Conocimiento general".
-
-    CONTEXTO DE LOS DOCUMENTOS:
+    CONTEXTO OFICIAL:
     ${contextText}
 
-    PREGUNTA DEL USUARIO:
-    ${prompt}
-    `
+    HISTORIAL DE LA CONVERSACIÓN:
+    ${conversationHistory}
+    
+    PREGUNTA ACTUAL: "${prompt}"
+    
+    INSTRUCCIONES ESTRICTAS DE RESPUESTA:
+    1. **CITAS NATURALES:** Menciona la fuente de forma fluida dentro de la oración, como lo haría un experto humano.
+       - *Mal:* "Come sangrecita [Fuente: Recetario.pdf]"
+       - *Bien:* "Según el Recetario de la Quinua, la sangrecita es excelente..." o "Tal como indica la Norma Técnica de Salud..."
+    
+    2. **CERO EXTENSIONES:** NUNCA digas ".pdf", ".txt" ni uses guiones bajos al hablar de los documentos. Usa el nombre limpio del documento.
 
-    // --- LLAMADA A GEMINI ---
-    const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" })
-    const result = await model.generateContent(finalPrompt)
-    const response = await result.response
-    const text = response.text()
+    3. **ULTRACONCISO:** - Ve al grano. Tu respuesta ideal tiene máximo 3 párrafos cortos.
+       - Si hay mucha información, da un resumen de los puntos clave y pregunta: "¿Te gustaría saber más detalles sobre alguno?. De ser necesario, pide informacion adicional.
+       - No menciones tantas fuentes, como maximo 1 de las mas importantes.
+       - Para recetas, solo menciona los nombres de los platos. No des la preparación completa a menos que te la pidan explícitamente.
+    
+    4. **FLUIDEZ Y MEMORIA:** - NO saludes ("Hola", "Buenos días") si ya hay mensajes previos en el historial. Responde directo a la pregunta.
+       - NO vuelvas a preguntar datos que el usuario ya te dijo (como la edad del bebé o si tiene anemia).
 
-    res.status(200).json({ text })
+    5. **FORMATO:** Usa **negritas** para resaltar los alimentos o nutrientes importantes. Para recetas, preparaciones o indicaciones puedes usar listas enumeradas o guiones
+
+    6. **CIERRE:** Termina siempre con una pregunta corta relacionada para invitar a seguir hablando (ej: "¿Te animas a probarlo?", "¿Tu bebé ya come esto?").
+    `;
+
+    // --- 4. EJECUCIÓN ---
+    const model = genAI.getGenerativeModel({ model: MODEL_NAME });
+    const result = await model.generateContent(finalPrompt);
+    const response = await result.response;
+    const text = response.text();
+
+    res.status(200).json({ text });
+
   } catch (error) {
-    console.error("Error calling Gemini API:", error)
-    res.status(500).json({ error: "Error interno del servidor: " + error.message })
+    console.error("Gemini Error:", error);
+    
+    // Manejo de errores amigable
+    if (error.message.includes("429") || error.message.includes("exhausted")) {
+        res.status(429).json({ error: "El chat está recibiendo muchas consultas. Por favor espera 30 segundos." });
+    } else if (error.message.includes("404")) {
+        res.status(500).json({ error: "Error de configuración: Modelo no encontrado." });
+    } else {
+        res.status(500).json({ error: "Error interno: " + error.message });
+    }
   }
 }
