@@ -2,12 +2,18 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 import fs from "fs";
 import path from "path";
 
+// 1. CONFIGURACIÓN DEL MODELO
+// Usamos el 2.0 Flash por ser el más rápido y capaz actualmente
 const MODEL_NAME = "gemini-2.0-flash"; 
+
+// 2. PROTECCIÓN ANTI-BLOQUEO (IMPORTANTE)
+// Límite de caracteres para no saturar la capa gratuita
 const CHAR_LIMIT = 100000;
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || "");
 
 export default async function handler(req, res) {
+  // Solo permitir peticiones POST
   if (req.method !== "POST") return res.status(405).json({ error: "Method not allowed" });
 
   try {
@@ -17,10 +23,9 @@ export default async function handler(req, res) {
     if (!prompt) return res.status(400).json({ error: "No prompt provided" });
 
     // --- 1. CONVERTIR HISTORIAL A TEXTO ---
-    // Convertimos el array de objetos a un texto tipo guion teatral
     let conversationHistory = "";
     if (history && Array.isArray(history)) {
-        // Tomamos los últimos 10 mensajes para no saturar
+        // Tomamos los últimos 15 mensajes para mantener el contexto reciente sin saturar
         const recentHistory = history.slice(-15); 
         conversationHistory = recentHistory.map(msg => {
             const role = msg.sender === "user" ? "USUARIO" : "ASISTENTE (TÚ)";
@@ -28,14 +33,16 @@ export default async function handler(req, res) {
         }).join("\n");
     }
 
-    // --- 2. LEER BASE DE DATOS (Igual que antes) ---
+    // --- 2. LEER BASE DE DATOS (data.json) ---
     let contextText = "";
     try {
       const jsonPath = path.join(process.cwd(), 'api', 'data.json');
+      
       if (fs.existsSync(jsonPath)) {
         const rawData = fs.readFileSync(jsonPath, 'utf8');
         const knowledgeBase = JSON.parse(rawData);
 
+        // A. ORDENAR POR PRIORIDAD (Oficiales primero)
         knowledgeBase.sort((a, b) => {
              const aEsOficial = a.category && a.category.includes("OFICIAL");
              const bEsOficial = b.category && b.category.includes("OFICIAL");
@@ -44,25 +51,30 @@ export default async function handler(req, res) {
              return 0;
         });
 
+        // B. CONSTRUIR TEXTO CON LÍMITE Y LIMPIEZA DE NOMBRES
         let totalChars = 0;
+
         for (const doc of knowledgeBase) {
             if (totalChars + doc.content.length < CHAR_LIMIT) {
+                // Limpiamos el nombre del archivo para que la IA lo lea mejor
+                // Ejemplo: "guia_alimentaria.pdf" -> "guia alimentaria"
+                const cleanName = doc.fileName.replace(/\.(pdf|txt)$/i, "").replace(/_/g, " ");
                 const tipo = doc.category || "GENERAL";
-                contextText += `\n--- FUENTE: ${doc.fileName} [${tipo}] ---\n${doc.content}\n`;
+                
+                contextText += `\n--- DOCUMENTO: "${cleanName}" [${tipo}] ---\n${doc.content}\n`;
                 totalChars += doc.content.length;
             }
         }
+        console.log(`[CTX] Enviando ${totalChars} caracteres a ${MODEL_NAME}.`);
       }
     } catch (err) {
-      console.error("Error contexto:", err);
+      console.error("Error leyendo contexto:", err);
     }
 
-   
-// --- 3. CEREBRO CON MEMORIA Y PERSONALIDAD ---
-// --- 3. CEREBRO MEJORADO (FUENTES VISIBLES + CONCISO) ---
+    // --- 3. CEREBRO MEJORADO (PERSONALIDAD EXPERTA Y HUMANA) ---
     const finalPrompt = `
     Eres el Asistente de Nutrición Materno Infantil (ANMI).
-    Tu misión es dar datos exactos basados en los documentos oficiales.
+    Tu misión es dar consejos precisos basados EXCLUSIVAMENTE en los documentos oficiales proporcionados.
     
     CONTEXTO OFICIAL:
     ${contextText}
@@ -73,21 +85,26 @@ export default async function handler(req, res) {
     PREGUNTA ACTUAL: "${prompt}"
     
     INSTRUCCIONES ESTRICTAS DE RESPUESTA:
-    1. **CITA OBLIGATORIA:** Cada vez que des una recomendación, alimento o cantidad, indica inmediatamente de qué documento salió usando corchetes. 
-       *Ejemplo:* "Dale 2 cucharadas de hígado [Fuente: Recetario MINSA]". Si es conocimiento general, no cites.
+    1. **CITAS NATURALES:** Menciona la fuente de forma fluida dentro de la oración, como lo haría un experto humano.
+       - *Mal:* "Come sangrecita [Fuente: Recetario.pdf]"
+       - *Bien:* "Según el Recetario de la Quinua, la sangrecita es excelente..." o "Tal como indica la Norma Técnica de Salud..."
     
-    2. **ULTRACONCISO:** - Tu respuesta NO debe superar los 3 párrafos cortos.
-       - Si la respuesta requiere mucha información, da solo los puntos clave y pregunta: "¿Quieres que te explique más a fondo?".
-       - Si recomiendas recetas, solo da los nombres de los platos, no la preparación (a menos que te la pidan).
+    2. **CERO EXTENSIONES:** NUNCA digas ".pdf", ".txt" ni uses guiones bajos al hablar de los documentos. Usa el nombre limpio del documento.
 
-    3. **FLUIDEZ:** - NO saludes ("Hola", "Buenos días") si ya hay mensajes en el historial. Responde directo.
-       - Si ya sabes la edad o condición del historial, no la vuelvas a preguntar.
-
-    4. **FORMATO:** Usa **negritas** para resaltar los alimentos o nutrientes clave.
+    3. **ULTRACONCISO:** - Ve al grano. Tu respuesta ideal tiene máximo 3 párrafos cortos.
+       - Si hay mucha información, da un resumen de los puntos clave y pregunta: "¿Te gustaría saber más detalles sobre alguno?. De ser necesario, pide informacion adicional.
+       - No menciones tantas fuentes, como maximo 1 de las mas importantes.
+       - Para recetas, solo menciona los nombres de los platos. No des la preparación completa a menos que te la pidan explícitamente.
     
-    5. **CIERRE:** Termina siempre con una pregunta corta para invitar a seguir hablando.
+    4. **FLUIDEZ Y MEMORIA:** - NO saludes ("Hola", "Buenos días") si ya hay mensajes previos en el historial. Responde directo a la pregunta.
+       - NO vuelvas a preguntar datos que el usuario ya te dijo (como la edad del bebé o si tiene anemia).
+
+    5. **FORMATO:** Usa **negritas** para resaltar los alimentos o nutrientes importantes. Para recetas, preparaciones o indicaciones puedes usar listas enumeradas o guiones
+
+    6. **CIERRE:** Termina siempre con una pregunta corta relacionada para invitar a seguir hablando (ej: "¿Te animas a probarlo?", "¿Tu bebé ya come esto?").
     `;
-    
+
+    // --- 4. EJECUCIÓN ---
     const model = genAI.getGenerativeModel({ model: MODEL_NAME });
     const result = await model.generateContent(finalPrompt);
     const response = await result.response;
@@ -97,10 +114,14 @@ export default async function handler(req, res) {
 
   } catch (error) {
     console.error("Gemini Error:", error);
-    if (error.message.includes("429")) {
-        res.status(429).json({ error: "Espera 30 segundos..." });
+    
+    // Manejo de errores amigable
+    if (error.message.includes("429") || error.message.includes("exhausted")) {
+        res.status(429).json({ error: "El chat está recibiendo muchas consultas. Por favor espera 30 segundos." });
+    } else if (error.message.includes("404")) {
+        res.status(500).json({ error: "Error de configuración: Modelo no encontrado." });
     } else {
-        res.status(500).json({ error: "Error: " + error.message });
+        res.status(500).json({ error: "Error interno: " + error.message });
     }
   }
 }

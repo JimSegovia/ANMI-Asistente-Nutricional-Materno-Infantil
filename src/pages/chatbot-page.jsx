@@ -82,7 +82,6 @@ export default function ChatbotPage() {
 
       {/* Contenedor principal */}
       <div className="bg-white/90 backdrop-blur-md rounded-2xl shadow-2xl p-8 max-w-full min-h-[800px] w-full text-center">
-        <h1 className="text-3xl font-bold text-gray-800 mb-4">Chatbot 🤖</h1>
 
         {/* Chat */}
         <div className="flex-1 overflow-y-auto mb-4 pr-2 space-y-4">
