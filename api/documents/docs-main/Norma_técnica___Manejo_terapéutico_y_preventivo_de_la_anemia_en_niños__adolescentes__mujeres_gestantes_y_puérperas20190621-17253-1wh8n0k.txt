@@ -1,0 +1,2902 @@
+NORMA TÉCNICA - MANEJO
+TERAPÉUTICO Y PREVENTIVO DE
+
+LA ANEMIA
+
+EN NIÑOS, ADOLESCENTES,
+MUJERES GESTANTES
+Y PUÉRPERAS
+
+Catalogación hecha por la Biblioteca Central del Ministerio de Salud
+
+ISBN:
+Hecho el Depósito Legal en la Biblioteca Nacional del Perú N° 20171ra. Edición
+Tiraje
+© MINISTERIO DE SALUD DEL PERÚ
+Av. Salaverry cuadra 8 s/n, Jesús María, Lima, Perú
+Teléfono: (511) 431-0410
+Telefax: (511) 315-6600 anexo 2669
+Página web: http://www.minsa.gob.pe/
+Documento Técnico Aprobado con Resolución Ministerial N° 958-2012/MINSA
+Impresión:
+La versión electrónica de este documento se encuentra disponible en forma gratuita en:
+www.ins.gob.pe
+
+Dra. Patricia Jannet Garcia Funegra
+MINISTRA DE SALUD
+Mg. Silvia Ester Pessah Eljay
+VICEMINISTRA DE SALUD PÚBLICA
+Dr. Pablo Lavado Padilla
+VICEMINISTRO DE PRESTACIONES Y
+ASEGURAMIENTO EN SALUD
+Sr. Rodrigo Villarán Contavalli
+SECRETARIO GENERAL
+Dra. María del Carmen Calle Dávila
+DIRECTORA GENERAL DE LA DIRECCIÓN GENERAL
+DE INTERVENCIONES ESTRATÉGICAS EN SALUD PÚBLICA
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA EN NIÑOS,
+ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+I. FINALIDAD
+Contribuir al desarrollo y bienestar de niños, adolescentes, mujeres gestantes y puérperas en el
+marco de la atención integral de salud.
+
+II. ÁMBITO DE APLICACIÓN
+La presente Norma Técnica es de aplicación obligatoria, a nivel nacional, en todos los establecimientos
+del Sector Salud, Seguro Social de Salud-EsSalud, Sanidad de las Fuerzas Armadas, de la Policía
+Nacional del Perú, Clínicas y otros establecimientos del sector privado según corresponda.
+
+III. BASE LEGAL
+• Ley 26842, Ley General de Salud.
+• Ley 27867, Ley Orgánica de Gobiernos Regionales.
+• Ley 27972, Ley Orgánica de Municipalidades.
+• Ley 28314, Ley que dispone la fortificación de harinas con micronutrientes.
+• Ley 29459, Ley de productos farmacéuticos, dispositivos médicos y productos sanitarios.
+• Decreto Legislativo N° 1154, que autoriza los Servicios Complementarios en Salud.
+• Decreto Legislativo N° 1159, que aprueba disposiciones para la implementación y desarrollo del
+intercambio prestacional en el sector público.
+• Decreto Legislativo N° 1161, Ley de Organización y Funciones del Ministerio de Salud
+• Decreto Supremo N° 009-2006-SA, que aprueba el Reglamento de Alimentación Infantil.
+• Decreto Supremo N° 016-2009-SA, que aprueba el Plan Esencial de Aseguramiento en Salud
+(PEAS).
+• Decreto Supremo N° 016-2011-SA, que aprueba el Reglamento para el registro, control y
+vigilancia sanitaria de productos farmacéuticos, dispositivos médicos y productos sanitarios
+• Decreto Supremo N° 001-2012-MIMP, que aprueba el “Plan Nacional de Acción por la Infancia
+y la Adolescencia-PNAIA 2012-2021 y constituye Comisión Multisectorial encargada de su
+implementación”.
+• Decreto Supremo N° 007-2012-SA, que autoriza al Seguro Integral de Salud la sustitución del
+Listado Priorizado de Intervenciones Sanitarias (LPIS) por el Plan Esencial de Aseguramiento en
+Salud (PEAS).
+• Decreto Supremo N° 029-2015-SA, que aprueba la modificación del Reglamento para el registro,
+control y vigilancia sanitaria de productos farmacéuticos, dispositivos médicos y productos
+sanitarios
+• Resolución Ministerial N° 1753-2002-SA/DM, que aprueba la Directiva del Sistema Integrado de
+Suministro de Medicamentos e Insumos Médico-Quirúrgicos-SISMED
+
+9
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+• Resolución Ministerial N° 126-2004/MINSA, que aprueba la Norma Técnica 006-MINSA/
+INS-V.01: “Lineamientos de Nutrición Materna”.
+• Resolución Ministerial N° 668-2004/MINSA, que aprueba las “Guías Nacionales de Atención
+Integral de la Salud Sexual y Reproductiva”
+• Resolución Ministerial N° 291-2006/MINSA que aprueba la Guía de Práctica Clínica para la
+atención patologías más frecuentes y Cuidados Esenciales en la Niña y el Niño.
+• Resolución Ministerial N° 1041-2006/MINSA, que aprueba Trece Guías Técnicas (Doce Guías
+de Práctica Clínica y una Guía de Procedimientos), relacionadas a la calidad de atención del
+recién nacido en los establecimientos de salud.
+• Resolución Ministerial N° 142-2007/MINSA, que aprueba el Documento Técnico “Estándares e
+Indicadores de calidad en la atención materna y perinatal en los Establecimientos que cumplen
+con funciones obstétricas y neonatales”.
+• Resolución Ministerial N° 193-2008/MINSA, que aprueba la NTS 063-MINSA/DGSP-V.01, “Norma
+Técnica de Salud para la Implementación del Listado Priorizado de Intervenciones Sanitarias
+Garantizadas para la Reducción de la Desnutrición Crónica Infantil y Salud Materno Neonatal”.
+• Resolución Ministerial N° 862-2008/MINSA, que aprueba la NTS N° 074-MINSA/ DGSP-V.01:
+“Norma Técnica de Salud que establece el conjunto de intervenciones articuladas para la reducción
+de la mortalidad neonatal en el primer nivel de atención de salud, en la familia y la comunidad”.
+• Resolución Ministerial N° 870-2009/MINSA, que aprueba el Documento Técnico: “Consejería
+Nutricional en el Marco de la Atención de Salud Materno Infantil”.
+• Resolución Ministerial N° 528-2011/MINSA, que aprueba el Documento Técnico: ‘’Promoción
+de las Practicas y Entornos Saludables para el Cuidado Infantil’’.
+• Resolución Ministerial N° 131-2012-MIDIS, que aprueba la Directiva N° 004-2012-MIDIS,
+“Lineamientos para la gestión articulada intersectorial e intergubernamental orientada a reducir
+la desnutrición crónica infantil, en el marco de las políticas de desarrollo e inclusión social”.
+• Resolución Ministerial N° 773-2012/MINSA, que aprueba la Directiva N 048-MINSA/DGSP-V.01
+Directiva Sanitaria para Promocionar el Lavado de Manos Social como Práctica Saludable en el
+Perú.
+• Resolución Ministerial N° 958-2012/MINSA, que aprueba el Documento Técnico: Sesiones
+demostrativas de preparación de alimentos dirigida a la población materno infantil
+• Resolución Ministerial N° 827-2013/MINSA, que aprueba la NTS 105-MINSA/DGSP-V.01:
+“Norma Técnica de Atención Integral de Salud Materna”.
+• Resolución Ministerial N° 828-2013/MINSA, que aprueba la NTS 106-MINSA/DGSP-V.01:
+“Norma Técnica de Atención Integral de Salud Neonatal”
+• Resolución Ministerial N° 260-2014/MINSA, que aprueba la “Guía Técnica para la implementación
+de grupos de apoyo comunal para promover y proteger la lactancia materna”.
+• Resolución Ministerial N° 609-2014/MINSA, que aprueba la Directiva Administrativa N201MINSA-DGSP-V0.1 Directiva Administrativa para la Certificación de Establecimientos de Salud
+Amigos de la Madre, la Niña y el Niño.
+• Resolución Ministerial N° 462-2015/MINSA, que aprueba la” Guía Técnica para la Consejería en
+Lactancia Materna”.
+• Resolución Ministerial N° 669-2015/MINSA, que modifica el Anexo 1: Factores de Riesgo Neonatal
+del documento normativo NTS N106-MINSA/DGSP –V01 “Norma Técnica en Salud para la Atención
+Integral de Salud Neonatal”, aprobada por Resolución Ministerial N° 828-2013/MINSA.
+
+10
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+• Resolución Ministerial N° 132-2015/MINSA, que aprueba el Documento Técnico: “Manual
+de buenas prácticas de almacenamiento de productos farmacéuticos, dispositivos médicos y
+productos sanitarios en los laboratorios, droguerías, almacenes especializados y almacenes
+aduaneros”.
+• Resolución   Ministerial N° 670-2015/MINSA, que modifica la NTS N105-MINSA/DGSP-V01.
+Norma Técnica en Salud para la Atención Integral de Salud Materna, aprobada por Resolución
+Ministerial N° 827-2013/MINSA
+• Resolución Ministerial N° 399-2015/MINSA, que aprueba el Documento Técnico: “Petitorio
+Nacional Único de Medicamentos Esenciales para el Sector Salud”.
+• Resolución Ministerial N° 460-2015/MINSA; que aprueba la Guía Técnica: “Consejería nutricional
+en el marco de la Atención integral de salud de la gestante y puérpera”.
+• Resolución Ministerial N° 055-2016/MINSA que aprueba la D.S. 068-MINSA/DGSP-V.01.
+Directiva Sanitaria para la prevención de Anemia mediante la suplementación con Micronutrientes
+y Hierro en niñas y niños menores de 36 meses.
+• Resolución Ministerial N° 069-2016/MINSA, que aprueba la D.S N° 069-MINSA/DGSP-V.01.
+Directiva Sanitaria para la Prevención y Control de la Anemia por deficiencia de Hierro en
+Gestantes y Puérperas.
+
+IV. DISPOSICIONES GENERALES
+4.1 Todos los establecimientos de salud, realizarán acciones de prevención y tratamiento de la
+anemia en la población de niños, adolescentes, mujeres gestantes y puérperas, según el nivel
+de atención correspondiente.
+4.2 La suplementación con hierro, por vía oral, en niños, adolescentes, mujeres gestantes y
+puérperas en dosis de prevención y tratamiento y con micronutrientes en niños, es una
+intervención que tiene como objetivo asegurar el consumo de hierro en cantidad adecuada
+para prevenir o corregir la anemia, según corresponda.
+4.3 En el caso de los niños la entrega del suplemento de hierro y la receta correspondiente, ya
+sea de suplementación terapéutica o preventiva, será realizada por personal médico o de
+salud capacitado que realiza la atención integral del niño. En el caso de las mujeres gestantes,
+puérperas y mujeres adolescentes, la suplementación con hierro, ya sea terapéutica o
+preventiva, será entregada por el profesional que realiza la atención prenatal. Todo el personal
+de salud podrá indicar los micronutrientes.
+4.4 Definiciones
+• Ácido Fólico: Es una de las vitaminas del complejo B de gran importancia antes y durante
+el embarazo ya que se ha comprobado que su ingesta adecuada, antes y en las primeras
+semanas de la gestación, disminuye el riesgo defectos del tubo neural (DTN).
+• Adherencia: Es el grado en que el paciente cumple con el régimen de consumo de
+suplementos ya sea preventivo o terapéutico prescrito. Incluye la buena disposición para
+seguir el tratamiento en las dosis, horario y tiempo indicado. Se considera que la adherencia
+es adecuada cuando se consume el 75% a más de la dosis indicada.
+• Ajuste de hemoglobina según altitud: Las personas que residen en lugares de mayor
+altitud, incrementan su hemoglobina para compensar la reducción de la saturación de
+oxígeno en sangre (4, 5), por esta razón se hace una corrección del nivel de hemoglobina
+según la altitud de residencia, para diagnosticar anemia (ver Anexo N° 1).
+
+11
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+• Altitud: Es la distancia vertical de un punto de la tierra respecto al nivel del mar.
+• Anemia: Es un trastorno en el cual el número de glóbulos rojos o eritrocitos circulantes en
+la sangre se ha reducido y es insuficiente para satisfacer las necesidades del organismo.
+En términos de salud pública, la anemia se define como una concentración de hemoglobina
+por debajo de dos desviaciones estándar del promedio según género, edad y altura a nivel
+del mar (6).
+• Anemia por deficiencia de hierro: Es la disminución de los niveles de hemoglobina a causa
+de la carencia de hierro, llamada también anemia ferropénica (AF).
+• Atención del puerperio: Es el conjunto sistematizado de actividades, intervenciones y
+procedimientos hospitalarios y ambulatorios que se brinda a la mujer durante el periodo
+puerperal, con la finalidad de prevenir o detectar complicaciones.
+• Atención prenatal reenfocada: Es la vigilancia y evaluación integral de la gestante y el feto,
+idealmente antes de las catorce semanas de gestación, para brindar un paquete básico de
+intervenciones que permita la detección oportuna de signos de alarma, factores de riesgo,
+la educación para el autocuidado y la participación de la familia, así como para el manejo
+adecuado de las complicaciones, con enfoque de género e interculturalidad en el marco de
+los derechos humanos.
+• Concentración de hemoglobina: Es la cantidad de hemoglobina presente en un volumen
+fijo de sangre. Normalmente se expresa en gramos por decilitro (g/dL) o gramos por litro
+(g/l) (7).
+• Consejería a gestantes y puérperas: Es un proceso educativo comunicacional entre el
+profesional nutricionista o profesional de la salud capacitado en consejería nutricional y
+la gestante o puérpera (idealmente con la presencia de la pareja y/o familiares), con el
+propósito de analizar una situación determinada y ayudar a tomar decisiones sobre ella,
+basadas en los resultados de la evaluación nutricional y en el análisis de las prácticas,
+fortaleciendo aquellas que se identifican como positivas y reflexionando sobre aquellas de
+riesgo, para asegurar un adecuado estado nutricional.
+• Consulta nutricional: Es la atención especializada realizada por el profesional nutricionista
+dirigida a la promoción, prevención, recuperación o control nutricional.
+• Contra referencia: Es el procedimiento administrativo-asistencial mediante el cual, el
+establecimiento de salud de destino de la referencia devuelve o envía la responsabilidad del
+cuidado de la salud de un usuario o el resultado de la prueba diagnóstica, al establecimiento
+de salud de origen de la referencia o del ámbito de donde procede el paciente, porque
+cuentan con la capacidad de manejarlo o monitorizar el problema de salud integral.
+• Educación nutricional: Serie de actividades de aprendizaje cuyo objeto es facilitar la
+adopción voluntaria de comportamientos alimentarios y de otro tipo relacionados con la
+nutrición, fomentando la salud y el bienestar.
+• Ferritina Sérica: Es una proteína especial que almacena el hierro, se encuentra
+principalmente en el hígado, médula ósea, bazo. La concentración de ferritina plasmática
+(o en suero) se correlaciona con la magnitud de las reservas de hierro corporal, en ausencia
+de inflamación. Una concentración de ferritina en suero baja, reflejaría una disminución de
+dichas reservas.
+• Fortificación casera: esta intervención consiste en adicionar Micronutrientes en polvo a una
+ración de comida de los niños, para aumentar el consumo de hierro y otros micronutrientes
+para reponer o mantener los niveles de hierro en el organismo.
+• Hematocrito: Es la proporción del volumen total de sangre compuesta por glóbulos rojos.
+
+12
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+Los rangos normales de hematocrito dependen de la edad y, después de la adolescencia,
+del sexo de la persona.
+• Hemoglobina: Es una proteína compleja constituida por un grupo hem que contiene hierro
+y le da el color rojo al eritrocito, y una porción proteínica, la globina. La hemoglobina es la
+principal proteína de transporte de oxígeno en el organismo.
+• Hemoglobinómetro portátil: Es un equipo que se usa para realizar lecturas directas de
+hemoglobina.
+• Hierro: Es un mineral que se encuentra almacenado en el cuerpo humano y se utiliza para
+producir las proteínas hemoglobina y mioglobina que transportan el oxígeno. La hemoglobina
+se encuentra en los glóbulos rojos y la mioglobina en los músculos. El hierro se encuentra
+también en enzimas y en neurotransmisores, de allí que su deficiencia tenga consecuencias
+negativas en el desarrollo conductual, mental y motor, velocidad de conducción más lenta
+de los sistemas sensoriales auditivo y visual, y reducción del tono vagal.
+• Hierro Hemínico (hierro hem): Es el hierro que participa en la estructura del grupo hem o
+hierro unido a porfirina. Forma parte de la hemoglobina, mioglobina y diversas enzimas,
+como citocromos, entre otras. Se encuentra únicamente en alimentos de origen animal,
+como hígado, sangrecita, bazo, bofe, riñón, carne de cuy, carne de res etc. Tiene una
+absorción de 10 – 30% (8, 9).
+• Hierro no Hemínico (hierro no hem): Es el que se encuentra en los alimentos de origen
+vegetal y tiene una absorción de hasta 10%(9), tales como habas, lentejas, arvejas, con
+mayor nivel de absorción, y las espinacas, acelgas y hojas de color verde oscuro, con menor
+nivel de absorción.
+• Hierro Polimaltosado: Es un complejo de hierro de liberación lenta. La polimaltosa actúa
+como una envoltura alrededor del hierro trivalente, asegurando una liberación más lenta
+del complejo de hierro y produce menores efectos secundarios, en comparación con otras
+sales de hierro (sulfato, fumarato, etc.), permitiendo mayor tolerancia y el cumplimiento del
+tratamiento.
+• Requerimientos o necesidades nutricionales: Son las cantidades de todos y cada uno de
+los nutrientes que un individuo debe ingerir de forma habitual para mantener un adecuado
+estado nutricional y prevenir la aparición de enfermedades.
+• Sulfato Ferroso: Es un compuesto químico de fórmula FeSO4. Se encuentra casi siempre
+en forma de sal hepta-hidratada, de color azul-verdoso. Se puede usar para tratar la anemia
+ferropénica.
+• Suplementación: Esta intervención consiste en la indicación y la entrega de hierro, solo
+o con otras vitaminas y minerales, en gotas, jarabe o tabletas, para reponer o mantener
+niveles adecuados de hierro en el organismo.
+• Puerperio: es la etapa biológica que se inicia al término de la expulsión de la placenta
+hasta las seis semanas o 42 días post parto.
+• Referencia: Es el proceso estructurado de envío de un paciente (con información por
+escrito) de un nivel de sistema de salud a otro superior en tecnología y competencia.
+• Salud Intercultural: Es el proceso de articulación de diferentes enfoques conceptuales de
+la atención de la salud existentes, en un espacio físico y social, de una manera horizontal
+y respetuosa entre ellos, basada en el intercambio y discusión de ideas, prácticas y
+experiencias. Implica reducir las barreras culturales existentes para la atención de la salud.
+• Tubo neural: Es la estructura que dará origen al cerebro y la médula espinal. Un cierre
+inadecuado del sistema nervioso central puede dar problemas de espina bífida,
+
+13
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+encefalocele y anencefalia. La anencefalia no es compatible con la vida y la espina bífida
+puede dar síntomas de parálisis infantil, falta de control de los esfínteres y problemas en el
+aprendizaje.
+• Volumen Corpuscular Medio (VCM): es un parámetro usado en el estudio de la sangre
+que mide el tamaño de los eritrocitos (glóbulos rojos) a través de la media del volumen
+individual y se utiliza para ayudar a diagnosticar la causa de la anemia.
+4.5 Medidas Generales de Prevención de Anemia
+La anemia es un problema multifactorial (2,10) cuyos efectos permanecen en todo el ciclo de la vida.
+Las medidas de prevención y de tratamiento contempladas en esta Norma ponen énfasis en un
+abordaje integral e intersectorial.
+Las medidas de prevención son las siguientes:
+• El equipo de salud debe realizar la atención integral en el control de crecimiento y desarrollo,
+atención prenatal y puerperio, incluyendo el despistaje de anemia, a todos los niños, adolescentes,
+mujeres gestantes y puérperas que reciben suplementos de hierro, en forma preventiva o
+terapéutica.
+• Se debe brindar una adecuada consejería a la madre, familiar o cuidador del niño, adolescente,
+y a las mujeres gestantes y puérperas, sobre las implicancias y consecuencias irreversibles de
+la anemia; la importancia de una alimentación variada y con alimentos ricos en hierro de origen
+animal; y la importancia de la prevención o tratamiento de la anemia.
+• Se pondrá énfasis en informar a los padres de niños y adolescentes, a mujeres gestantes y
+puérperas sobre los efectos negativos de la anemia en el desarrollo cognitivo, motor y el
+crecimiento, con consecuencias en la capacidad intelectual y de aprendizaje (bajo rendimiento
+en la escuela o estudios, entre otros) y motora (rendimiento físico disminuido) y con repercusiones
+incluso en la vida adulta (riesgo de padecer enfermedades crónicas).
+Tabla N° 1
+Medidas de Prevención de Anemia
+EN LA GESTACIÓN
+
+EN EL PARTO
+
+PRIMERA INFANCIA, NIÑEZ Y ADOLESCENCIA
+
+Educación alimentaria que promueva la importancia de una
+alimentación variada incorporando diariamente alimentos de
+origen animal como: sangrecita,
+hígado, bazo y otras vísceras de
+color oscuro, carnes rojas, pescado.
+
+Pinzamiento y corte tardío del
+cordón umbilical, a los 2 – 3
+minutos después del nacimiento
+en el recién nacido a término y
+sin complicaciones (60)
+
+Alimentación complementaria desde los 6
+meses de edad durante la niñez y adolescencia que incluya diariamente alimentos de
+origen animal como sangrecita, bazo, hígado,
+carnes rojas, pescado, ya que son las mejores fuentes de hierro hemínico (9,12).
+
+Suplementación de la gestante y puérpera con Hierro y Ácido Fólico a partir de la semana
+14 de gestación hasta 30 días
+post-parto.
+
+Inicio de la lactancia materna
+dentro de la primera hora de nacimiento, de manera exclusiva
+hasta los 6 meses y prolongada
+hasta los 2 años de edad.
+
+Suplementación preventiva con Hierro a
+niños prematuros a partir de los 30 días de
+nacido y a niños nacidos a término desde el
+4to mes hasta los 35 meses (14).
+En localidades con prevalencia de anemia infantil, mayor al 20%, se suplementará a las
+adolescentes mujeres escolares, en dosis
+semanal para prevenir la anemia por un periodo de 3 meses por año.
+
+Consejería y monitoreo para asegurar la adherencia a la suplementación preventiva en el establecimiento de
+salud, hogar y otros espacios de su jurisdicción
+
+14
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+Otras medidas:
+99 Control de parasitosis intestinal: Los niños, adolescentes y sus familias deberán recibir
+tratamiento antiparasitario de acuerdo a la normatividad establecida.
+99 Promoción de la vacunación según calendario.
+99 Promoción del consumo de alimentos fortificados con Hierro.
+99 Promoción del consumo de agua segura, el lavado de mano y la higiene de los alimentos en el
+hogar
+
+V. DISPOSICIONES ESPECÍFICAS
+5.1 CUADRO CLÍNICO: SÍNTOMAS Y SIGNOS
+Las personas con anemia suelen ser asintomáticas (17); por lo que, en poblaciones con alta prevalencia
+se realizará un despistaje regular en niños, adolescentes, mujeres gestantes y puérperas.
+El Plan Nacional para la Reducción y Control de la Anemia Materno Infantil y la
+Desnutrición Crónica Infantil 2017-2021 incluye el despistaje de anemia en todos
+los niños, adolescentes, mujeres gestantes y puérperas, y el inicio inmediato del
+tratamiento de anemia según el diagnóstico de la Tabla N° 3, ya sea que presenten o
+no, los síntomas.
+Los síntomas y signos clínicos de la anemia son inespecíficos cuando es de grado moderado o
+severo. Estos se pueden identificar a través de la anamnesis y con el examen físico completo (Ver
+Tabla N° 2).
+Tabla N° 2
+Síntomas y signos de anemia
+ÓRGANOS O SISTEMA AFECTADO
+
+SÍNTOMAS Y SIGNOS
+
+Síntomas generales
+
+Sueño incrementado, astenia, hiporexia (inapetencia), anorexia,
+irritabilidad, rendimiento físico disminuido, fatiga, vértigos, mareos,
+cefaleas y alteraciones en el crecimiento. En prematuros y lactantes
+pequeños: baja ganancia ponderal.
+
+Alteraciones en piel y fanereas
+
+Piel y membranas mucosas pálidas (signo principal), piel seca, caída del
+cabello, pelo ralo y uñas quebradizas, aplanadas (platoniquia) o con la
+curvatura inversa (coiloniquia).
+
+Alteraciones de conducta alimentaria
+
+Pica: Tendencia a comer tierra (geofagia), hielo (pagofagia), uñas, cabello,
+pasta de dientes, entre otros.
+
+Síntomas cardiopulmonares
+
+Taquicardia, soplo y disnea del esfuerzo. Estas condiciones se pueden
+presentar cuando el valor de la hemoglobina es muy bajo (< 5g/dL).
+
+Alteraciones digestivas
+
+Queilitis angular, estomatitis, glositis (lengua de superficie lisa, sensible,
+adolorida o inflamada, de color rojo pálido o brilloso), entre otros.
+
+Alteraciones inmunológicas
+
+Defectos en la inmunidad celular y la capacidad bactericida de los
+neutrófilos.
+
+Síntomas neurológicos
+
+Alteración del desarrollo psicomotor, del aprendizaje y/o la atención.
+Alteraciones de las funciones de memoria y pobre respuesta a estímulos
+sensoriales.
+
+Fuente: Ministerio de Salud, Dirección General de Intervenciones Estratégicas en Salud Pública, Dirección de Intervenciones
+Estratégicas por Etapas de Vida (2016), adaptado de las referencias bibliográficas (18,19).
+
+15
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+5.2 DIAGNÓSTICO
+CRITERIOS DE DIAGNÓSTICO
+5.2.1 Clínico
+El diagnóstico clínico se realizará a través de la anamnesis y el examen físico.
+• Anamnesis (17,20): Evalúa síntomas de anemia y utiliza la historia clínica de atención integral del
+niño, adolescente y mujer gestante y puérpera para su registro.
+• Examen físico (19): Considera los siguientes aspectos a evaluar:
+99 Observar el color de la piel de la palma de las manos.
+99 Buscar palidez de mucosas oculares
+99 Examinar sequedad de la piel, sobre todo en el dorso de la muñeca y antebrazo
+99 Examinar sequedad y caída del cabello.
+99 Observar mucosa sublingual.
+99 Verificar la coloración del lecho ungueal, presionando las uñas de los dedos de las manos.
+5.2.2 Laboratorio: Medición de Hemoglobina, Hematocrito y Ferritina Sérica
+Para el diagnóstico de anemia se solicitará la determinación de concentración de hemoglobina o
+hematocrito. En los Establecimientos de Salud que cuenten con disponibilidad se podrá solicitar
+Ferritina Sérica.
+5.2.2.1 Medición de la concentración de Hemoglobina o Hematocrito:
+• La medición de la concentración de hemoglobina es la prueba para identificar anemia.
+• Para determinar el valor de la hemoglobina en niños, adolescentes, mujeres gestantes o
+puérperas se utilizarán métodos directos como: cianometahemoglobina (espectrofotómetro (21)
+y azidametahemoglobina (hemoglobinómetro) (22), o los diferentes métodos empleados por
+contadores hematológicos (analizador automatizado y semiautomatizado) para procesar
+hemograma (21,22).
+• De no contar con ningún método de medición de hemoglobina, se determinará el nivel de anemia
+según la medición del hematocrito.
+• La determinación de hemoglobina o hematocrito será realizada por personal de salud capacitado
+en el procedimiento, de acuerdo al método existente en su Establecimiento de Salud. En
+cualquiera de los casos es necesario indicar la metodología utilizada.
+• Todo Establecimiento de Salud, de acuerdo al nivel de atención, debe contar con uno de
+los métodos anteriormente descritos y sus respectivos insumos para la determinación de
+hemoglobina o hematocrito. Se deberá realizar el control de calidad de los datos obtenidos por
+cualquiera de estos métodos. En el caso de hemoglobina, se contará con una solución patrón de
+concentración de hemoglobina conocida (23).
+• Cuando un Establecimiento de Salud no cuente con uno de estos métodos para la determinación
+de hemoglobina o hematocrito, se coordinará con un establecimiento de mayor complejidad, para
+realizar el despistaje de anemia entre la población de niños, adolescentes, mujeres gestantes y
+puérperas, quienes serán citados oportunamente para la determinación de hemoglobina. Este
+despistaje se realizará al menos una vez por mes. El equipo de salud capacitado se movilizará
+para realizar la medición de hemoglobina con equipos portátiles.
+• En zonas geográficas ubicadas por encima de los 1,000 metros sobre el nivel del mar (msnm),
+se debe realizar el ajuste del valor de la hemoglobina observada (ver Anexo N° 1) antes de
+realizar el diagnóstico. Para ello se tendrá en consideración la altitud de la localidad donde viene
+residiendo del niño, adolescente, mujer gestante o puérpera en los últimos 3 meses (24). La orden
+de laboratorio deberá consignar esta localidad.
+
+16
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+• Los Establecimientos de Salud que se encuentran sobre los 1,000 msnm, deberán contar con
+el listado de localidades, centros poblados o comunidades de su jurisdicción con su respectiva
+altitud.
+• El personal de laboratorio o quien realice la determinación de hemoglobina o hematocrito
+registrará los valores de hemoglobina observada en el formato HIS (sin realizar el ajuste por
+altura). El o la responsable de la atención del niño, adolescente, mujer gestante o puérpera
+verificará el ajuste por altitud respectivo. El valor ajustado de hemoglobina es el que se
+considerará para el diagnóstico de anemia.
+• Los criterios para definir anemia se presentan en la Tabla Nº 3. Estos han sido establecidos por
+la Organización Mundial de la Salud.
+• En el caso de diagnosticarse anemia en cualquier grupo de edad, se debe iniciar el tratamiento
+inmediato según esta Norma.
+Tabla N° 3
+Valores normales de concentración de hemoglobina y niveles de anemia en
+Niños, Adolescentes, Mujeres Gestantes y Puérperas (hasta 1,000 msnm)
+Población
+
+Con Anemia Según niveles de Hemoglobina
+(g/dL)
+
+Sin anemia según
+niveles de Hemoglobina
+
+Niños
+Niños Prematuros
+1ª semana de vida
+
+≤ 13.0
+
+>13.0
+
+2ª a 4ta semana de vida
+
+≤ 10.0
+
+>10.0
+
+5ª a 8va semana de vida
+
+≤ 8.0
+
+>8.0
+
+Menor de 2 meses
+
+< 13.5
+
+13.5-18.5
+
+Niños de 2 a 6 meses cumplidos
+
+< 9.5
+
+9.5-13.5
+
+Niños Nacidos a Término
+
+Severa
+
+Moderada
+
+Leve
+
+Niños de 6 meses a 5 años cumplidos
+
+< 7.0
+
+7.0 - 9.9
+
+10.0 - 10.9
+
+≥ 11.0
+
+Niños de 5 a 11 años de edad
+
+< 8.0
+
+8.0 - 10.9
+
+11.0 - 11.4
+
+≥ 11.5
+
+Adolescentes Varones y Mujeres de
+12 - 14 años de edad
+
+< 8.0
+
+8.0 - 10.9
+
+11.0 - 11.9
+
+≥ 12.0
+
+Varones de 15 años a más
+
+< 8.0
+
+8.0 - 10.9
+
+11.0 - 12.9
+
+≥ 13.0
+
+Mujeres NO Gestantes de 15 años a
+más
+
+< 8.0
+
+8.0 - 10.9
+
+11.0 - 11.9
+
+≥ 12.0
+
+Mujer Gestante de 15 años a más (*)
+
+< 7.0
+
+7.0 – 9.9
+
+10.0 - 10.9
+
+≥ 11.0
+
+Mujer Puérpera
+
+< 8.0
+
+8.0 – 10.9
+
+11.0 - 11.9
+
+≥ 12.0
+
+Adolescentes
+
+Mujeres Gestantes y Puérperas
+
+Fuente: Organización Mundial de la Salud, Concentraciones de hemoglobina para diagnosticar la anemia y evaluar su gravedad.
+Ginebra. 2011 (26)
+Fuente: OMS. 2001. El uso clínico de la sangre en Medicina General, Obstetricia, Pediatría y Neonatología, Cirugía y Anestesia,
+trauma y quemaduras. Ginebra (25)
+(*) En el segundo trimestre del embarazo, entre la semana 13 y 28, el diagnóstico de anemia es cuando los valores de hemoglobina
+están por debajo de 10.5 g/dl
+
+5.2.2.2. Medición de la Ferritina Sérica
+Las concentraciones normales de Ferritina dependen de la edad y del sexo. Son elevadas al nacer
+y disminuyen progresivamente durante el primer año (54). Este indicador mide las reservas de hierro
+
+17
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+corporal. La medición se usa cuando la anemia persiste sin evolución favorable, a pesar de haber
+iniciado el tratamiento y contar con una buena adherencia al suplemento. Si la Ferritina es normal, la
+causa de la anemia no es la falta de hierro. Para una adecuada interpretación -en caso de sospecha
+de cuadro inflamatorio agudo- el punto de corte del valor de Ferritina Sérica se reajusta según el
+resultado de la medición de Proteína C Reactiva (PCR) (Tabla N° 4).
+Tabla N° 4.
+Deficiencia de Hierro según concentración de Ferritina
+en suero en menores de 5 años
+Ferritina en Suero
+(ug/L)
+
+Disminución de las reservas de hierro
+Disminución de las reservas de hierro en presencia
+de proceso inflamatorio (PCR > 3 mg/L)
+
+VARONES
+
+MUJERES
+
+< 12
+
+< 12
+
+< 30
+
+< 30
+
+Fuente: OMS. Concentraciones de ferritina para evaluar el estado de nutrición en hierro en las poblaciones. Sistema de Información
+Nutricional sobre Vitaminas y Minerales. Ginebra, 2011(OMS/NMH/NHD/MNM/11.2) (26).
+
+5.2.3. Diagnóstico Diferencial
+Cuando la anemia es por deficiencia de hierro es microcítica, hipocrómica (58). Luego de 3 meses de
+suplementación y comprobarse una adecuada adherencia al suplemento de hierro, y no observar
+una respuesta al tratamiento, se puede solicitar algunos exámenes auxiliares o referirse a un
+establecimiento de mayor complejidad o especializado.
+5.2.4. Exámenes Auxiliares
+En la evaluación de causas de la anemia se pueden solicitar los siguientes exámenes:
+• Examen parasitológico en heces seriado.
+• Gota gruesa en residentes o provenientes de zonas endémicas de malaria.
+• Frotis y si es posible cultivo de sangre periférica, si hay sospecha de Enfermedad de Carrión.
+• Otras pruebas especializadas se realizarán de acuerdo al nivel de atención y capacidad resolutiva
+del Establecimiento de Salud como: morfología de glóbulos rojos y constantes corpusculares.
+5.3 PREVENCIÓN Y TRATAMIENTO DE LA ANEMIA
+El manejo preventivo y terapéutico de la anemia se realizará en base a los productos farmacéuticos
+contemplados en el Petitorio Único de Medicamentos – (PNUME) vigente, de acuerdo a esquema
+establecido. Se tendrá en cuenta el contenido de hierro elemental según cada producto farmacéutico,
+como se señala a continuación en la Tabla No 5. El diagnóstico de anemia se basa en los valores de
+la Tabla N° 3, según edad, sexo y condición fisiológica.
+Sobre la entrega de los suplementos de hierro:
+a) En el caso de los niños la entrega del suplemento de hierro y la receta correspondiente, ya
+sea de suplementación terapéutica o preventiva será realizada por personal médico o de
+salud capacitado que realiza la atención integral del niño. En el caso de las mujeres gestantes,
+puérperas y mujeres adolescentes, la suplementación con hierro, ya sea terapéutica o preventiva,
+será entregada por el profesional que realiza la atención prenatal.
+
+18
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+Tabla N° 5
+Contenido de Hierro elemental de los productos farmacéuticos existentes en PNUME
+PRESENTACION
+GOTAS
+JARABE
+TABLETAS
+
+POLVO
+
+PRODUCTO
+
+CONTENIDO DE HIERRO ELEMENTAL
+
+Sulfato Ferroso
+
+1 gota = 1,25 mg Hierro elemental
+
+Complejo Polimaltosado Férrico
+
+1 gota = 2,5 mg Hierro elemental
+
+Sulfato Ferroso
+
+1 ml = 3 mg de Hierro elemental.
+
+Complejo Polimaltosado Férrico
+
+1 ml= 10 mg de Hierro elemental.
+
+Sulfato Ferroso
+
+60 mg de Hierro elemental
+
+Polimaltosado
+
+100 mg de Hierro elemental
+
+Micronutrientes
+
+Hierro (12,5 mg Hierro elemental)
+Zinc (5 mg)
+Ácido fólico (160 ug)
+Vitamina A (300 ug Retinol Equivalente)
+Vitamina C (30 mg)
+
+Sobre el tratamiento de la anemia con suplementos de hierro:
+a) Debe realizarse con dosis diarias, según la edad y condición del paciente.
+b) Debe realizarse durante 6 meses continuos.
+c) Durante el tratamiento los niveles de hemoglobina deben elevarse entre el diagnóstico y el primer
+control. De no ser así, y a pesar de tener una adherencia mayor a 75%, derivar al paciente a un
+establecimiento de salud con mayor capacidad resolutiva, donde un especialista determinará
+los exámenes auxiliares a realizarse.
+d) Una vez que los valores de hemoglobina han alcanzado el rango “normal”, y por indicación del
+médico o personal de salud tratante, el paciente será contra referido al establecimiento de
+origen, para continuar con su tratamiento.
+Sobre el consumo de suplementos de hierro (preventivo o tratamiento):
+a) El suplemento de hierro se da en una sola toma diariamente.
+b) En caso que se presenten efectos adversos, se recomienda fraccionar la dosis hasta en 2 tomas,
+según criterio del médico o personal de salud tratante.
+c) Para la administración del suplemento de hierro, recomendar su consumo alejado de las
+comidas, de preferencia 1 o 2 horas después de las comidas.
+d) Si hay estreñimiento, indicar que el estreñimiento pasará a medida que el paciente vaya
+consumiendo más alimentos como frutas, verduras y tomando más agua.
+5.3.1 MANEJO PREVENTIVO DE ANEMIA EN NIÑOS
+El tamizaje o despistaje de hemoglobina o hematocrito para descartar anemia en los niños se realiza
+a los 4 meses de edad, en caso que no se haya realizado el despistaje a esta edad, se hará en el
+siguiente control. El diagnóstico de anemia se basa en los valores de la Tabla N° 3.
+La prevención de anemia se realizará de la siguiente manera:
+a) La suplementación preventiva se iniciará con gotas a los 4 meses de vida (Sulfato Ferroso o
+Complejo Polimaltosado Férrico en gotas), hasta cumplir los 6 meses de edad.
+b) Se administrará suplementación preventiva con hierro en dosis de 2 mg/kg/día hasta que
+cumplan los 6 meses de edad (Tabla N° 6).
+
+19
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+c) Luego se continuará con la entrega de Micronutrientes desde los 6 meses de edad hasta
+completar 360 sobres (1 sobre por día).
+d) El niño que no recibió Micronutrientes a los 6 meses de edad, lo podrá iniciar en cualquier edad,
+dentro del rango de edad establecido (6 a 35 meses inclusive o 3 años de edad cumplidos).
+e) En el caso de niños mayores de 6 meses, y cuando el Establecimiento de Salud no cuente con
+Micronutrientes, estos podrán recibir hierro en otra presentación, como gotas o jarabe de Sulfato
+Ferroso o Complejo Polimaltosado Férrico.
+f) En el caso de suspenderse el consumo de Micronutrientes, se deberá continuar con el esquema
+hasta completar los 360 sobres; se procurará evitar tiempos prolongados de deserción.
+Tabla N° 6
+Suplementación Preventiva con Hierro y Micronutrientes
+para niños menores de 36 meses
+CONDICIÓN DEL NIÑO
+
+Niños con bajo
+peso al nacer y/o
+prematuros
+
+Niños nacidos
+a término, con
+adecuado peso al
+nacer
+
+EDAD DE
+ADMINISTRACIÓN
+
+DOSIS 1
+(Via oral)
+
+PRODUCTO A
+UTILIZAR
+
+DURACIÓN
+
+Desde los 30 días
+hasta los 6 meses
+
+2 mg/kg/día
+
+Gotas Sulfato Ferroso
+o
+Gotas Complejo
+Polimaltosado Férrico
+
+Suplementación diaria
+hasta los 6 meses
+cumplidos
+
+Desde los 6 meses
+de edad
+
+1 sobre diario
+
+Micronutrientes:
+Sobre de 1 gramo
+en polvo
+
+Hasta que complete
+el consumo de 360
+sobres
+
+Desde los 4 meses
+de edad hasta los 6
+meses
+
+2 mg/kg/día
+
+Gotas Sulfato Ferroso
+o
+Gotas Complejo
+Polimaltosado Férrico
+
+Suplementación diaria
+hasta los 6 meses
+cumplidos
+
+Desde los 6 meses
+de edad
+
+1 sobre diario
+
+Micronutrientes*:
+Sobre de 1 gramo en
+polvo
+
+Hasta que complete
+el consumo de 360
+sobres
+
+* Si el EESS no cuenta con Micronutrientes podrá seguir usando las gotas o jarabe según el peso corporal
+
+5.3.2 MANEJO TERAPÉUTICO DE ANEMIA EN NIÑOS
+Los niños que tienen diagnóstico de anemia según los valores de la Tabla N° 3 deberán recibir hierro
+y dependerá de la edad (menores o mayores de 6 meses) o si han sido prematuros con bajo peso al
+nacer o de adecuado peso al nacer.
+5.3.2.1 TRATAMIENTO DE LA ANEMIA EN NIÑOS MENORES DE 6 MESES DE EDAD:
+5.3.2.2 Niños Prematuros y/o con Bajo Peso al Nacer:
+a) El tratamiento con hierro a niños prematuros y niños con bajo peso al nacer se iniciará a los 30
+días de nacido, asegurando que hayan concluido la alimentación enteral.
+b) Se administrará tratamiento con hierro según la Tabla N° 7, en dosis de 4 mg/kg/día, y se
+ofrecerá durante 6 meses continuos.
+c) Se realizará el control de hemoglobina a los 3 meses y a los 6 meses de iniciado el tratamiento
+con hierro.
+
+1 Ver el Anexo 5a para equivalencias en gotas o cucharaditas de sulfato ferroso según peso corporal.
+
+20
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+Tabla N° 7
+Tratamiento con hierro para niños prematuros y/o con bajo peso al nacer menores de 6 meses
+de edad con anemia (13, 42).
+CONDICIÓN
+Niño prematuro
+y/o con bajo
+peso al nacer
+
+EDAD DE
+ADMINISTRACIÓN
+
+DOSIS2
+(Vía oral)
+
+Desde 30 días de
+edad
+
+4 mg/Kg/día
+
+PRODUCTO
+
+DURACIÓN
+
+Gotas de Sulfato
+Ferroso
+o
+Gotas de Complejo
+Polimaltosado
+Férrico
+
+Durante
+6 meses
+continuos.
+
+CONTROL DE
+HEMOGLOBINA
+A los
+3 meses y
+6 meses de
+iniciado el
+tratamiento
+
+5.3.2.3 Niños Nacidos a Término y/o con Buen Peso al Nacer menores de 6 meses:
+a) El tratamiento de anemia en menores de 6 meses se hará a partir del primer diagnóstico de
+anemia.
+b) Se administrará el tratamiento con suplementos de hierro, según se indica en la Tabla
+N°8 (12, 17, 42, 43), en dosis de 3 mg/kg/día, y se ofrecerá durante 6 meses continuos.
+c) Se realizará el control de hemoglobina al mes, a los 3 meses y a los 6 meses de iniciado el
+tratamiento con hierro.
+Tabla N° 8
+Tratamiento con hierro para niños nacidos a término y/o con buen peso al nacer menores de 6
+meses con anemia
+CONDICIÓN
+Niño a término
+y con adecuado
+peso al nacer
+
+EDAD DE
+ADMINISTRACIÓN
+
+DOSIS3
+(Vía oral)
+
+Cuando se
+diagnostique
+anemia
+(a los 4 meses o
+en el control)
+
+3 mg/Kg/día
+
+Máxima dosis
+40 mg/día
+
+PRODUCTO
+
+DURACIÓN
+
+Gotas de Sulfato
+Ferroso
+o
+Gotas de Complejo
+Polimaltosado
+Férrico
+
+Durante
+6 meses
+continuos.
+
+CONTROL DE
+HEMOGLOBINA
+Al mes,
+a los 3 meses y 6
+meses de iniciado
+el tratamiento.
+
+5.3.3 TRATAMIENTO DE LA ANEMIA EN NIÑOS DE 6 MESES A 11 AÑOS DE EDAD
+a) El tratamiento con hierro en los niños, que tienen entre 6 meses y 11 años de edad, y han sido
+diagnosticados con anemia, se realiza con una dosis de 3mg/kg/día, según la Tabla N° 9.
+b) Se administrará el suplemento de hierro durante 6 meses continuos.
+c) Se realizará el control de hemoglobina al mes, a los 3 meses y a los 6 meses de iniciado el
+tratamiento con hierro.
+
+2 Ver el Anexo 5b para equivalencias en gotas o cucharaditas de sulfato ferroso según peso corporal
+3 Ver el Anexo 5c para equivalencias en gotas o cucharaditas de sulfato ferroso según peso corporal
+
+21
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+Tabla N° 9
+Tratamiento con hierro para niños de 6 meses a 11 años de edad
+con anemia leve o moderada
+EDAD DE
+ADMINISTRACIÓN
+
+DOSIS4
+(Vía oral)
+
+Niños de
+6 a 35 meses de
+edad
+
+3 mg/Kg/día
+
+Niños de
+3 a 5 años
+de edad
+
+Niños de
+5 a 11 años
+
+Máxima dosis:
+70 mg/día
+(2)
+
+3 mg/Kg/día
+Máxima dosis:
+90 mg/día
+(3)
+3 mg/Kg/día
+Máxima dosis:
+120 mg/día
+(4)
+
+PRODUCTO
+
+DURACIÓN
+
+Jarabe de Sulfato Ferroso
+o
+Jarabe de Complejo Polimaltosado Férrico
+o
+Gotas de Sulfato Ferroso
+o
+Gotas de Complejo Polimaltosado Férrico
+
+Durante
+6 meses
+continuos
+
+CONTROL DE
+HEMOGLOBINA
+Al mes,
+a los 3 meses y
+6 meses
+de iniciado el
+tratamiento
+
+Jarabe de Sulfato Ferroso
+o
+Jarabe de Complejo Polimaltosado Férrico
+
+Jarabe de Sulfato Ferroso
+o
+Jarabe de Complejo Polimaltosado Férrico
+o
+1 tableta de Sulfato ferroso
+o
+1 tableta de Polimaltosado
+
+(2): Dosis Máxima: 5 cucharaditas de jarabe de Sulfato Ferroso o 1.5 cucharadita de jarabe de Complejo Polimaltosado Férrico por día
+(3): Dosis Máxima: 6 cucharaditas de jarabe de Sulfato Ferroso o 2 cucharaditas de jarabe de Complejo Polimaltosado Férrico por día
+(4): Dosis Máxima: 8 cucharaditas de jarabe de Sulfato Ferroso o 2.5 cucharaditas de jarabe de Complejo Polimaltosado Férrico o
+2 Tabletas de Sulfato Ferroso o 1.5 tableta de Polimaltosado por día
+
+5.3.4 MANEJO PREVENTIVO DE ANEMIA EN MUJERES ADOLESCENTES de 12 a 17 años
+a) El manejo preventivo de la anemia en adolescentes mujeres de 12 a 17 años que no tienen
+diagnóstico (Tabla N° 3), se realiza según se indica en la Tabla N° 10.
+b) Se administrarán 2 tabletas de 60 mg de hierro elemental más 400 ug de Ácido Fólico, una vez
+a la semana, durante un periodo de 3 meses continuos por año.
+Tabla N° 10
+Suplementación Preventiva para las adolescentes mujeres de 12 a 17 años.
+EDAD DE ADMINISTRACIÓN
+
+DOSIS
+
+PRODUCTO
+
+DURACIÓN
+
+Adolescente mujer de
+12 a 17 años.
+
+1 tableta de
+60 mg de hierro
+elemental
++ 400ug Ácido Fólico
+2 veces por semana
+
+Tabletas de Sulfato
+Ferroso
++ Ácido Fólico
+
+2 tabletas
+Por semana
+durante
+3 meses continuos
+cada año.
+
+60mg de hierro elemental equivale a 300mg de sulfato ferroso heptahidratado, 180mg de fumarato ferroso a 500mg de gluconato
+ferroso.
+Fuente: Zavaleta N. Respicio G. and Garcia T. Nutr. 130: 462S–464S, 2000 (67) y WHO. 2016. Guideline. Daily Iron Suplementation
+in Adult Women and Adolescent Girls . Ginebra (68)
+
+4 Ver el Anexo 5c para equivalencias en gotas o cucharaditas de sulfato ferroso según peso corporal
+
+22
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+5.3.5 MANEJO TERAPÉUTICO DE ANEMIA EN ADOLESCENTES de 12 a 17 años
+a) El tratamiento de la anemia en adolescentes varones y mujeres de 12 a 17 años con diagnóstico
+de anemia (según valores de la Tabla N° 3), se realiza según se indica en la Tabla N° 11.
+b) Se administrarán 2 tabletas de 60 mg de hierro elemental, haciendo un consumo diario de
+120mg de hierro elemental, durante un periodo de 6 meses continuos.
+c) Se realizará control de hemoglobina al mes, a los 3 meses y a los 6 meses de iniciado el
+tratamiento.
+Tabla N° 11
+Tratamiento de la anemia en varones y mujeres adolescentes de 12 a 17 años de edad con
+anemia leve y moderada
+EDAD DE
+ADMINISTRACIÓN
+
+DOSIS
+
+PRODUCTO
+
+DURACIÓN
+
+CONTROL DE
+HEMOGLOBINA
+
+Adolescentes
+(Hombres y Mujeres)
+de 12 a 17 años
+
+2 tabletas diarias
+(120 mg de hierro
+elemental)
+
+2 tabletas de
+Sulfato Ferroso
+
+Durante
+6 meses continuos
+
+Al mes,
+a los 3 meses
+y a los 6 meses de
+iniciado el tratamiento.
+
+5.3.6 MANEJO PREVENTIVO DE ANEMIA EN MUJERES GESTANTES Y PUÉRPERAS
+El manejo preventivo de la anemia se realizará en las gestantes o puérperas que no tienen diagnóstico
+de anemia según valores de la Tabla N° 3.
+a) La determinación de hemoglobina se realizará según la Tabla N° 12:
+• La primera medición de hemoglobina se realizará en la primera atención prenatal.
+• La segunda medición de hemoglobina se realizará luego de 3 meses con relación a la
+medición anterior.
+• La tercera medición de hemoglobina se solicitará antes del parto.
+• Una cuarta medición se solicitará 30 días después del parto.
+b) En zonas geográficas, ubicadas por encima de los 1,000 metros sobre el nivel del mar, se
+realizará el ajuste de la hemoglobina observada.
+c) En los casos que la gestante inicia la atención prenatal después de las 32 semanas de gestación,
+la determinación de hemoglobina se realiza en esta atención. En caso que no se detecte anemia,
+se hará una siguiente medición de hemoglobina entre la semana 37 y 40 y la última a los 30
+días post parto.
+d) Si en alguna de las determinaciones de hemoglobina, se detecta anemia (hemoglobina <11 g/dl,
+luego del ajuste según altura), debe referirse al médico u obstetra para definir el procedimiento a
+seguir, evaluar la adherencia y derivar para la consulta nutricional con un profesional nutricionista.
+De no contar en el establecimiento de salud con el recurso humano, será el profesional de salud
+capacitado en consejería nutricional quien realice dicha actividad.
+Tabla N° 12
+Medición de Hemoglobina en gestantes durante la atención prenatal
+1era. Medición
+Hemoglobina
+
+2a. Medición
+Hemoglobina
+
+Durante el primer control
+prenatal
+(inicio de la
+suplementación)
+
+Semana 25 a la 28 de
+gestación.
+
+3era. Medición
+Hemoglobina
+
+4ta. Medición
+Hemoglobina
+
+Semana 37 a la 40 de
+A los 30 días post parto
+gestación (antes del parto) (fin de la suplementación)
+
+23
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+e) Las gestantes recibirán suplemento de hierro bajo la forma de Sulfato Ferroso y Ácido Fólico o
+Hierro Polimaltosado y Ácido Fólico, según su equivalencia en hierro elemental (Tabla N° 4).
+f) El manejo preventivo de anemia en las gestantes y puérperas se hará siguiendo lo indicado en
+la Tabla N° 13.
+g) Las gestantes, a partir de la semana 14 de gestación, y las puérperas, hasta los 30 días después
+del parto (30), recibirán suplementos de hierro en dosis diaria de 60 mg de hierro elemental más
+400 ug. de Ácido Fólico (1 tableta diaria) durante 3 meses.
+h) En caso que la gestante no hubiera iniciado la suplementación en la semana 14 de gestación, lo
+hará inmediatamente después de la primera atención prenatal.
+i) En los casos que la gestante inicie la atención prenatal después de las 32 semanas de gestación,
+se le dará una dosis diaria de 120 mg de hierro elemental más 800 ug de Ácido Fólico durante
+3 meses (2 tabletas de 60 mg de hierro elemental más 400 ug de Ácido Fólico, o su equivalente
+en Hierro Polimaltosado) (29), de acuerdo a lo señalado en la Tabla N° 13.
+j) Cuando la adherencia al Sulfato Ferroso más Ácido Fólico no sea adecuada (< 75%) o se
+presentan efectos adversos que limitan su continuidad se podrá emplear como alternativa el
+Hierro Polimaltosado (28, 29, 30).
+k) Para minimizar la intolerancia al Sulfato Ferroso se recomienda empezar con una dosis baja de
+30 mg de hierro elemental por día y aumentar gradualmente en un lapso de 4 a 5 días, según
+tolerancia con dosis divididas. También puede recomendarse la toma de los suplementos con
+las comidas, aunque la absorción de hierro puede disminuir, por lo que de ser posible tomar los
+suplementos con el estómago vacío; sin embargo, en algunos casos no se puede tolerar (30).
+l) La indicación de Hierro y Ácido Fólico deberá ir acompañada de la consejería nutricional, según la
+Guía Técnica “Consejería nutricional en el marco de la atención integral de salud de la gestante
+y puérpera” (aprobada con RM N° 460-2015/MINSA).
+Tabla N° 13
+Suplementación Preventiva con Hierro y Ácido Fólico
+en la mujer gestante y puérpera
+INICIO ADMINISTRACIÓN
+
+DOSIS
+
+Gestantes a partir de la
+semana 14 de gestación
+
+60 mg de hierro
+elemental
++
+400 ug. de Ácido Fólico
+
+Gestantes que inician
+atención prenatal después
+de la semana 32
+
+120 mg de hierro
+elemental
++
+800 ug. de Ácido Fólico
+
+Puérperas
+
+60 mg de hierro
+elemental
++
+400 ug. de Ácido Fólico
+
+PRODUCTO
+
+Tableta de
+Sulfato Ferroso
++
+Ácido Fólico
+o
+Tableta de Hierro
+Polimaltosado
++
+Ácido Fólico
+
+DURACIÓN
+1 tableta al día hasta los
+30 días post parto
+
+2 tabletas al día hasta los
+30 días post parto.
+
+1 tableta al día hasta los
+30 días post parto
+
+5.3.7 MANEJO TERAPÉUTICO DE LA ANEMIA EN GESTANTES Y PUÉRPERAS
+a) El tratamiento de la anemia en gestantes y puérperas con diagnóstico (según valores de la Tabla
+N° 3), se realiza según se indica en la Tabla N° 14.
+b) El tratamiento con hierro consiste en administrarles una dosis diaria de 120 mg de hierro
+elemental más 800 ug de Ácido Fólico durante 6 meses.
+c) El tratamiento en las gestantes y puérperas está dirigido a corregir la anemia y reponer las
+reservas de hierro en los depósitos.
+
+24
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+d) Las gestantes recibirán suplemento de hierro “preferentemente” como Hierro Polimaltosado y
+Ácido Fólico o bajo la forma de Sulfato Ferroso más Ácido Fólico.
+e) En el caso de inadecuada adherencia (<75%) al consumo del Sulfato Ferroso, se utilizará Hierro
+Polimaltosado (28, 29, 36).
+f) La intolerancia al hierro oral limita la adherencia y por lo tanto disminuye la eficacia del
+tratamiento.
+g) Cuando la hemoglobina de la mujer gestante o puérpera con anemia, alcance valores mayores o
+igual a 11 g/dl (hasta 1,000 msnm), se continuará con la misma dosis por un lapso de 3 meses
+adicionales. Concluido el mismo se continuará con una dosis de prevención hasta los 30 días
+post parto para reponer las reservas de hierro (31, 32, 33).
+h) En las gestantes con anemia se realizará la determinación de hemoglobina de manera mensual,
+con el objeto de evaluar la respuesta al tratamiento con hierro y la adherencia.
+Tabla N° 14
+Tratamiento de Anemia con Hierro y Ácido Fólico
+en gestantes y puérperas
+CONDICION DE
+ANEMIA
+
+Anemia Leve
+
+Anemia Moderada
+Anemia Severa
+
+DOSIS
+120 mg de hierro
+elemental
++
+800 µg de Ácido
+Fólico
+Diario
+(2 tabletas diarias)
+
+PRODUCTO
+Sulfato Ferroso
++ Ácido Fólico
+o
+Hierro
+Polimaltosado
++ Ácido Fólico
+Hierro
+Polimaltosado
++ Ácido Fólico
+
+DURACION
+
+CONTROL DE
+HEMOGLOBINA
+
+Durante
+6 meses
+
+Cada 4 semanas hasta
+que la hemoglobina
+alcance valores de
+11 g/dl o más
+(valores ajustados a
+los 1000 msnm).
+
+Tratar inmediatamente como caso de anemia y referir a un establecimiento de mayor
+complejidad que brinde atención especializada (hematología y/o ginecología)
+
+5.4 TRATAMIENTO DE LA ANEMIA SEVERA EN NIÑOS, ADOLESCENTES Y MUJERES GESTANTES
+Y PUÉRPERAS
+El niño, adolescente, mujer gestante y puérpera, con problemas de anemia severa, deberá ser
+evaluado, en la medida de lo posible, por un profesional médico en los establecimientos de salud (16).
+En los casos de anemia severa, diagnosticada en establecimientos de menor capacidad resolutiva,
+se dará la prescripción médica inmediata, como si fuera un caso de anemia moderada. Luego se
+referirá inmediatamente a un Establecimiento de Salud de mayor capacidad resolutiva, donde se
+evaluarán, según el caso específico, las opciones de tratamiento y el criterio médico. En caso de
+contar con servicio de hematología, referir al mismo.
+Los pacientes que hayan tenido una evolución favorable al tratamiento de anemia severa y tengan
+diagnóstico de anemia leve o moderada, deberán ser contra referidos a su Establecimiento de Salud
+de origen, a fin de concluir con su tratamiento durante el periodo de 6 meses y reponer los depósitos
+de hierro en el organismo.
+5.5 EFECTOS ADVERSOS O COLATERALES DEL USO DE SUPLEMENTOS DE HIERRO
+Los efectos colaterales son generalmente temporales y pueden presentarse según el suplemento
+utilizado.
+
+25
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+a) Sulfato Ferroso: Se absorbe mejor entre comidas, pero se incrementan las manifestaciones
+de intolerancia digestiva (rechazo a la ingesta, náuseas, vómitos, constipación, diarrea, dolor
+abdominal), lo que puede limitar su adherencia y eficacia.  Se recomienda consumirlos 1 o 2
+horas después de las comidas (44, 45).
+b) Hierro Polimaltosado: En condiciones fisiológicas es estable y su interacción con otros
+componentes de la dieta parecen ser menores que la del Sulfato Ferroso (28, 29, 45).
+Ante la sospecha de reacciones adversas a medicamentos, el personal de salud debe reportarla
+en el Formato de Notificación de Sospechas de Reacciones Adversas a medicamentos y remitirla al
+órgano competente en su ámbito asistencial.
+5.6 ADQUISICIÓN DE SUPLEMENTOS DE HIERRO Y MICRONUTRIENTES
+Los suplementos de hierro y Micronutrientes requeridos tanto para el manejo preventivo como
+el tratamiento terapéutico de la anemia en niños, adolescentes, gestantes y puérperas serán
+financiados y adquiridos por el Ministerio de Salud para toda la población que así lo requiera;
+sin discriminación de su afiliación o no a seguro alguno. La entrega de suplementos de hierro y
+micronutrientes es gratuita.
+5.7 CONSEJERÍA PARA LA ENTREGA DE SUPLEMENTOS DE HIERRO O MICRONUTRIENTES
+a) Toda entrega de suplementos de hierro o Micronutrientes debe estar acompañada de una
+consejería acerca de la importancia de su consumo, los posibles efectos colaterales y la forma
+de conservarlos (Ver Anexo 4).
+b) Se hará énfasis en la importancia de prevenir la anemia, considerando los siguientes contenidos:
+• Importancia de consumir los suplementos de hierro para asegurar y/o reponer las reservas
+de hierro y evitar la anemia.
+• Evitar la anemia desde la gestación y en los primeros tres años de vida, dado que afecta el
+desarrollo físico y mental del niño desde la etapa gestacional. Las consecuencias de la anemia
+en la gestación son: hemorragias, mortalidad materna, bajo peso al nacer, prematuridad.
+Luego del nacimiento puede afectar el crecimiento infantil, reducir el rendimiento escolar y
+el desarrollo intelectual. La anemia en las mujeres adolescentes pone en riesgo las reservas
+de hierro.
+c) Manejo de posibles efectos colaterales al consumir los suplementos de hierro o los micronutrientes.
+d) El tratamiento con hierro se administra de manera separada con ciertos antibióticos (quinolonas,
+ciclinas), L-tiroxina, levodopa, inhibidores de la bomba de protones y antiácidos (aluminio,
+zinc) (40).
+e) El reconocimiento temprano de la anemia en el periodo prenatal, seguido de un tratamiento con
+hierro, puede reducir la necesidad de transfusión de sangre posterior (34, 35, 38,39).
+f) El personal de salud recomendará consumir los suplementos de hierro con Ácido Ascórbico
+o algún refresco de fruta cítrica, ya que favorece la liberación más rápida de hierro a nivel
+gastrointestinal. Sin embargo, si es que ello aumenta la tasa de efectos secundarios (41), y
+ocasiona malestares, será necesario sugerir la siguiente toma del suplemento con agua.
+g) Se debe brindar información y orientación a la madre o cuidador del niño o adolescente y a la
+mujer gestante o puérpera, entregándole material educativo adecuado.
+h) Importancia y beneficios del consumo de alimentos de origen animal ricos en hierro como hígado,
+sangrecita, bazo, pescado, para asegurar reservas de hierro y prevenir la anemia.
+i) Beneficios del consumo de micronutrientes en el niño entre los 6 y 36 meses de vida.
+j) Importancia del cumplimiento del esquema de suplementación y de los controles periódicos de
+determinación de hemoglobina.
+k) Importancia de contar con prácticas saludables de cuidado integral (lactancia materna, lavado
+de manos, higiene entre otras).
+
+26
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+5.8 CRITERIOS DEL ALTA EN EL TRATAMIENTO DE ANEMIA
+El médico o personal de salud tratante indicará el alta cuando el niño o adolescente o mujer
+gestante o puérpera haya cumplido con el tratamiento establecido y si en el control de hemoglobina
+se confirman los valores “normales” (ver Tabla N° 3) y la recuperación total del paciente, según esta
+Norma.
+5.9 PRONÓSTICO
+El pronóstico dependerá de la evolución del paciente, el mismo que podrá ser valorado según los
+controles de hemoglobina que se realicen y otros exámenes solicitados, siempre y cuando sea
+posible realizarlo en el Establecimiento de Salud.
+5.10 COMPLICACIONES
+En la mayoría de anemias leves y moderadas no se observan complicaciones, tales como taquicardia,
+disnea de esfuerzo, entre otros. Estas se presentan en las anemias severas, cuando la hemoglobina
+es menor a 5 g/dL. Todas las posibles complicaciones son prevenibles con un adecuado y oportuno
+manejo de la anemia.
+5.11 REGISTRO DE LA INFORMACIÓN- DIAGNÓSTICO DE ANEMIA
+Según el CIE -10 (5, 47), se utilizarán los siguientes códigos de diagnóstico de anemia (con o sin
+deficiencia de hierro).
+Tabla N° 16
+Códigos de diagnóstico de anemia
+CÓDIGO CIE X
+
+DIAGNÓSTICO
+
+D50.0
+
+Anemia por deficiencia de hierro secundaria a pérdida de sangre (crónica)
+
+D50.8
+
+Otras anemias por deficiencia de hierro.
+
+D50.9
+
+Anemia por deficiencia de hierro sin otras especificaciones.
+
+D64.9
+
+Anemia de tipo no especificado
+
+Fuente: Organización Mundial de la Salud. Clasificación Estadística Internacional de Enfermedades y Problemas
+relacionados con la salud. Décima revisión. Vol. 3.Ginebra 1994 (47)
+
+El personal de la salud que realiza las actividades contenidas en la presente Norma realizará el
+registro según corresponda en:
+• Historia Clínica Infantil e Historia Clínica Materno Perinatal.
+• Carné de Atención Integral del Niño, Carné de Atención Integral del Adolescente y Carné de
+Atención Materno Perinatal.
+• Registro Diario de Atención y Otras Actividades de Salud - HIS (para Establecimientos de Salud
+del Ministerio de Salud y Gobiernos Regionales)
+• Registro HIS de las Actividades de Suplementación y Actividades Complementarias.
+• Registro en el Sistema de Información del Estado Nutricional - SIEN, según corresponda.
+
+5 Clasificación Estadística Internacional de Enfermedades y Problemas relacionados con la salud.
+
+27
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+• Formato Único de Atención del Seguro Integral de Salud (FUA - SIS), según corresponda.
+• Registro Electrónico Materno Infantil (en Establecimientos de Salud donde sean implementados).
+• Registro de Consumo Integrado - Informe de Consumo Integrado-ICI-SISMED, según corresponda.
+5.12 MONITOREO Y SEGUIMIENTO
+Todo el personal de salud es responsable de realizar el monitoreo al tratamiento o prevención de la
+anemia en niños, adolescentes, mujeres gestantes y puérperas. El objetivo es asegurar la adherencia
+al mismo y ofrecerles una buena consejería a través de la visita domiciliaria.
+Extramuro: Se realizará 1 visita domiciliaria dentro del primer mes después de iniciar el tratamiento
+y por lo menos 1 visita adicional en el resto del periodo de tratamiento, cuando se cumplan las
+siguientes acciones:
+• Identificar al cuidador o tutor del paciente (madre, otro familiar u otro cuidador) responsable de
+brindar el suplemento de hierro al niño o adolescente y a la mujer gestante o puérpera.
+• Verificar si la persona responsable de administrar el suplemento de hierro, conoce la cantidad,
+frecuencia y forma de administrarlo.
+• Solicitar el frasco gotero o jarabe o las tabletas no consumidas aún del suplemento.
+• Indagar y verificar sobre el lugar donde usualmente se guarda el suplemento.
+• Evaluar la adherencia al tratamiento: preguntar si el niño o adolescente está tomando el
+suplemento; si lo acepta con facilidad, lo rechaza, o si presentó algún inconveniente. Verifique el
+volumen de contenido restante en el frasco y/o número de tabletas por consumir, según la edad,
+dosis y tiempo de tratamiento que corresponde a cada paciente.
+• Indagar sobre los alimentos ricos en hierro de la localidad y recomendar su consumo diariamente,
+según sea factible.
+• Fortalecer los mensajes claves relacionados: a) Continuar con el tratamiento hasta finalizar; b)
+Continuar con el consumo de alimentos de origen animal ricos en hierro propios del lugar donde
+vive; c) Asistir al establecimiento de salud para los controles de evaluación de anemia o ante
+cualquier consulta; d) Recordarles las consecuencias irreversibles de la anemia en el niño y
+adolescente
+• La visita domiciliaria puede ser aprovechada para conocer los hábitos de alimentación e higiene
+de la familia y la disponibilidad de alimentos ricos en hierro de origen animal.
+Intramuro (En el Establecimiento de Salud):
+• En los casos de tratamiento de anemia, se evaluará la evolución de aumento hemoglobina según
+lo establecido en esta Norma y/o cuando el médico o personal de salud tratante lo solicite según
+sea pertinente.
+• En los casos de tratamiento de anemia, si en el primer control (al mes de iniciado el tratamiento)
+no se evidencia un aumento de por lo menos 1 g/dL de hemoglobina, o si se detiene la
+recuperación de los niveles de hemoglobina en cualquier control, se deberá evaluar la adherencia
+al tratamiento.
+• En los casos de tratamiento o prevención, si no se detecta una buena adherencia al tratamiento,
+se evaluarán las razones, para tomar medidas correctivas:
+a) Si se debe a que el niño, adolescente o gestante refiere efectos adversos que limitan que
+continúe el consumo del suplemento de hierro, se le brindará, junto con la consejería, la
+alternativa de complejo Polimaltosado Férrico.
+b) Si se debe a que el niño, adolescente o gestante no consume el hierro por costumbre o
+desinformación, se reforzará la consejería en el uso del suplemento y motivará a cumplir la
+indicación en la toma del producto.
+• Para el caso de niños menores de 3 años, que vienen recibiendo Micronutrientes y son
+
+28
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+diagnosticados con anemia, se deberá iniciar tratamiento por un periodo de 6 meses y suspender
+el consumo de Micronutrientes en esta etapa. Una vez concluido el periodo de tratamiento,
+continuar con el consumo de los Micronutrientes hasta completar los 360 sobres.
+
+VI. RESPONSABILIDADES
+6.1 NIVEL NACIONAL
+• La lucha contra la anemia es una política de Estado. El Ministerio de Salud, a través de la
+Dirección General de Intervenciones Estratégicas en Salud Pública (DGIESP), mediante la
+Dirección de Salud Sexual y Reproductiva (DSARE) y la Dirección de Intervenciones por Curso de
+Vida y Cuidado Integral (DVICI); y el Instituto Nacional de Salud (INS), a través del Centro Nacional
+de Alimentación y Nutrición (CENAN), o sus equivalentes, y de acuerdo a sus competencias, son
+responsables de la difusión de la presente Norma Técnica. Estas instancias son responsables de
+la asistencia técnica a nivel regional para la aplicación, monitoreo y supervisión del cumplimiento
+de esta Norma Técnica, a nivel nacional.
+• Las Oficinas de Comunicación o las que hagan sus veces, son responsables de la elaboración y
+validación de contenidos de los materiales comunicacionales a utilizarse en relación al tema.
+• El Ministerio de Salud, a través de la Dirección General de Medicamentos, Insumos y Drogas
+(DIGEMID), es responsable de vigilar la calidad e inocuidad de los suplementos de hierro y
+Micronutrientes, y que su composición sea la establecida en la presente Norma Técnica. Asimismo
+es responsable de monitorear y evaluar el funcionamiento y proceso del Sistema Integrado de
+Suministro de Medicamentos e Insumos Médico Quirúrgicos (SISMED) a nivel nacional.
+• El Ministerio de Salud, a través del Centro Nacional de Abastecimiento de Recursos Estratégicos
+en Salud (CENARES), realiza la adquisición y distribución de los productos de suministro
+centralizado, hasta el nivel de almacenes del nivel regional, para lo cual realiza las acciones
+correspondientes para garantizar la disponibilidad presupuestal oportunamente.
+• El Ministerio de Salud, financia los productos de suministro centralizado para el manejo preventivo
+o terapéutico de la anemia destinado a la población de niños, adolescentes, mujeres gestantes y
+puérperas a nivel nacional.
+• El Seguro Social de Salud - ESSALUD, la Sanidad de las Fuerzas Armadas y la de la Policía
+Nacional del Perú, a través del órgano competente, son responsables de la adquisición y
+distribución de los suplementos de hierro y Micronutrientes, que les permita asegurar la calidad
+y disponibilidad en todas las instituciones prestadoras de servicios de salud que se encuentren
+bajo su responsabilidad.
+6.2 NIVEL REGIONAL
+• Las Gerencias Regionales de Salud (GERESA), Direcciones Regionales de Salud (DIRESA),
+Redes de Salud y Establecimientos de Salud son los responsables de garantizar de manera
+oportuna, suficiente y permanente los recursos humanos, infraestructura, equipos, insumos,
+material médico y de laboratorio, medicamentos, material educativo comunicacional, etc. para
+cumplimiento de la presente Norma Técnica.
+• Las Gerencias Regionales de Salud (GERESA), Direcciones Regionales de Salud (DIRESA) o las
+que cumplen sus veces en el ámbito regional, son responsables de la difusión de la Norma
+Técnica en sus jurisdicciones respectivas, así como de la organización, supervisión, monitoreo y
+evaluación de los servicios de salud de su jurisdicción para garantizar su cumplimiento.
+• Las Gerencias Regionales de Salud (GERESA), Direcciones Regionales de Salud (DIRESA) o las
+que cumplan sus funciones en el ámbito regional, a través de las Oficinas de Comunicación y
+de la Dirección General de Intervenciones Estratégicas en Salud Pública, específicamente de
+la Estrategia Sanitaria de Alimentación y Nutrición Saludable y la Dirección de Salud Sexual y
+
+29
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+Reproductiva, implementarán estrategias de comunicación e intervenciones efectivas orientadas
+a sensibilizar a la población sobre causas, consecuencias y prevención de la anemia. Asimismo,
+deben considerar la diversidad cultural, la disponibilidad y acceso a alimentos ricos en hierro de
+origen animal en la localidad.
+6.3 NIVEL LOCAL
+La Dirección o Jefatura de cada Red de Salud, Micro red de Salud o Establecimiento de Salud
+público, en todos los niveles de atención, es responsable de la implementación y cumplimiento de
+la presente Norma Técnica.
+
+VII. DISPOSICIONES FINALES
+La presente Norma Técnica debe ser revisada y actualizada por la Dirección General de Intervenciones
+Estratégicas de Salud Pública del Ministerio de Salud.
+
+VIII. ANEXOS
+ANEXO N° 1:
+ANEXO N° 2:
+ANEXO N° 3:
+ANEXO N° 4:
+ANEXO N° 5:
+
+30
+
+Tablas para el ajuste de hemoglobina según la altura sobre el nivel del mar.
+Etiología de la anemia.
+Requerimientos y contenido de hierro en alimentos.
+Consejería y advertencias sobre el uso y conservación del suplemento de hierro en
+gotas, jarabe y Micronutrientes.
+Dosificación de suplementos de hierro en gotas y jarabe
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+ANEXO N° 1
+TABLAS PARA EL AJUSTE DE HEMOGLOBINA SEGÚN LA ALTURA SOBRE EL NIVEL DEL MAR
+El ajuste de los niveles de hemoglobina se realiza cuando el niño, adolescente, gestante o puérpera
+residen en localidades ubicadas en altitudes por encima de los 1,000 metros sobre el nivel del mar.
+El nivel de hemoglobina ajustada es el resultado de aplicar el factor de ajuste al nivel de hemoglobina
+observada.
+Niveles de hemoglobina ajustada = Hemoglobina observada - Factor de ajuste por altitud.
+
+ALTITUD (msnm)
+
+ALTITUD (msnm)
+
+ALTITUD (msnm)
+
+DESDE
+
+HASTA
+
+Factor de
+ajuste por
+altitud
+
+1000
+
+1041
+
+0.1
+
+3082
+
+3153
+
+2.0
+
+4183
+
+4235
+
+3.8
+
+1042
+
+1265
+
+0.2
+
+3154
+
+3224
+
+2.1
+
+4236
+
+4286
+
+3.9
+
+1266
+
+1448
+
+0.3
+
+3225
+
+3292
+
+2.2
+
+4287
+
+4337
+
+4.0
+
+1449
+
+1608
+
+0.4
+
+3293
+
+3360
+
+2.3
+
+4338
+
+4388
+
+4.1
+
+1609
+
+1751
+
+0.5
+
+3361
+
+3425
+
+2.4
+
+4389
+
+4437
+
+4.2
+
+1752
+
+1882
+
+0.6
+
+3426
+
+3490
+
+2.5
+
+4438
+
+4487
+
+4.3
+
+1883
+
+2003
+
+0.7
+
+3491
+
+3553
+
+2.6
+
+4488
+
+4535
+
+4.4
+
+2004
+
+2116
+
+0.8
+
+3554
+
+3615
+
+2.7
+
+4536
+
+4583
+
+4.5
+
+2117
+
+2223
+
+0.9
+
+3616
+
+3676
+
+2.8
+
+4584
+
+4631
+
+4.6
+
+2224
+
+2325
+
+1.0
+
+3677
+
+3736
+
+2.9
+
+4632
+
+4678
+
+4.7
+
+2326
+
+2422
+
+1.1
+
+3737
+
+3795
+
+3.0
+
+4679
+
+4725
+
+4.8
+
+2423
+
+2515
+
+1.2
+
+3796
+
+3853
+
+3.1
+
+4726
+
+4771
+
+4.9
+
+2516
+
+2604
+
+1.3
+
+3854
+
+3910
+
+3.2
+
+4772
+
+4816
+
+5.0
+
+2605
+
+2690
+
+1.4
+
+3911
+
+3966
+
+3.3
+
+4817
+
+4861
+
+5.1
+
+2691
+
+2773
+
+1.5
+
+3967
+
+4021
+
+3.4
+
+4862
+
+4906
+
+5.2
+
+2774
+
+2853
+
+1.6
+
+4022
+
+4076
+
+3.5
+
+4907
+
+4951
+
+5.3
+
+2854
+
+2932
+
+1.7
+
+4077
+
+4129
+
+3.6
+
+4952
+
+4994
+
+5.4
+
+2933
+
+3007
+
+1.8
+
+4130
+
+4182
+
+3.7
+
+4995
+
+5000
+
+5.5
+
+3008
+
+3081
+
+1.9
+
+DESDE
+
+HASTA
+
+Factor de
+Ajuste por
+altitud
+
+DESDE
+
+HASTA
+
+Factor de
+Ajuste por
+altitud
+
+Fuente Instituto Nacional de Salud/Centro Nacional de Alimentación y Nutrición/Dirección Ejecutiva de Vigilancia Alimentaria
+y Nutricional (2015), Adaptado de CDC (1989) CDC criteria for anemia in children and childbearing age women. Morbidity and
+Mortality Weekly Report 38, 400–404 (49). y Hurtado A, Merino C & Delgado E. (1945) Influence of anoxemia on the hemopoietic
+activity. Archives of Internal Medicine 75, 284–323. (50)
+
+31
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+ANEXO N° 2
+ETIOLOGÍA DE LA ANEMIA FERROPÉNICA
+Las principales causas de la anemia se presentan en la Tabla N° 1
+Tabla N° 1
+Principales causas de anemia
+INCREMENTO DE NECESIDADES Y/O BAJOS
+DEPÓSITOS DE HIERRO
+
+• Prematuros (considerado como el grupo
+
+•
+•
+•
+•
+•
+•
+•
+
+de mayor riesgo por lo que su atención es
+prioritaria) y/o Niños con bajo peso al nacer
+y/o gemelares.
+Niños nacidos a término y/o con Buen peso
+al nacer.
+Niños menores de 2 años.
+Niños con infecciones frecuentes
+Gestantes (sobre todo en el 3er trimestre).
+Parto: Clampaje precoz del cordón umbilical,
+antes de 1 minuto.
+Adolescentes, principalmente mujeres.
+Mujeres en edad fértil.
+
+BAJO APORTE DE HIERRO
+
+• Ingesta dietética insuficiente o inadecuada.
+-- Alimentación complementaria deficiente en hierro
+
+•
+
+hemínico a partir de los 6 meses de edad con o sin
+lactancia materna.
+-- Alimentación complementaria tardía (inicio después
+de los 6 meses de edad).
+-- Falta de acceso a los alimentos ricos en hierro de
+origen animal (hierro hemínico).
+-- Falta de ingesta de los alimentos ricos en hierro
+hemínico.
+-- Dieta basada principalmente en leche (leche de
+vaca y otros >= 24 onzas/día) y carbohidratos.
+Dieta vegetariana sobre todo con alto contenido de
+fitatos y taninos.
+
+DISMINUCIÓN DE LA ABSORCIÓN
+
+PÉRDIDAS SANGUÍNEAS
+
+---• Factores dietéticos que inhiben la absorción
+
+•
+•
+
+del hierro: taninos que están en el té, café,
+mates y gaseosas; fitatos que están en la
+fibra y calcio en los productos lácteos.
+Patologías del tracto digestivo como diarreas,
+síndrome de mala absorción gastritis crónica,
+ausencia del duodeno pos quirúrgica.
+Medicamentos que reducen la absorción del
+hierro: Omeprazol, Ranitidina, Carbonato de
+Calcio, etc.
+
+-----
+
+---
+
+Hemorragias: Intrauterinas, perinatales, digestivas,
+etc.
+Menorragia (adolescentes)
+Introducción de la leche de vaca en el primer año de
+vida puede producir microsangrado
+Infestaciones parasitarias: Uncinarias, Giardia,
+Plasmodium.
+Infecciones por bacterias como Helicobacter
+Pylori.
+Patologías: Algunas anemias hemolíticas
+intravasculares, por ejemplo en el caso de malaria
+y otras patologías que producen hemólisis, u
+operaciones quirúrgicas, entre otros.
+Epistaxis reiteradas, hematuria, hemoptisis,
+hemorroides sangrantes, pérdida de sangre por
+heces, etc.
+Uso crónico de Antiinflamatorios No Esteroideos
+(AINES) y Aspirina que condicione pérdidas
+patológicas de hierro a nivel digestivo.
+
+Fuente: Adaptado por el Ministerio de Salud de las referencias bibliográficas (5, 6, 8).
+
+32
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+ANEXO N° 3
+CONTENIDO DE HIERRO EN ALIMENTOS y REQUERIMIENTOS
+El consumo de hierro en la alimentación humana puede proceder de dos fuentes; hierro hemínico
+(hierro hem), presente en productos como el hígado, sangrecita, bazo, carnes rojas, pescado, y
+hierro no hemínico, presente en los productos de origen vegetal, que se encuentra en las menestras
+como las lentejas, las habas, los frejoles, las arvejas, y en verduras como la espinaca y en algunos
+productos de origen animal, como la leche y los huevos. También se encuentra en la harina de trigo
+fortificada.
+Tabla N° 1
+Requerimientos de Hierro
+Ingesta diaria de Hierro recomendada
+(mg/día)
+
+Requerimientos de Hierro
+
+Mujeres
+
+Varones
+
+Niños de 6 meses a 8 años
+
+11
+
+Niños de 9 años a adolescentes de 13 años
+
+8
+
+Adolescentes de 14 a 18 años
+
+15
+
+Gestantes
+
+30
+
+Mujeres que dan de lactar
+
+15
+
+11
+
+Fuente: Adaptado de FAO/OMS. (2001). Human Vitamin and Mineral Requirements.
+Food and Nutrition Division - FAO. Roma, Italia (60)
+
+Tabla N° 2
+Contenido de Hierro en mg por ración de 2 cucharadas
+en diversos alimentos
+ALIMENTOS
+
+Cantidad de Hierro en mg por ración de 2
+cucharadas (30 gramos)
+
+Sangre de pollo cocida
+
+8.9
+
+Bazo de res
+
+8.6
+
+Riñón de res
+
+3.4
+
+Hígado de pollo
+
+2.6
+
+Charqui de res
+
+2.0
+
+Pulmón (Bofe)
+
+2.0
+
+Hígado de res
+
+1.6
+
+Carne seca de llama
+
+1.2
+
+Corazón de res
+
+1.1
+
+Carne de Carnero
+
+1.1
+
+Pavo
+
+1.1
+
+Carne de res
+
+1.0
+
+Pescado
+
+0.9
+
+Carne de pollo
+
+0.5
+
+Fuente: CENAN/INS/MINSA. 2009 Tabla Peruana de Composición de
+Alimentos 7ma. Edición. Lima, Perú (61)
+
+33
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+La biodisponibilidad, referida a la eficiencia por la cual el hierro de los alimentos es utilizado
+biológicamente por el organismo, depende del tipo de hierro contenido en los alimentos, de la
+cantidad, de la combinación de alimentos en una comida y de otros factores. El nivel de absorción
+del hierro hemínico de los alimentos es el más elevado (25% en promedio). El nivel de eficiencia
+de utilización del hierro no hemínico de los alimentos, es relativamente bajo comparado con el del
+hierro hemínico del orden del 1 al 10%.
+Recomendaciones
+• Reforzar el consumo de alimentos ricos en hierro de origen animal como sangrecita, hígado,
+bazo, pescado o carnes rojas:
+99 En las mujeres gestantes: 5 cucharadas de estos alimentos ricos en hierro en su comida
+diaria.
+99 En los niños, a partir de los 6 meses de edad, agregarle 2 cucharadas de estos alimentos
+ricos en hierro en su comida diaria.
+• Recomendar el consumo de facilitadores de la absorción de hierro tales como alimentos ricos en
+vitamina C como las frutas cítricas, en las comidas.
+• Reducir el consumo de inhibidores de la absorción de hierro tales como mates, té o infusiones o
+café con las comidas y se recomienda no tomar estos líquidos con los suplementos de hierro (8).
+• Consumir productos lácteos (leche, yogurt, queso) alejados de las comidas principales.
+ANEXO N° 4
+CONSEJERÍA Y ADVERTENCIAS DEL USO Y CONSERVACIÓN DE
+SUPLEMENTOS DE HIERRO EN GOTAS, JARABE Y MICRONUTRIENTES
+Cómo y con qué tomar los Suplementos de Hierro en gotas o jarabe
+Explicar a la madre, padre o cuidador:
+• Abrir el frasco de suplemento de hierro (Sulfato Ferroso o Complejo Polimaltosado Férrico) en gotas o
+jarabe y administrar según la dosis correspondiente, de manera directa en la boca del niño, que no debe
+contener alimentos.
+• Utilizar el gotero o la cucharita para medir el suplemento en gotas o jarabe.
+• Tratar de dar el suplemento a la misma hora cada día.
+• El suplemento debe darse espaciado de las comidas, 1 a 2 horas después de las comidas.
+• Tomar el suplemento de preferencia con jugos ricos en vitamina C o agua hervida.
+• Asegurarse que el niño tome todo el jarabe o las gotas inmediatamente para evitar la tinción de los
+dientes.
+• No administrar el suplemento junto con otros medicamentos.
+• El consumo del suplemento de hierro en gotas o jarabe o los Micronutrientes deberán ser suspendidos
+cuando los niños se encuentren tomando antibióticos y reiniciarse en forma inmediata al terminar el
+tratamiento de antibióticos.
+NO OLVIDAR
+• Lavarse las manos con agua y jabón.
+• Lavar el dosificador (vasito, gotero, cucharita), enjuagar con agua hervida y mantener en un lugar limpio
+hasta la próxima dosis
+
+Recordar que el suplemento de hierro es un refuerzo en la
+alimentación, no sustituye a los alimentos ricos en hierro de origen
+animal que los niños deben consumir.
+
+34
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+Dónde guardar el suplemento de Hierro en gotas o jarabe
+• Mantener el suplemento de hierro en gotas o jarabe (o sobres de Micronutrientes) bien cerrados y protegidos
+de la luz solar, calor y humedad en lugar fresco, seguro, bien cerrado.
+
+• El suplemento debe guardarse LEJOS DEL ALCANCE DE LOS NIÑOS, para evitar la ingesta accidental que
+pudiera causar intoxicación.
+
+• Debe guardarse en su caja, en un lugar fresco, seguro, bien cerrado.
+Para quién son los Micronutrientes
+• Ofrecer los Micronutrientes a los niños a partir de los 6 meses de edad, cuando empiezan la alimentación
+complementaria y continuar hasta ofrecerles 360 sobres, es decir durante 12 meses.
+
+• Es necesario asegurar que los niños pequeños consuman el contenido total de este sobre de Micronutrientes
+dadas sus elevadas necesidades nutricionales.
+
+• Solo debe ofrecerle un sobre diario a cada niño. Si se olvida darlo un día no se debe duplicar la dosis al
+siguiente día; solo se debe ofrecer un sobre por día a cada niño.
+
+• Cada sobre de Micronutriente contiene la cantidad justa de vitaminas y minerales que el niño menor de 3
+años necesita.
+
+• Es importante NO compartir el sobre de Micronutrientes con la comida de otro miembro del hogar ni tampoco
+con otro niño.
+
+Cómo preparar los Micronutrientes para consumirlos
+• Los Micronutrientes en polvo son minerales y vitaminas que hacen más nutritiva la comida del niño y ayudan a
+
+•
+•
+•
+
+•
+•
+•
+
+evitar la anemia permitiendo que crezcan sanos y fuertes. Contienen 5 micronutrientes: Hierro, Zinc, Vitamina
+A, Ácido Fólico y Vitamina C. Son reconocidos como fortificantes caseros pues se agregan a una ración de
+comida.
+Los Micronutrientes no necesitan cocinarse, solo deben ser añadidos en una ración de comida espesa de los
+bebés, ya sea en papillas, purés o segundos.
+Se debe mezclar el contenido del sobre de Micronutrientes con 2 cucharadas de la comida, cuando se
+encuentre a temperatura que el niño ya pueda comerla.
+Explicar a la madre o cuidador que los Micronutrientes no le cambiarán el sabor ni el color a la comida,
+siempre y cuando no se utilice comida caliente para realizar la mezcla y se consuma antes de los 15 minutos.
+Por ello es preciso advertir que se debe evitar agregar el polvo de Micronutrientes en la comida caliente, pues
+le cambiará de color, olor y sabor a la comida y el niño no querrá consumirla.
+Se recomienda no mezclar los Micronutrientes con líquidos o semilíquidos como leche, jugos, agua o sopas,
+debido a que el polvo de Micronutrientes se quedará “suspendido” y no se mezclará adecuadamente.
+La ración de comida a la cual se agregó los Micronutrientes no se puede recalentar.
+El consumo de Micronutrientes no debe ser administrado junto con otros medicamentos, debe ser suspendido
+si el niño está tomando antibióticos y podrá reiniciarse al terminar el tratamiento de antibióticos.
+
+Para preparar los Micronutrientes debemos cumplir con los siguientes pasos:
+
+• Debemos lavarnos las manos con agua y jabón antes de preparar el alimento del bebe.
+• Separar 2 cucharas de comida de consistencia espesa (puré, mazamorra o segundo) en el plato del niño
+•
+•
+•
+•
+
+servido y dejar que se entibie.
+Abrir el sobre con los dedos o tijera (no con los dientes) por la esquina y con cuidado.
+Cuando la comida este tibia, echar todo el contenido del sobre en las 2 cucharas de comida espesa separada.
+Mezclar bien las 2 cucharas de comida separada con los Micronutrientes.
+Finalmente, ofrecerle de comer primero las 2 cucharas mezcladas con los Micronutrientes, en no más de 15
+minutos, y luego continuar con el resto de la comida.
+
+35
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+Cómo manejar los posibles efectos colaterales
+Cuando entregue Micronutriente a la madre o cuidador se debe indicar:
+
+• Tener en cuenta que los niños que recibieron lactancia materna exclusiva y que empiezan a consumir
+
+•
+
+•
+•
+•
+•
+
+•
+•
+•
+•
+
+Micronutrientes, exactamente a los 6 meses, pueden presentar heces sueltas debido a:
+○○ Cambios en la flora intestinal (microorganismos) asociados con la introducción del hierro en la dieta.
+○○ Efectos del ácido ascórbico contenido en los Micronutrientes, en el peristaltismo intestinal en los bebés,
+quienes previamente han recibido cantidades pequeñas de ácido ascórbico a través de la leche materna.
+Generalmente la diarrea en niños más grandes estará relacionada a:
+a. Prácticas inadecuadas de lavado de manos.
+b. Inadecuada manipulación de alimentos.
+c. Insalubridad dentro del hogar.
+d. Consumo de agua insegura.
+Que el niño puede presentar algunos malestares que van a pasar y que no hay por qué alarmarse.
+Estos malestares puede ser: náuseas, vómitos, diarrea, estreñimiento.
+También puede ocurrir el oscurecimiento de los dientes (o de la ropa si el suplemento cae en ella). Para evitar
+que los dientes se oscurezcan, recomendar que se tome el suplemento en gotas o jarabe inmediatamente,
+sin tenerlo por mucho tiempo en la boca.
+Advertir que las deposiciones podrían oscurecerse, ya que normalmente alguna pequeña cantidad de hierro
+se excreta en las heces y provoca el oscurecimiento en el color de las heces. El color de las deposiciones
+desaparecerá cuando deje de tomar el suplemento. Estas coloraciones de las deposiciones no son dañinas
+para el niño, reflejan más bien que el niño está tomando el suplemento de hierro y la suplementación debe
+continuar hasta cumplir con los meses establecidos para controlar la anemia.
+Si se presentan estos efectos en el niño, TRANQUILIZAR A LA MADRE, indagar sobre la dosis utilizada, verificar
+el volumen en el frasco o gotero y si es tomado con las comidas o lejos de ellas.
+Indicar que las náuseas, vómitos y diarreas son temporales; si persisten hay que indicar que pruebe
+fraccionando la dosis del suplemento de hierro o cambiar el horario (si es tomado con las comidas, distanciarlo
+de ellas; si no es tomado con las comidas, probar tomar el suplemento con ellas)
+Si hay estreñimiento, indicar que el estreñimiento pasará a medida que el niño vaya consumiendo más
+alimentos, sobre todo frutas y verduras.
+Si los malestares persistieran, consultar con el médico del establecimiento de salud más cercano.
+
+ANEXO N° 5a
+SUPLEMENTO PARA PREVENIR LA ANEMIA SEGÚN PESO CORPORAL EN NIÑOS NACIDOS CON
+BAJO PESO AL NACER O PRE TÉRMINO
+Dosis Preventiva: 2 mg/kg/día
+Peso del Niño o Niña
+(Kg)
+
+36
+
+SULFATO FERROSO
+
+COMPLEJO POLIMALTOSADO
+
+Número de GOTAS
+
+Número de
+cucharaditas de
+JARABE
+
+Número de GOTAS
+
+Número de
+cucharaditas de
+JARABE
+
+2
+
+3
+
+½
+
+2
+
+3
+
+4
+
+½
+
+2
+
+4
+
+6
+
+½
+
+3
+
+5
+
+8
+
+½
+
+4
+
+6
+
+10
+
+1
+
+5
+
+½
+
+7
+
+11
+
+1
+
+6
+
+½
+
+8
+
+13
+
+1
+
+6½
+
+½
+
+9
+
+14
+
+1
+
+7
+
+1
+
+10
+
+16
+
+1
+
+8
+
+1
+
+11
+
+18
+
+1½
+
+9
+
+1
+
+12
+
+19
+
+1½
+
+10
+
+1
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+ANEXO N° 5b
+TRATAMIENTO DE ANEMIA SEGÚN PESO CORPORAL EN
+NIÑOS NACIDOS CON BAJO PESO AL NACER O PRE TÉRMINO
+Dosis Terapéutica: 4 mg/kg/día
+Peso del Niño o Niña
+(Kg)
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+SULFATO FERROSO
+Número de GOTAS
+6
+10
+13
+16
+20
+22
+26
+28
+32
+36
+38
+
+Número de
+cucharaditas de
+JARABE
+0.5
+1
+1
+1
+1.5
+2
+2
+2
+2
+3
+3
+
+COMPLEJO POLIMALTOSADO FERRICO
+Número de GOTAS
+3
+5
+6
+8
+10
+11
+13
+14
+16
+17
+19
+
+Número de
+cucharaditas de
+JARABE
+¼
+¼
+½
+½
+½
+½
+1/2
+1
+1
+1
+1
+
+ANEXO N° 5c
+TRATAMIENTO DE ANEMIA SEGÚN PESO CORPORAL EN
+NIÑOS NACIDOS A TÉRMINO Y CON BUEN PESO AL NACER
+Dosis Terapéutica: 3 mg/kg/día
+Peso del Niño o Niña
+(Kg)
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+23
+25
+28
+32
+
+SULFATO FERROSO
+Número de GOTAS
+10
+12
+14
+17
+19
+21
+24
+26
+29
+31
+34
+36
+38
+41
+
+Número de
+cucharaditas de
+JARABE
+1
+1
+1½
+1½
+1½
+1½
+1½
+2
+2
+2
+3
+3
+3
+3
+3½
+3½
+4
+4½
+4½
+4½
+4½
+6
+
+COMPLEJO POLIMALTOSADO FERRICO
+Número de GOTAS
+5
+6
+7
+8
+10
+11
+12
+13
+14
+15
+17
+18
+19
+20
+
+Número de
+cucharaditas de
+JARABE
+
+½
+½
+½
+½
+½
+¾
+¾
+¾
+1
+1
+1
+1
+1
+1
+1½
+1½
+1½
+2
+2
+
+37
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+BIBLIOGRAFÍA
+1.
+
+Instituto Nacional de Estadística e Informática. Encuesta Demográfica y de Salud Familiar- ENDES 2015. 2016.
+
+2.
+
+Balarajan Y., Ramakrishnan U., Ozaltin E et al. 2011. Anaemia in low-income and middle-income countries.
+Lancet, 378: 2123-35
+
+3.
+
+WHO/UNICEF/UNU. Iron deficiency anaemia: Assessment, prevention, and control. Ginebra, Organización
+Mundial de la Salud, 2001 (WHO/NHD/01.3).
+
+4.
+
+(http://www.who.int/nut/documents/ida_assessment_prevention_control.pdf,accessed 27 Set).
+
+5.
+
+Resolución Jefatural N° 090-2012-J-OPE/INS. Que aprueba la Guía Técnica 001/2012-CENAN- INS:
+“Procedimiento para la determinación de la hemoglobina mediante Hemoglobina Portátil”.
+
+6.
+
+Centers for Disease Control (CDC). Recommendations to prevent and control iron deficiency in the United States.
+Morb Mortal Wkly Rep. 3 de abril de1998;47 (RR-3):1–30.
+
+7.
+
+World Health Organization/Centers for Disease Control. Assessing the iron status of populations: including
+literature reviews: report of a Joint World Health Organization/Centers for Disease Control and Prevention
+Technical Consultation on the Assessment of Iron Status at the Population Level, Geneva, Switzerland, 6–8 April
+2004. – 2nd ed.
+
+8.
+
+Organización Mundial de la Salud. El uso clínico de la sangre. Manual de bolsillo. Organización Mundial de la
+Salud; 2001.
+
+9.
+
+Hallberg L. Bioavailability of dietary iron in man. AnnuRevNutr.1981;1:123–47.
+
+10. Mahan LK, Raymond JL, Escott-Stump S. Krause’s Food & the Nutrition Care Process. 13th edition.2013.
+11. Velásquez-Hurtado, José Enrique et al. Factores asociados con la anemia en niños menores de tres años en Perú:
+Análisis de la Encuesta Demográfica y de Salud Familiar, 2007-2. 013. Biomédica, [S.l.], v. 36, n. 2, p. 220-9, oct.
+2015. ISSN 0120-4157. Fecha de acceso: 11 ene2017 http://dx.doi.org/10.7705/biomedica.v36i2.2896.
+12. De Andrade Cairo RC, Rodrigues Silva L, Carneiro Bustani N, Ferreira Marques CD. Iron deficiency anemia in
+adolescents: A literature review. Nutr Hosp.2014;29(6):1240–9.
+13. Baker RD, Greer FR, Committee on Nutrition American Academy of Pediatrics. Diagnosis and prevention of
+iron deficiency and iron- deficiency anemia infants and young children (0-3years of age). Pediatrics. November
+de2010; 126 (5):1040–50.
+14. Mahoney DH. Iron deficiency in infants and young children: Treatment. En: Up To Date. 2016.
+15. Resolución Ministerial N°1041-2006/ MINSA “Guía de Práctica Clínica para la Atención del Recién Nacido
+Prematuro”.
+16. Resolución Ministerial N° 062 – 2016/MINSA que aprueba modificar el literal K, del numeral 6.5, del Documento
+Técnico: Orientaciones para la atención integral de salud de las y los adolescentes en el I nivel de Atención,
+aprobado con RM N°917-2014/MINSA.
+17. “Norma Técnica de Salud de la Unidad Productora de Servicios de Salud de Nutrición y Dietética”: NTS N°103MINSA/DGSP-V.01.
+18. Comité Nacional de Hematología. anemia ferropénica. Guía de diagnóstico y tratamiento. Arch Argent
+Pediatr.2009;107 (4):353–61.
+19. Guidelines & Protocols Advisory Committee.  2010. Iron Deficiency - Investigation and Management. Junio 15
+2010. British Columbia, Canada
+20. Lichtman M, Kaushansky K, Kipps T, Pichal J, Levi M. Anemia por deficiencia de Hierro. En: Hematology. 8va
+edición. New York: McGraw Hill Medical;2014.
+21. Ministerio de Salud Argentina. Recomendaciones para la Atención clínica del adolescente.2012.
+22. Muñoz M, Morón C. Manual de procedimientos de laboratorio en técnicas básicas de hematología. Lima:
+Ministerio de Salud, Instituto Nacional de Salud. 2005.
+23. Clinical and Laboratory Standards Institute. Procedures and Devices for the Collection of Diagnostic Capillary
+Blood Specimens; Approved Standard. 6ta ed.Vol.28. USA; 2008.
+
+38
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+24. Suardiaz J, Cruz C, Colina A. Técnicas y Procedimientos de Laboratorio Clínico. Ciencias Médicas de La Habana;
+2004.
+25. Center for Disease Control and Prevention. Altitude hemoglobin curve and CDC anemia criteria which uses the
+altitude adjustment.1995.
+26. Organización Mundial de la Salud. El uso clínico de la sangre en Medicina general, Obstetricia, Pediatría y
+Neonatología, Cirugía, Anestesia, trauma y quemaduras. Ginebra.Suiza.2001
+27. Organización Mundial de la Salud. Concentraciones de hemoglobina para diagnosticar la anemia y evaluar su
+gravedad. Ginebra. 2011.
+28. Resolución Ministerial Nº 126-2004/MINSA, que aprueba el Documento Técnico: Nº 006-MINSA-INS-V 0.1
+Lineamientos de Nutrición Materna.
+29. Ortiz R, Toblli JE, Romero JD, Monterrosa B, Frer C, Macagno E, Breymann C. Efficacy and safety of oral iron
+(III) polymaltose complex versus ferrous sulfate in pregnant women with iron-deficiency anemia: a multicenter,
+randomized, controlled study. J Matern Fetal Neonatal Med. 2011 Nov; 24 (11):1347-52. doi:10.3109/1476705
+8.2011.599080. Epub 2011 Aug 23. PubMed PMID: 21859366.
+30. Kambar Ch, Zahedabano, Meenakumari A: Comparative study of efficacy and safety of iron polymaltose complex
+with ferrous sulphate in antenatal women with moderate anemia.
+31. Pavord S, Myers B, Robinson S, Allard S, Strong S, Oppenheimer C. UK Guidelines on the management of iron
+deficiency in Pregnancy. British Society for Haematology, 2011.
+32. Ministerio de Salud. Guías Nacionales de Atención Integral de la Salud Sexual y Reproductiva. Lima, Perú,
+Ministerio de Salud, 2004.
+33. Bhandal N, Rusell R, Intravenous versus oral iron therapy for postpartum anaemia. BJOG. 2006 Nov; 113 (11)
+34. Funk F, Ryle P, Canclini C, Neiser S, Geisser P. The new generation of intravenous iron: chemistry, pharmacology,
+and toxicology of ferric carboxymaltose. Arzneimittelforschung. 2010;60(6a):345-53.
+35. Al A, Unlubilgin E, Kandemir O, Yalvac S, Cakir L, Haberal A. Intravenous versus oral iron for treatment of anemia
+in pregnancy. Obstet Gynecol. 2005; 106:1335-40.
+36. Bayoumeu F, Vial F, Zaccabri A, Agullès O, Laxenaire MC. Iron therapy in iron deficiency anemia in pregnancy:
+intravenous route versus oral route. Am J Obstet Gynecol. 2002; 186:518-22.
+37. National Institute for Health and Clinical Excellence. 2008. Guidance. Antenatal Care: Routine Care for the
+Healthy Pregnant Woman. London
+38. Oregon Evidence-based Practice Center. Rockville (MD Screening for Iron Deficiency Anemia in Childhood and
+Pregnancy: Update of the 1996 U.S. Preventive Task Force Review
+39. Milman N. Fisiopatología e impacto de la deficiencia de hierro y la anemia en las mujeres gestantes y en los
+recién nacidos/infantes. Revista Peruana de Ginecología y Obstetricia 2012; 58: 293-312.
+40. National Collaborating Centre for Women´s and Children´s Health (UK). Antenatal Care: Routine care for healthy
+pregnant women. London: RCOG Press; 2008 Mar.
+41. Arlet JB, Pouchot J, Lasocki S, Beaumont C, Hermine O. Iron therapy: Indications, limitations and modality.
+Lareveu de medicine interne 34(2013) 26-31.
+42. Breyman C, Gliga F, Bejenariu C. Comparartive efficacy and safety of intervenous ferric carboxynaltose in the
+tretment of postpartum iron deficiency anemia. Int J Gynaecol Obstet. 2008 Apr: 101 (1):67-73.
+43. World Health Organization. Worldwide prevalence of anaemia 1993–2005: WHO global database on anaemia.
+WHO Library; 2008.
+44. Donato H, Rapetti C, Crisp R. Anemias carenciales. En: Anemias en Pediatría. Buenos Aires: Fundasap; 2005.
+p.39–86.
+45. Peña-Rosas JP, De-Regil LM, Dowswell T, Viteri FE. Intermittent oral iron supplementation during pregnancy.
+Cochrane Database Syst Rev.2012; (7):CD009997.
+46. Moya A, Sevilla Ardón S. Estudio Comparativo de Hierro Aminoquelado Vs Sulfato Ferroso más Ácido Fólico en el
+Tratamiento de Anemia Ferropénica en el Embarazo. Rev Médica Los Post Grados Med.2008; 11 (1).
+47. Larrucea M, Guevara P, Buño A. Proteína C Reactiva: Utilidad Clínica y Recomendaciones para su medición en el
+
+39
+
+NORMA TÉCNICA - MANEJO TERAPÉUTICO Y PREVENTIVO DE LA ANEMIA
+EN NIÑOS, ADOLESCENTES, MUJERES GESTANTES Y PUÉRPERAS
+
+laboratorio de urgencias. Sociedad Española de Bioquímica Clínica y Patología Molecular; 2014.
+48. Organización Mundial de la Salud. CIE-10 Clasificación Estadística Internacional de Enfermedades y Problemas
+relacionados con la salud. Ginebra;1994. (Publicación Científica No 554; vol.3).
+49. Hill Z, Kirkwood B, Edmond K. Prácticas familiares y comunitarias que promueven la supervivencia, el crecimiento
+y el desarrollo del niño Evidencia de las intervenciones. Organización Mundial de la Salud;2005.
+50. Centers for Disease Control (CDC) (1989) CDC criteria for anemia in children and childbearing-aged women.
+MMWR Morb Mortal Wkly Rep. Jun 9;38(22):400-4.
+51. Hurtado A, Merino C & Delgado E. (1945) Influence of anoxemia on the hemopoietic activity. Archives of Internal
+Medicine 75, 284–323.
+52. Guidelines & Statements. Grupos de Riesgo definidos por la American Hearth Association (AHA) y Center for
+Disease Control and Prevention (CDC).2003.
+53. Myers G. Biomarcadores emergentes para la prevención primaria de la enfermedad cardiovascular y del accidente
+cerebrovascular. Acta Bioquím Clín Latinoam.2010;44(1).
+54. Courdec R, Mary R, Veinberg F. Marcadores de inflamación en pediatría. Acta Bioquím Clín Latinoam.2004;38(4).
+55. Organización Mundial de la Salud. Concentraciones de ferritina para evaluar el estado de nutrición en hierro en
+las poblaciones. Ginebra, Organización Mundial de la Salud; 2011.
+56. World Health Organization. Worldwide prevalence of anaemia 1993–2005 : WHO Global Database on Anaemia.
+WHO Library; 2008.
+57. Beard JL. Why iron deficiency is important in infant development. J Nutr. diciembre 2008; 138(12):2534–6.
+58. Centro Nacional de Excelencia Tecnológica en Salud. Prevención, Diagnóstico y Tratamiento de Anemia por
+Deficiencia de Hierro en menores de 5 años de edad. México; 2016. (Catálogo Maestro de Guías de Práctica
+Clínica). Report N°:SS-221-09.
+59. Comité Nacional de Hematología. Anemia ferropénica. Guía de diagnóstico y tratamiento. Arch Argent
+Pediatr.2009;107 (4):353–61.
+60. Rabe H, Diaz-Rossello JL, Duley L, Dowswell T. Effect of timing of umbilical cord clamping and other strategies
+to influence placental transfusion at preterm birth on maternal and infant outcomes. Cochrane Database Syst
+Rev.2012;(8):CD003248.
+61. Andersson O, Hellström-Westas L, Andersson D, Domellöf M. Effect of delayed versus early umbilical cord
+clamping on neonatal outcomes and iron status at 4 months: a randomized controlled trial. BMJ.2011;343:
+d7157.
+62. McDonald SJ, Middleton P, Dowswell T, Morris PS. Effect of timing of umbilical cord clamping of term infants on
+maternal and neonatal outcomes. Cochrane Database Syst Rev. 2013;(7):CD004074.
+63. Desalegn A, Mossie A, Gedefaw L. Nutritional iron deficiency anemia: magnitude and its predictors among school
+age children, southwest Ethiopia: a community based cross- sectional study. PloS One.2014;9 (12):e114059.
+64. Goddard AF, James MW, McIntyre AS, Scott BB, British Society of Gastroenterology. Guidelines for the management
+of iron deficiency anaemia. Gut. 2011 Oct;60(10):1309-16.
+65. FAO/OMS. (2001). Human Vitamin and Mineral Requirements. Food and Nutrition Division - FAO. Roma, Italia.
+66. CENAN/INS/MINSA. 2009. Tabla Peruana de Composición de Alimentos 7ma. Edición. Lima, Peru.
+67. Instituto Nacional de Salud - Ministerio de Salud. Manual de Procedimientos de Laboratorio. 2013. Lima, Peru.
+68. Zavaleta N. Respicio G. and   Garcia T. Efficacy and Acceptability of Two Iron Supplementation Schedules in
+Adolescent School Girls in Lima, Peru. Nutr. 130: 462S–464S, 2000.
+69. World Health Organization. 2016. Guideline. Daily Iron Supplementation in Adult Women and Adolescent Girls.
+Ginebra
+
+40
+
+
