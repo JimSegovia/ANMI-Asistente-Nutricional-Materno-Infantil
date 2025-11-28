@@ -2,23 +2,27 @@ import React from "react";
 
 export default function Header() {
   return (
-    <header className="flex flex-col items-center text-center mt-6">
-      
-      <h1 >🍼 ANMI</h1>
+    <header className="flex flex-col items-center justify-center">
+      <div className="flex flex-row items-center gap-3">
 
-      <p className="subtitle ">
-        Asistente Nutricional Materno Infantil
-      </p>
+        <img
+          src="/android-chrome-512x512.png"
+          alt="ANMI Logo"
+          className="w-25 object-contain"
+        />
+        <div className="flex flex-col text-left">
 
-      {/* Imagen debajo del subtítulo */}
-      <img
-        src="/android-chrome-512x512.png"
-        alt="ANMI Logo"
-        className="w-28 h-28 mt-3 shadow-[0_12px_30px_rgba(0,0,0,0.01)] rounded-xl"
-      />
+          <h1 className="text-3xl font-extrabold leading-none tracking-tight">
+            ANMI
+          </h1>
 
-      <div className="disclaimer mt-3 text-sm px-4">
-        ⚠️ <strong>Importante:</strong> Esta es una herramienta informativa y educativa. 
+          <p className="text-xs font-medium uppercase tracking-wide leading-tight">
+            Asistente Nutricional Materno Infantil
+          </p>
+        </div>
+      </div>
+      <div className="disclaimer text-sm px-4">
+        ⚠️ <strong>Importante:</strong> Esta es una herramienta informativa y educativa.
         La información proporcionada NO sustituye la consulta con un profesional de la salud.
       </div>
     </header>
