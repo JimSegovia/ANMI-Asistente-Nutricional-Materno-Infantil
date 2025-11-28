@@ -21,7 +21,6 @@ export default function ChatbotPage() {
   };
 
   useEffect(() => {
-    scrollToBottom();
   }, [messages]);
 
   const handleSubmit = async (e) => {
@@ -78,13 +77,15 @@ export default function ChatbotPage() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center from-indigo-500 to-purple-700">
+    <div className="max-h-screen flex flex-col items-center justify-center from-indigo-500 to-purple-700">
 
       {/* Contenedor principal */}
-      <div className="bg-white/90 backdrop-blur-md rounded-2xl shadow-2xl p-8 max-w-full min-h-[800px] w-full text-center">
-
+      <div className="bg-white/90 backdrop-blur-md rounded-2xl shadow-2xl p-8 max-w-full w-full text-center">
+        <div className=" mb-10">
+          <h1 className="text-2xl font-bold text-gray-800 text-center">Chatbot ANMI</h1>
+        </div>
         {/* Chat */}
-        <div className="flex-1 overflow-y-auto mb-4 pr-2 space-y-4">
+        <div className="flex-1 mb-4 pr-2 space-y-4">
           {messages.map((msg) => (
             <div
               key={msg.id}
@@ -120,6 +121,8 @@ export default function ChatbotPage() {
         </div>
 
         {/* Input y Botón (Fijos abajo) */}
+                <div className="p-4 shrink-0">
+
         <form onSubmit={handleSubmit} className="flex gap-2 border-t border-gray-300 pt-4">
           <input
             type="text"
@@ -137,7 +140,7 @@ export default function ChatbotPage() {
             {isLoading ? "..." : "Enviar"}
           </button>
         </form>
-
+</div>
         <Link
           to="/"
           className="inline-block mt-6 text-indigo-600 hover:text-indigo-800"
