@@ -25,10 +25,10 @@ export default function ChatbotPage() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    if (!prompt.trim()) return; 
+    if (!prompt.trim()) return;
 
     const userMessage = { id: Date.now(), text: prompt, sender: "user" };
-    
+
     // 1. ACTUALIZAMOS LA VISTA (Aquí sí guardamos TODO para que el usuario pueda hacer scroll hacia arriba)
     const fullHistory = [...messages, userMessage];
     setMessages(fullHistory);
@@ -40,15 +40,15 @@ export default function ChatbotPage() {
     // 2. PREPARAMOS EL PAQUETE "LIGERO" PARA LA IA
     // Solo tomamos los últimos 6 mensajes anteriores + el nuevo (Total aprox 15-20 interacciones)
     // Esto ahorra datos y hace que responda más rápido.
-    const historyToSend = fullHistory.slice(-20); 
+    const historyToSend = fullHistory.slice(-20);
 
     try {
       const res = await fetch('/api/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ 
-            prompt: inputPrompt,
-            history: historyToSend // <--- Enviamos la versión recortada
+        body: JSON.stringify({
+          prompt: inputPrompt,
+          history: historyToSend // <--- Enviamos la versión recortada
         }),
       });
 
@@ -56,20 +56,20 @@ export default function ChatbotPage() {
 
       const data = await res.json();
       const botMessage = { id: Date.now() + 1, text: data.text, sender: "bot" };
-      
+
       // Agregamos la respuesta al historial visual completo
       setMessages((prev) => [...prev, botMessage]);
 
     } catch (error) {
       console.error("Error capturado:", error);
-      
+
       // --- CAMBIO EN EL CATCH ---
       // En lugar de poner un texto fijo, usamos 'error.message'.
       // Esto mostrará exactamente lo que tu backend respondió.
-      setMessages((prev) => [...prev, { 
-          id: Date.now(), 
-          text: `⚠️ ${error.message}`, // Le puse un emoji de alerta
-          sender: "bot" 
+      setMessages((prev) => [...prev, {
+        id: Date.now(),
+        text: `⚠️ ${error.message}`, // Le puse un emoji de alerta
+        sender: "bot"
       }]);
     } finally {
       setIsLoading(false);
@@ -80,7 +80,10 @@ export default function ChatbotPage() {
     <div className="max-h-screen flex flex-col items-center justify-center from-indigo-500 to-purple-700">
 
       {/* Contenedor principal */}
-      <div className="bg-white/90 backdrop-blur-md rounded-2xl shadow-2xl p-8 max-w-full w-full text-center">
+      <div className="bg-white/90 backdrop-blur-md rounded-2xl shadow-2xl p-8 max-w-full w-full text-center h-screen flex flex-col overflow-hidden relative">
+        
+  
+
         <div className=" mb-10">
           <h1 className="text-2xl font-bold text-gray-800 text-center">Chatbot ANMI</h1>
         </div>
@@ -93,8 +96,8 @@ export default function ChatbotPage() {
             >
               <div
                 className={`p-3 rounded-xl max-w-[80%] text-sm leading-relaxed text-left ${msg.sender === "user"
-                    ? "bg-indigo-600 text-white" // Color Usuario
-                    : "bg-gray-200 text-gray-800" // Color Bot
+                  ? "bg-indigo-600 text-white" // Color Usuario
+                  : "bg-gray-200 text-gray-800" // Color Bot
                   }`}
               >
                 <ReactMarkdown
@@ -121,26 +124,29 @@ export default function ChatbotPage() {
         </div>
 
         {/* Input y Botón (Fijos abajo) */}
-                <div className="p-4 shrink-0">
+        <div className="p-4 shrink-0">
 
-        <form onSubmit={handleSubmit} className="flex gap-2 border-t border-gray-300 pt-4">
-          <input
-            type="text"
-            value={prompt}
-            onChange={(e) => setPrompt(e.target.value)}
-            placeholder="Escribe tu pregunta..."
-            className="flex-1 p-3 rounded-lg border-2 border-gray-200 focus:outline-none focus:border-indigo-500"
-            disabled={isLoading}
-          />
-          <button
-            type="submit"
-            className="bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-6 rounded-lg shadow-md transition-all disabled:opacity-50"
-            disabled={isLoading}
-          >
-            {isLoading ? "..." : "Enviar"}
-          </button>
-        </form>
-</div>
+          <form onSubmit={handleSubmit} className="flex gap-2 border-t border-gray-300 pt-4">
+            <input
+              type="text"
+              value={prompt}
+              onChange={(e) => setPrompt(e.target.value)}
+              placeholder="Escribe tu pregunta..."
+              className="flex-1 p-3 rounded-lg border-2 border-gray-200 focus:outline-none focus:border-indigo-500"
+              disabled={isLoading}
+            />
+            <button
+              type="submit"
+              className="bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-6 rounded-lg shadow-md transition-all disabled:opacity-50"
+              disabled={isLoading}
+            >
+              {isLoading ? "..." : "Enviar"}
+            </button>
+          </form>
+        </div>
+        <p className="text-gray-700 text-sm pl-20 pr-20">
+          El chatbot ANMI es solo una herramienta informativa y puede cometer errores; la información aquí proporcionada nunca sustituye el asesoramiento de un profesional cualificado.
+        </p>
         <Link
           to="/"
           className="inline-block mt-6 text-indigo-600 hover:text-indigo-800"
@@ -148,10 +154,6 @@ export default function ChatbotPage() {
           Volver al Menú Principal
         </Link>
       </div>
-
-      <p className="text-white/80 mt-8 text-sm">
-        Versión Beta — Proyecto ANMI
-      </p>
     </div>
   );
 }
