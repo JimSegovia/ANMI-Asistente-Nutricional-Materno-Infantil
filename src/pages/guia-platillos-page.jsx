@@ -266,7 +266,7 @@ const recetasBebes = [
       "Añade aceite y leche materna.",
       "No agregar sal.",
     ],
-    img: "/recetas/papilla-higado-bebe.png",
+    img: "/platillos/papilla-higado-bebe.png",
   },
   {
     title: "Papilla de Quinua con Espinaca y Pollo",
@@ -285,7 +285,7 @@ const recetasBebes = [
       "Mezcla todo y tritura hasta lograr puré suave.",
       "Añade aceite y leche materna.",
     ],
-    img: "/recetas/papilla-quinua-pollo-bebe.png",
+    img: "/platillos/papilla-quinua-pollo-bebe.jpg",
   },
   {
     title: "Puré de Lentejas Suave con Arroz",
@@ -301,7 +301,7 @@ const recetasBebes = [
       "Mézclalas con el arroz y tritura hasta puré fino.",
       "Añade aceite vegetal.",
     ],
-    img: "/recetas/pure-lentejas-arroz-bebe.png",
+    img: "/platillos/pure-lentejas-arroz-bebe.jpg",
   },
   {
     title: "Papilla de Bonito con Yuca",
@@ -319,7 +319,7 @@ const recetasBebes = [
       "Pisa todo hasta obtener textura triturada.",
       "Añade aceite.",
     ],
-    img: "/recetas/papilla-bonito-yuca.png",
+    img: "/platillos/papilla-bonito-yuca.jpg",
   },
   {
     title: "Puré de Garbanzos con Pollo",
@@ -336,7 +336,7 @@ const recetasBebes = [
       "Mezcla bien hasta lograr textura triturada.",
       "Añade aceite.",
     ],
-    img: "/recetas/pure-garbanzos-pollo-bebe.png",
+    img: "/platillos/pure-garbanzos-pollo-bebe.jpg",
   },
   {
     title: "Papilla “Andina Suave” de Quinua y Kiwicha",
@@ -354,7 +354,7 @@ const recetasBebes = [
       "Agrega zanahoria y tritura.",
       "Añade aceite y leche materna.",
     ],
-    img: "/recetas/papilla-andina-suave.png",
+    img: "/platillos/papilla-andina-suave.jpg",
   },
   {
     title: "Papilla de Avena Fortificada con Frutas (opción dulce)",
@@ -370,7 +370,7 @@ const recetasBebes = [
       "Agrega la fruta y tritura.",
       "No añadir azúcar.",
     ],
-    img: "/recetas/papilla-avena-frutas-bebe.png",
+    img: "/platillos/papilla-avena-frutas-bebe.jpg",
   },
   {
     title: "Papilla de Carne Magra con Verduras",
@@ -388,7 +388,7 @@ const recetasBebes = [
       "Tritura todo junto.",
       "Añade aceite.",
     ],
-    img: "/recetas/papilla-carne-magra-bebe.png",
+    img: "/platillos/papilla-carne-magra-bebe.jpg",
   },
 ];
 
