@@ -6,6 +6,7 @@ import Header from "./components/header";
 import MenuGrid from "./components/menu-grid";
 import Footer from "./components/footer";
 import ChatbotPage from "./pages/chatbot-page";
+import ChatbotOnboarding from "./pages/chatbot-onboarding";
 import InformacionNutricional from "./pages/informacion-nutricional-page";
 import Configuracion from "./pages/configuracion-page";
 import ServiciosDelEstado from "./pages/servicios-estado-page";

@@ -147,13 +147,16 @@ export default function ChatbotPage() {
         <p className="text-gray-700 text-sm pl-20 pr-20">
           El chatbot ANMI es solo una herramienta informativa y puede cometer errores; la información aquí proporcionada nunca sustituye el asesoramiento de un profesional cualificado.
         </p>
+        
+      </div>
+      <div className="flex justify-center mt-8 pb-8">
         <Link
           to="/"
-          className="inline-block mt-6 text-indigo-600 hover:text-indigo-800"
+          className="inline-block border-2 border-white text-white hover:bg-white hover:text-indigo-700 font-semibold py-2 px-6 rounded-full shadow-md transition-all duration-300"
         >
           Volver al Menú Principal
         </Link>
-      </div>
+      </div> 
     </div>
   );
 }
