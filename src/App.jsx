@@ -26,7 +26,8 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<MenuGrid />} /> 
-        <Route path="/chatbot" element={<ChatbotPage />} />
+        <Route path="/chatbot" element={<ChatbotOnboarding />} /> {/* <--- CAMBIO: Ahora usa el Onboarding */}
+        <Route path="/chat-real" element={<ChatbotPage />} />      
         <Route path="/informacion-nutricional" element={<InformacionNutricional />} />
         <Route path="/servicios-estado" element={<ServiciosDelEstado />} />
         <Route path="/configuracion" element={<Configuracion />} />
