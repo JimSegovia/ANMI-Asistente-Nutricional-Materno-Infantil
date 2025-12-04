@@ -20,7 +20,7 @@ const recetasCorrientes = [
       "Agrega la sangrecita desmenuzada y condimenta.",
       "Cocina 5 minutos y sirve con arroz.",
     ],
-    img: "/recetas/lomito-sangrecita-arroz.png",
+    img: "/platillos1/lomito-sangrecita-arroz.jpg",
   },
   {
     title: "Estofado de Hígado con Quinua",
@@ -40,7 +40,7 @@ const recetasCorrientes = [
       "Agregar el hígado, zanahoria y caldo. Cocinar 15 min.",
       "Añadir las espinacas y servir sobre quinua.",
     ],
-    img: "/recetas/estofado-higado-quinua.png",
+    img: "/platillos1/estofado-higado-quinua.jpg",
   },
   {
     title: "Hamburguesas de Garbanzo y Avena",
@@ -57,7 +57,7 @@ const recetasCorrientes = [
       "Mezclar con avena, huevo, cebolla y espinacas.",
       "Formar hamburguesas y cocinar en sartén 5 min por lado.",
     ],
-    img: "/recetas/hamburguesas-garbanzo-avena.png",
+    img: "/platillos1/hamburguesas-garbanzo-avena.jpg",
   },
   {
     title: "Cebiche de Anchoveta",
@@ -74,7 +74,7 @@ const recetasCorrientes = [
       "Mezclar con limón, ají limo y sal.",
       "Refrigerar 10 min, agregar cebolla y culantro.",
     ],
-    img: "/recetas/cebiche-anchoveta.png",
+    img: "/platillos1/cebiche-anchoveta.jpg",
   },
   {
     title: "Guiso de Lentejas con Kiwicha",
@@ -91,7 +91,7 @@ const recetasCorrientes = [
       "Agregar lentejas, zanahoria y agua. Cocinar 25 min.",
       "Añadir kiwicha los últimos 5 min de cocción.",
     ],
-    img: "/recetas/guiso-lentejas-kiwicha.png",
+    img: "/platillos1/guiso-lentejas-kiwicha.jpg",
   },
   {
     title: "Saltado de Pollo con Frijoles",
@@ -108,7 +108,7 @@ const recetasCorrientes = [
       "Saltear las verduras en el mismo sartén.",
       "Unir todo, agregar sillao y servir.",
     ],
-    img: "/recetas/saltado-pollo-frijoles.png",
+    img: "/platillos1/saltado-pollo-frijoles.jpg",
   },
   {
     title: "Tortilla de Sangrecita con Espinaca",
@@ -125,7 +125,7 @@ const recetasCorrientes = [
       "Mezclar con sangrecita desmenuzada, espinacas y cebolla.",
       "Cocinar en sartén engrasada por 4 minutos por lado.",
     ],
-    img: "/recetas/tortilla-sangrecita-espinaca.png",
+    img: "/platillos1/tortilla-sangrecita-espinaca.jpg",
   },
   {
     title: "Arroz Chaufa de Hígado de Pollo",
@@ -142,7 +142,7 @@ const recetasCorrientes = [
       "Agregar el huevo batido y revolver.",
       "Añadir el arroz, sillao y cebolla china. Mezclar bien.",
     ],
-    img: "/recetas/arroz-chaufa-higado-pollo.png",
+    img: "/platillos1/arroz-chaufa-higado-pollo.jpg",
   },
   {
     title: "Ensalada de Quinua con Pescado",
@@ -159,7 +159,7 @@ const recetasCorrientes = [
       "Aliñar con el aceite de la anchoveta y limón.",
       "Servir frío o a temperatura ambiente.",
     ],
-    img: "/recetas/ensalada-quinua-pescado.png",
+    img: "/platillos1/ensalada-quinua-pescado.jpg",
   },
   {
     title: "Puré de Lentejas con Verduras",
@@ -175,7 +175,7 @@ const recetasCorrientes = [
       "Cocinar la mezcla con avena por 5 minutos.",
       "Revolver hasta obtener consistencia de puré.",
     ],
-    img: "/recetas/pure-lentejas-verduras.png",
+    img: "/platillos1/pure-lentejas-verduras.jpg",
   },
   {
     title: "Sopa de Pollo con Avena",
@@ -192,7 +192,7 @@ const recetasCorrientes = [
       "Desmenuzar el pollo y regresar a la olla.",
       "Agregar avena y cocinar 5 minutos más.",
     ],
-    img: "/recetas/sopa-pollo-avena.png",
+    img: "/platillos1/sopa-pollo-avena.jpg",
   },
   {
     title: "Revoltillo de Garbanzos con Huevo",
@@ -208,7 +208,7 @@ const recetasCorrientes = [
       "Aplastar los garbanzos y agregar a la sartén.",
       "Añadir huevos batidos y cocinar revolviendo.",
     ],
-    img: "/recetas/revoltillo-garbanzos-huevo.png",
+    img: "/platillos1/revoltillo-garbanzos-huevo.jpg",
   },
   {
     title: "Guiso de Kiwicha con Verduras",
@@ -225,7 +225,7 @@ const recetasCorrientes = [
       "Agregar zanahoria y espinacas.",
       "Cocinar 5 minutos más y servir.",
     ],
-    img: "/recetas/guiso-kiwicha-verduras.png",
+    img: "/platillos1/guiso-kiwicha-verduras.jpg",
   },
   {
     title: "Frijoles Guisados con Carne",
@@ -242,7 +242,7 @@ const recetasCorrientes = [
       "Agregar frijoles y un poco de agua.",
       "Cocinar 10 minutos a fuego lento.",
     ],
-    img: "/recetas/frijoles-guisados-carne.png",
+    img: "/platillos1/frijoles-guisados-carne.jpg",
   },
 ];
 
