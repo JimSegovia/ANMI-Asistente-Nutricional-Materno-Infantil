@@ -20,8 +20,11 @@ export default function ChatbotPage() {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   };
 
+  // --- 💡 CAMBIO 1: Llamar a scrollToBottom al cambiar los mensajes
   useEffect(() => {
+    scrollToBottom();
   }, [messages]);
+  // -----------------------------------------------------------------
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -77,18 +80,18 @@ export default function ChatbotPage() {
   };
 
   return (
-    <div className="max-h-screen flex flex-col items-center justify-center from-indigo-500 to-purple-700">
-
-      {/* Contenedor principal */}
-      <div className="bg-white/90 backdrop-blur-md rounded-2xl shadow-2xl p-8 max-w-full w-full text-center h-screen flex flex-col overflow-hidden relative">
+    // --- 💡 CAMBIO 2: Añadir `min-h-screen` y quitar `max-h-screen` al contenedor principal para que cubra toda la altura
+    <div className="min-h-screen flex flex-col items-center justify-start">
+      {/* Contenedor principal del Chatbot (Fijo) */}
+      <div className="bg-white/90 backdrop-blur-md rounded-2xl shadow-2xl p-8 max-w-full w-full text-center **h-full** flex flex-col **flex-1** relative">
         
-  
-
-        <div className=" mb-10">
+        <div className=" mb-6"> {/* Reduje el mb para más espacio */}
           <h1 className="text-2xl font-bold text-gray-800 text-center">Chatbot ANMI</h1>
         </div>
-        {/* Chat */}
-        <div className="flex-1 mb-4 pr-2 space-y-4">
+        
+        {/* Chat - ¡AQUÍ ESTÁ EL ARREGLO! */}
+        {/* --- 💡 CAMBIO 3: Añadir `overflow-y-auto` y quitar `pr-2` (que causaba un scrollbar duplicado) */}
+        <div className="flex-1 mb-4 space-y-4 **overflow-y-auto** p-2">
           {messages.map((msg) => (
             <div
               key={msg.id}
@@ -149,7 +152,7 @@ export default function ChatbotPage() {
         </p>
         
       </div>
-      <div className="flex justify-center mt-8 pb-8">
+      <div className="flex justify-center mt-8 pb-8 shrink-0">
         <Link
           to="/"
           className="inline-block border-2 border-white text-white hover:bg-white hover:text-indigo-700 font-semibold py-2 px-6 rounded-full shadow-md transition-all duration-300"
