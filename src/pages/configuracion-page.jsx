@@ -1,5 +1,3 @@
-// src/pages/configuracion-page.jsx
-
 import React, { useEffect, useState } from "react";
 import { useNavigate, Link } from "react-router-dom"; // Aseguramos importar 'Link'
 
@@ -69,10 +67,29 @@ export default function Configuracion() {
       const deletionPromises = names.map(name => caches.delete(name));
       await Promise.all(deletionPromises); 
 
-      alert("La caché ha sido eliminada completamente.");
+      alert("La caché técnica ha sido eliminada.");
     } catch (error) {
       console.error("Error al eliminar la caché:", error);
       alert("Error: No se pudo eliminar la caché.");
+    }
+  };
+
+  // ====================
+  // NUEVO: Borrar Datos del Perfil (LocalStorage)
+  // ====================
+  const handleResetChatData = () => {
+    if (!localStorage.getItem("anmi_user_data")) {
+        alert("No hay datos de perfil guardados para borrar.");
+        return;
+    }
+
+    const confirmDelete = window.confirm(
+        "¿Estás seguro de restablecer el perfil?\n\nSe borrarán la edad, sexo y datos del bebé. La próxima vez que entres al chat tendrás que registrarte de nuevo."
+    );
+    
+    if (confirmDelete) {
+        localStorage.removeItem("anmi_user_data");
+        alert("Perfil eliminado correctamente. El chatbot ahora está como nuevo.");
     }
   };
 
@@ -87,8 +104,7 @@ export default function Configuracion() {
           <p className="text-gray-600 text-lg">Ajustes de tu aplicación ANMI</p>
           <div className="mt-4 bg-yellow-50 border-l-4 border-yellow-400 p-4 rounded-r-lg">
             <p className="text-sm text-gray-700">
-              ⚠️ <strong>Importante:</strong> Configura opciones del sistema o instala
-              la app en tu dispositivo.
+              ⚠️ <strong>Importante:</strong> Aquí puedes restablecer la app si tienes problemas.
             </p>
           </div>
         </div>
@@ -97,11 +113,11 @@ export default function Configuracion() {
       {/* Opciones */}
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
 
-        {/* Instalar App (siempre disponible) */}
+        {/* Instalar App */}
         <div
           onClick={handleInstall}
           className="bg-white rounded-2xl shadow-lg overflow-hidden p-6 cursor-pointer
-                     transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
+                      transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
         >
           <h2 className="text-xl font-semibold text-gray-800 mb-2">
             📲 Instalar App
@@ -111,17 +127,31 @@ export default function Configuracion() {
           </p>
         </div>
 
+        {/* OPCIÓN NUEVA: Restablecer Perfil */}
+        <div
+          onClick={handleResetChatData}
+          className="bg-white rounded-2xl shadow-lg overflow-hidden p-6 cursor-pointer 
+                      transition-all duration-300 hover:shadow-xl hover:-translate-y-1 border-l-4 border-red-500"
+        >
+          <h2 className="text-xl font-semibold text-red-600 mb-2">
+            👶 Restablecer Perfil
+          </h2>
+          <p className="text-gray-600">
+            Borra los datos del bebé (edad, sexo) para reiniciar el asistente desde cero.
+          </p>
+        </div>
+
         {/* Eliminar caché */}
         <div
           onClick={handleClearCache}
           className="bg-white rounded-2xl shadow-lg overflow-hidden p-6 cursor-pointer 
-                     transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
+                      transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
         >
           <h2 className="text-xl font-semibold text-gray-800 mb-2">
-            🗑️ Eliminar caché
+            🗑️ Eliminar Caché Técnica
           </h2>
           <p className="text-gray-600">
-            Borra datos guardados y fuerza una actualización completa.
+            Borra archivos temporales si la app falla, pero mantiene tus datos.
           </p>
         </div>
 
@@ -129,7 +159,7 @@ export default function Configuracion() {
         <div
           onClick={() => navigate("/privacidad-viewer")}
           className="bg-white rounded-2xl shadow-lg overflow-hidden p-6 cursor-pointer
-                     transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
+                      transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
         >
           <h2 className="text-xl font-semibold text-gray-800 mb-2">
             🔐 Manifesto de Privacidad
@@ -141,8 +171,8 @@ export default function Configuracion() {
 
       </div>
       
-      {/* 🔘 Botón Volver */} {/* <--- CÓDIGO AÑADIDO AQUÍ */}
-      <div className="flex justify-center mt-8">
+      {/* 🔘 Botón Volver */}
+      <div className="flex justify-center mt-8 pb-8">
         <Link
           to="/"
           className="inline-block border-2 border-white text-white hover:bg-white hover:text-indigo-700 font-semibold py-2 px-6 rounded-full shadow-md transition-all duration-300"

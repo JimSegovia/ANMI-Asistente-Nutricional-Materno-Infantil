@@ -2,15 +2,15 @@ import React, { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { Check, ArrowRight, User, Baby, Calendar, FileText } from "lucide-react";
 
-// Lista de documentos y fuentes (simplificada para logos)
+// Lista de documentos y fuentes
 const sources = [
   { name: "Ministerio de Salud (MINSA)", logo: "/previews/minsa.png" },
   { name: "Instituto Nacional de Salud (INS/CENAN)", logo: "/previews/cenan.png" },
   { name: "Organismos Internacionales (OMS/OPS/UNICEF)", logo: "/previews/oms.jpg" },
 ];
 
-// Estado 1: Bienvenida y Capacidades
-const WelcomeScreen = ({ nextStep }) => (
+// Estado 1: Bienvenida y Capacidades (SIN CAMBIOS)
+const WelcomeScreen = ({ handleContinue }) => (
   <div className="flex flex-col items-center justify-start h-full pt-4 pb-2 text-center flex-grow"> 
     <div className="w-full mb-auto">
       <h1 className="text-3xl font-bold text-gray-800 mb-4">
@@ -67,15 +67,15 @@ const WelcomeScreen = ({ nextStep }) => (
 
     {/* Botón Siguiente */}
     <button
-      onClick={nextStep}
+      onClick={handleContinue}
       className="mt-6 bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-8 py-3 rounded-xl shadow-md transition-all flex items-center shrink-0"
     >
-      Entendido, Siguiente paso <ArrowRight size={20} className="ml-2" />
+      Entendido, Continuar <ArrowRight size={20} className="ml-2" />
     </button>
   </div>
 );
 
-// Estado 2: Aceptación de Términos
+// Estado 2: Aceptación de Términos (SIN CAMBIOS)
 const TermsScreen = ({ agree, setAgree, handleAccept }) => (
   <div className="flex flex-col items-center justify-start h-full pt-4 pb-2 text-center flex-grow">
     <div className="w-full mb-auto">
@@ -86,7 +86,6 @@ const TermsScreen = ({ agree, setAgree, handleAccept }) => (
         Para usar el chatbot, debes aceptar los siguientes términos y confirmar que entiendes su propósito.
       </p>
 
-      {/* Contenido simplificado de términos */}
       <div className="bg-gray-50 p-4 rounded-xl border border-gray-200 h-80 overflow-y-auto text-left text-sm text-gray-700">
         <p className="font-semibold mb-2">1. Alcance y Propósito</p>
         <p className="mb-3">ANMI es una herramienta educativa e informativa. La información aquí contenida no constituye una consulta médica, diagnóstico, ni sustituye el consejo de un profesional de la salud. Úsala únicamente como soporte de información.</p>
@@ -98,7 +97,6 @@ const TermsScreen = ({ agree, setAgree, handleAccept }) => (
         <p>Aceptas no utilizar esta herramienta para emergencias médicas o para intentar autodiagnosticar o autotratar condiciones graves de salud.</p>
       </div>
       
-      {/* Checkbox de Aceptación */}
       <div className="mt-6 flex items-center justify-center">
         <input
           id="privacy-check"
@@ -113,7 +111,6 @@ const TermsScreen = ({ agree, setAgree, handleAccept }) => (
       </div>
     </div>
 
-    {/* Botón Acceder */}
     <button
       onClick={handleAccept}
       disabled={!agree}
@@ -128,7 +125,7 @@ const TermsScreen = ({ agree, setAgree, handleAccept }) => (
   </div>
 );
 
-// Estado 3: Formulario de Datos
+// Estado 3: Formulario de Datos (SIN CAMBIOS)
 const DataFormScreen = ({ onFinish, onSkip }) => {
   const [formData, setFormData] = useState({
     nombre: "",
@@ -144,7 +141,6 @@ const DataFormScreen = ({ onFinish, onSkip }) => {
   return (
     <div className="flex flex-col items-center justify-start h-full pt-4 pb-2 text-center flex-grow relative">
       
-      {/* Botón Omitir Superior */}
       <button 
         onClick={onSkip}
         className="absolute top-0 right-0 text-gray-400 hover:text-indigo-600 text-sm font-medium transition-colors"
@@ -157,11 +153,11 @@ const DataFormScreen = ({ onFinish, onSkip }) => {
           Ayúdanos a conocerte
         </h1>
         <p className="text-gray-600 mb-6 text-sm">
-          Si nos das algunos datos básicos, el asistente podrá darte respuestas más precisas sobre alimentación y dosis.
+          Si nos das algunos datos básicos, el asistente podrá darte respuestas más precisas.
         </p>
 
         <form className="space-y-4 text-left">
-          {/* Edad (Dato clave) */}
+          {/* Edad */}
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1 flex items-center">
               <Calendar size={16} className="mr-2 text-indigo-500"/> Edad del bebé (Meses/Años)
@@ -196,7 +192,7 @@ const DataFormScreen = ({ onFinish, onSkip }) => {
           {/* Info Extra */}
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1 flex items-center">
-              <FileText size={16} className="mr-2 text-indigo-500"/> ¿Alguna condición? (Anemia, Prematuro...)
+              <FileText size={16} className="mr-2 text-indigo-500"/> ¿Alguna condición?
             </label>
             <textarea
               name="extra"
@@ -224,52 +220,46 @@ const DataFormScreen = ({ onFinish, onSkip }) => {
 export default function ChatbotOnboarding() {
   const [step, setStep] = useState(1);
   const [agreed, setAgreed] = useState(false);
-  const [isChecking, setIsChecking] = useState(true); // <--- NUEVO ESTADO PARA EVITAR PARPADEO
   const navigate = useNavigate();
 
-  // --- CORRECCIÓN CLAVE: VERIFICAR SI YA EXISTEN DATOS AL INICIAR ---
-  useEffect(() => {
+  // NO HAY useEffect de redirección automática.
+  // El paso 1 siempre se muestra primero.
+
+  // Esta función decide a dónde ir después de la bienvenida
+  const handleWelcomeContinue = () => {
     const storedData = localStorage.getItem("anmi_user_data");
+    
     if (storedData) {
-      // Si ya existen datos, redirigimos INMEDIATAMENTE
-      navigate("/chat-real");
+        // SI ya hay datos guardados -> Saltamos directo al chat
+        navigate("/chat-real");
     } else {
-      // Si no existen datos, dejamos de "checkear" y mostramos el contenido
-      setIsChecking(false);
+        // NO hay datos -> Vamos al paso 2 (Términos)
+        setStep(2);
     }
-  }, [navigate]);
+  };
 
-  // Paso 1 -> 2
-  const nextStep = () => setStep(2);
-
-  // Paso 2 -> 3 (Al aceptar términos)
   const handleAcceptTerms = () => {
     if (agreed) setStep(3);
   };
 
-  // Finalizar (Con datos)
   const handleFinishData = (data) => {
     localStorage.setItem("anmi_user_data", JSON.stringify(data));
     navigate("/chat-real");
   };
 
-  // Finalizar (Sin datos / Omitir)
   const handleSkip = () => {
     localStorage.setItem("anmi_user_data", JSON.stringify({ skipped: true }));
     navigate("/chat-real");
   };
 
-  // --- TRUCO ANTI-PARPADEO ---
-  // Si todavía estamos verificando el localStorage, no renderizamos nada (o un spinner)
-  if (isChecking) {
-    return null; // Pantalla en blanco por unos milisegundos, evita el salto visual
-  }
-
   return (
     <div className="min-h-screen flex flex-col items-center justify-center p-4">
       <div className="bg-white/90 backdrop-blur-md rounded-2xl shadow-2xl p-4 max-w-full w-[600px] min-h-[700px] flex flex-col items-center">
         
-        {step === 1 && <WelcomeScreen nextStep={nextStep} />}
+        {/* Paso 1: SIEMPRE se muestra al inicio */}
+        {step === 1 && (
+            <WelcomeScreen handleContinue={handleWelcomeContinue} />
+        )}
         
         {step === 2 && (
           <TermsScreen 
@@ -288,7 +278,6 @@ export default function ChatbotOnboarding() {
 
       </div>
       
-      {/* Botón volver */}
       <div className="flex justify-center mt-8">
          <Link to="/" className="inline-block border-2 border-white text-white hover:bg-white hover:text-indigo-700 font-semibold py-2 px-6 rounded-full shadow-md transition-all duration-300">
            Volver al Menú Principal
