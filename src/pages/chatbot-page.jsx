@@ -16,12 +16,19 @@ export default function ChatbotPage() {
 
   const messagesEndRef = useRef(null);
 
+  {/* No usado
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
-  };
+  }; */}
+
+  const [userData, setUserData] = useState(null);
 
   useEffect(() => {
-  }, [messages]);
+    const storedData = localStorage.getItem("anmi_user_data");
+    if (storedData) {
+      setUserData(JSON.parse(storedData));
+    }
+  }, []);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -37,18 +44,18 @@ export default function ChatbotPage() {
     setPrompt("");
     setIsLoading(true);
 
-    // 2. PREPARAMOS EL PAQUETE "LIGERO" PARA LA IA
     // Solo tomamos los últimos 6 mensajes anteriores + el nuevo (Total aprox 15-20 interacciones)
-    // Esto ahorra datos y hace que responda más rápido.
+
     const historyToSend = fullHistory.slice(-20);
 
-    try {
+  try {
       const res = await fetch('/api/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           prompt: inputPrompt,
-          history: historyToSend // <--- Enviamos la versión recortada
+          history: historyToSend,
+          userData: userData 
         }),
       });
 
@@ -145,7 +152,16 @@ export default function ChatbotPage() {
         <p className="text-gray-700 text-sm pl-20 pr-20">
           El chatbot ANMI es solo una herramienta informativa y puede cometer errores; la información aquí proporcionada nunca sustituye el asesoramiento de un profesional cualificado.
         </p>
+        
       </div>
+      <div className="flex justify-center mt-8 pb-8">
+        <Link
+          to="/"
+          className="inline-block border-2 border-white text-white hover:bg-white hover:text-indigo-700 font-semibold py-2 px-6 rounded-full shadow-md transition-all duration-300"
+        >
+          Volver al Menú Principal
+        </Link>
+      </div> 
     </div>
   );
 }
