@@ -80,16 +80,14 @@ export default function ChatbotPage() {
     <div className="max-h-screen flex flex-col items-center justify-center from-indigo-500 to-purple-700">
 
       {/* Contenedor principal */}
-      <div className="bg-white/90 backdrop-blur-md rounded-2xl shadow-2xl p-8 max-w-full w-full text-center h-screen flex flex-col overflow-hidden relative">
-        
+<div className="bg-white/90 backdrop-blur-md rounded-2xl shadow-2xl p-4 md:p-8 max-w-full w-full text-center h-[100dvh] flex flex-col relative overflow-hidden">        
   
 
         <div className=" mb-10">
           <h1 className="text-2xl font-bold text-gray-800 text-center">Chatbot ANMI</h1>
         </div>
         {/* Chat */}
-        <div className="flex-1 mb-4 pr-2 space-y-4">
-          {messages.map((msg) => (
+<div className="flex-1 overflow-y-auto mb-2 pr-2 space-y-2 min-h-0">          {messages.map((msg) => (
             <div
               key={msg.id}
               className={`flex ${msg.sender === "user" ? "justify-end" : "justify-start"}`}
@@ -147,12 +145,6 @@ export default function ChatbotPage() {
         <p className="text-gray-700 text-sm pl-20 pr-20">
           El chatbot ANMI es solo una herramienta informativa y puede cometer errores; la información aquí proporcionada nunca sustituye el asesoramiento de un profesional cualificado.
         </p>
-        <Link
-          to="/"
-          className="inline-block mt-6 text-indigo-600 hover:text-indigo-800"
-        >
-          Volver al Menú Principal
-        </Link>
       </div>
     </div>
   );
