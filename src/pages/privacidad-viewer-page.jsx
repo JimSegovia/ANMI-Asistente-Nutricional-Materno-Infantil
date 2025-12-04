@@ -65,15 +65,7 @@ export default function PrivacidadViewerPage() {
             <Download size={20} className="mr-2" />
             Descargar Documento
           </a>
-          <a
-            href={document.pdfPath}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex items-center bg-gray-500 text-white px-6 py-3 rounded-xl font-semibold shadow-lg hover:bg-gray-600 hover:text-white transition"
-          >
-            <ExternalLink size={20} className="mr-2" />
-            Abrir en nueva pestaña
-          </a>
+          
         </div>
 
 {/* 🔘 Botón Volver */}
