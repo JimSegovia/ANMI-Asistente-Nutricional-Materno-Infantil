@@ -23,6 +23,7 @@ export default function ChatbotPage() {
 
   const [userData, setUserData] = useState(null);
 
+  // --- 💡 CAMBIO 1: Llamar a scrollToBottom al cambiar los mensajes
   useEffect(() => {
     const storedData = localStorage.getItem("anmi_user_data");
     if (storedData) {
@@ -154,7 +155,7 @@ export default function ChatbotPage() {
         </p>
         
       </div>
-      <div className="flex justify-center mt-8 pb-8">
+      <div className="flex justify-center mt-8 pb-8 shrink-0">
         <Link
           to="/"
           className="inline-block border-2 border-white text-white hover:bg-white hover:text-indigo-700 font-semibold py-2 px-6 rounded-full shadow-md transition-all duration-300"
