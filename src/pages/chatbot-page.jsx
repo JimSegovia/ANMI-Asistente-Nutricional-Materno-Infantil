@@ -16,15 +16,20 @@ export default function ChatbotPage() {
 
   const messagesEndRef = useRef(null);
 
+  {/* No usado
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
-  };
+  }; */}
+
+  const [userData, setUserData] = useState(null);
 
   // --- 💡 CAMBIO 1: Llamar a scrollToBottom al cambiar los mensajes
   useEffect(() => {
-    scrollToBottom();
-  }, [messages]);
-  // -----------------------------------------------------------------
+    const storedData = localStorage.getItem("anmi_user_data");
+    if (storedData) {
+      setUserData(JSON.parse(storedData));
+    }
+  }, []);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -40,18 +45,18 @@ export default function ChatbotPage() {
     setPrompt("");
     setIsLoading(true);
 
-    // 2. PREPARAMOS EL PAQUETE "LIGERO" PARA LA IA
     // Solo tomamos los últimos 6 mensajes anteriores + el nuevo (Total aprox 15-20 interacciones)
-    // Esto ahorra datos y hace que responda más rápido.
+
     const historyToSend = fullHistory.slice(-20);
 
-    try {
+  try {
       const res = await fetch('/api/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           prompt: inputPrompt,
-          history: historyToSend // <--- Enviamos la versión recortada
+          history: historyToSend,
+          userData: userData 
         }),
       });
 
@@ -80,19 +85,17 @@ export default function ChatbotPage() {
   };
 
   return (
-    // --- 💡 CAMBIO 2: Añadir `min-h-screen` y quitar `max-h-screen` al contenedor principal para que cubra toda la altura
-    <div className="min-h-screen flex flex-col items-center justify-start">
-      {/* Contenedor principal del Chatbot (Fijo) */}
-      <div className="bg-white/90 backdrop-blur-md rounded-2xl shadow-2xl p-8 max-w-full w-full text-center **h-full** flex flex-col **flex-1** relative">
-        
-        <div className=" mb-6"> {/* Reduje el mb para más espacio */}
+    <div className="max-h-screen flex flex-col items-center justify-center from-indigo-500 to-purple-700">
+
+      {/* Contenedor principal */}
+<div className="bg-white/90 backdrop-blur-md rounded-2xl shadow-2xl p-4 md:p-8 max-w-full w-full text-center h-[100dvh] flex flex-col relative overflow-hidden">        
+  
+
+        <div className=" mb-10">
           <h1 className="text-2xl font-bold text-gray-800 text-center">Chatbot ANMI</h1>
         </div>
-        
-        {/* Chat - ¡AQUÍ ESTÁ EL ARREGLO! */}
-        {/* --- 💡 CAMBIO 3: Añadir `overflow-y-auto` y quitar `pr-2` (que causaba un scrollbar duplicado) */}
-        <div className="flex-1 mb-4 space-y-4 **overflow-y-auto** p-2">
-          {messages.map((msg) => (
+        {/* Chat */}
+<div className="flex-1 overflow-y-auto mb-2 pr-2 space-y-2 min-h-0">          {messages.map((msg) => (
             <div
               key={msg.id}
               className={`flex ${msg.sender === "user" ? "justify-end" : "justify-start"}`}

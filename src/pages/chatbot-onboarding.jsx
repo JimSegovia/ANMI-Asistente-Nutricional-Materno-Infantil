@@ -1,19 +1,18 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { Check, ArrowRight } from "lucide-react";
+import { Check, ArrowRight, User, Baby, Calendar, FileText } from "lucide-react";
 
-// Lista de documentos y fuentes (simplificada para logos)
+// Lista de documentos y fuentes
 const sources = [
   { name: "Ministerio de Salud (MINSA)", logo: "/previews/minsa.png" },
   { name: "Instituto Nacional de Salud (INS/CENAN)", logo: "/previews/cenan.png" },
   { name: "Organismos Internacionales (OMS/OPS/UNICEF)", logo: "/previews/oms.jpg" },
 ];
 
-// Estado 1: Bienvenida y Capacidades
-const WelcomeScreen = ({ nextStep }) => (
-  // Se ha modificado el padding y el control de altura para adaptarse al contenedor padre
+// Estado 1: Bienvenida y Capacidades (SIN CAMBIOS)
+const WelcomeScreen = ({ handleContinue }) => (
   <div className="flex flex-col items-center justify-start h-full pt-4 pb-2 text-center flex-grow"> 
-    <div className="w-full mb-auto"> {/* mb-auto asegura que el contenido empuje el botón de abajo */}
+    <div className="w-full mb-auto">
       <h1 className="text-3xl font-bold text-gray-800 mb-4">
         ¡Bienvenido a tu Asistente ANMI!
       </h1>
@@ -57,7 +56,6 @@ const WelcomeScreen = ({ nextStep }) => (
       <div className="flex justify-center flex-wrap gap-9 items-center">
         {sources.map(source => (
           <div key={source.name} className="flex flex-col items-center">
-            {/* Usar placeholder o ruta real si tienes los logos */}
             <img src={source.logo} alt={source.name} className="w-20 h-20 object-contain mb- rounded-2xl" 
               onError={(e) => { e.target.onerror = null; e.target.src = `https://placehold.co/40x40/5a67d8/ffffff?text=${source.name.substring(0, 3)}`; }}
             />
@@ -69,17 +67,16 @@ const WelcomeScreen = ({ nextStep }) => (
 
     {/* Botón Siguiente */}
     <button
-      onClick={nextStep}
+      onClick={handleContinue}
       className="mt-6 bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-8 py-3 rounded-xl shadow-md transition-all flex items-center shrink-0"
     >
-      Entendido, Siguiente paso <ArrowRight size={20} className="ml-2" />
+      Entendido, Continuar <ArrowRight size={20} className="ml-2" />
     </button>
   </div>
 );
 
-// Estado 2: Aceptación de Términos
+// Estado 2: Aceptación de Términos (SIN CAMBIOS)
 const TermsScreen = ({ agree, setAgree, handleAccept }) => (
-  // Se ha modificado el padding y el control de altura para adaptarse al contenedor padre
   <div className="flex flex-col items-center justify-start h-full pt-4 pb-2 text-center flex-grow">
     <div className="w-full mb-auto">
       <h1 className="text-3xl font-bold text-gray-800 mb-4">
@@ -89,19 +86,17 @@ const TermsScreen = ({ agree, setAgree, handleAccept }) => (
         Para usar el chatbot, debes aceptar los siguientes términos y confirmar que entiendes su propósito.
       </p>
 
-      {/* Contenido simplificado de términos (para un prototipo) */}
       <div className="bg-gray-50 p-4 rounded-xl border border-gray-200 h-80 overflow-y-auto text-left text-sm text-gray-700">
         <p className="font-semibold mb-2">1. Alcance y Propósito</p>
         <p className="mb-3">ANMI es una herramienta educativa e informativa. La información aquí contenida no constituye una consulta médica, diagnóstico, ni sustituye el consejo de un profesional de la salud. Úsala únicamente como soporte de información.</p>
         
         <p className="font-semibold mb-2">2. Privacidad y Datos</p>
-        <p className="mb-3">Este chat es anónimo. No recopilamos ni almacenamos tus mensajes de chat más allá de la duración de tu sesión actual. Si deseas más detalles, consulta el Manifiesto de Privacidad en la sección Configuración.</p>
+        <p className="mb-3">Este chat es anónimo. Los datos básicos que proporciones (como la edad del bebé) se guardan solo en tu dispositivo para mejorar las respuestas y puedes borrarlos cuando quieras.</p>
         
         <p className="font-semibold mb-2">3. Uso Responsable</p>
         <p>Aceptas no utilizar esta herramienta para emergencias médicas o para intentar autodiagnosticar o autotratar condiciones graves de salud.</p>
       </div>
       
-      {/* Checkbox de Aceptación */}
       <div className="mt-6 flex items-center justify-center">
         <input
           id="privacy-check"
@@ -116,7 +111,6 @@ const TermsScreen = ({ agree, setAgree, handleAccept }) => (
       </div>
     </div>
 
-    {/* Botón Acceder */}
     <button
       onClick={handleAccept}
       disabled={!agree}
@@ -126,50 +120,169 @@ const TermsScreen = ({ agree, setAgree, handleAccept }) => (
           : 'bg-gray-400 text-gray-700 cursor-not-allowed'
       }`}
     >
-      Acceder al Chatbot <ArrowRight size={20} className="ml-2" />
+      Aceptar y Continuar <ArrowRight size={20} className="ml-2" />
     </button>
   </div>
 );
 
+// Estado 3: Formulario de Datos (SIN CAMBIOS)
+const DataFormScreen = ({ onFinish, onSkip }) => {
+  const [formData, setFormData] = useState({
+    nombre: "",
+    edad: "",
+    sexo: "",
+    extra: ""
+  });
 
+  const handleChange = (e) => {
+    setFormData({ ...formData, [e.target.name]: e.target.value });
+  };
+
+  return (
+    <div className="flex flex-col items-center justify-start h-full pt-4 pb-2 text-center flex-grow relative">
+      
+      <button 
+        onClick={onSkip}
+        className="absolute top-0 right-0 text-gray-400 hover:text-indigo-600 text-sm font-medium transition-colors"
+      >
+        Omitir este paso
+      </button>
+
+      <div className="w-full mb-auto mt-6">
+        <h1 className="text-2xl font-bold text-gray-800 mb-2">
+          Ayúdanos a conocerte
+        </h1>
+        <p className="text-gray-600 mb-6 text-sm">
+          Si nos das algunos datos básicos, el asistente podrá darte respuestas más precisas.
+        </p>
+
+        <form className="space-y-4 text-left">
+          {/* Edad */}
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-1 flex items-center">
+              <Calendar size={16} className="mr-2 text-indigo-500"/> Edad del bebé (Meses/Años)
+            </label>
+            <input
+              type="text"
+              name="edad"
+              placeholder="Ej: 8 meses"
+              value={formData.edad}
+              onChange={handleChange}
+              className="w-full p-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:outline-none"
+            />
+          </div>
+
+          {/* Sexo */}
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-1 flex items-center">
+              <Baby size={16} className="mr-2 text-indigo-500"/> Sexo
+            </label>
+            <select
+              name="sexo"
+              value={formData.sexo}
+              onChange={handleChange}
+              className="w-full p-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:outline-none bg-white"
+            >
+              <option value="">Seleccionar...</option>
+              <option value="Niño">Niño</option>
+              <option value="Niña">Niña</option>
+            </select>
+          </div>
+
+          {/* Info Extra */}
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-1 flex items-center">
+              <FileText size={16} className="mr-2 text-indigo-500"/> ¿Alguna condición?
+            </label>
+            <textarea
+              name="extra"
+              rows="2"
+              placeholder="Ej: Le detectaron anemia leve..."
+              value={formData.extra}
+              onChange={handleChange}
+              className="w-full p-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:outline-none resize-none"
+            />
+          </div>
+        </form>
+      </div>
+
+      <button
+        onClick={() => onFinish(formData)}
+        className="mt-4 bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-8 py-3 rounded-xl shadow-md transition-all flex items-center shrink-0 w-full justify-center"
+      >
+        Guardar y Empezar <ArrowRight size={20} className="ml-2" />
+      </button>
+    </div>
+  );
+};
+
+// --- COMPONENTE PRINCIPAL ---
 export default function ChatbotOnboarding() {
   const [step, setStep] = useState(1);
   const [agreed, setAgreed] = useState(false);
   const navigate = useNavigate();
 
-  const handleAccept = () => {
-    if (agreed) {
-      // Navegamos al chat real. Usaremos una nueva ruta: /chat-real
-      navigate("/chat-real");
+  // NO HAY useEffect de redirección automática.
+  // El paso 1 siempre se muestra primero.
+
+  // Esta función decide a dónde ir después de la bienvenida
+  const handleWelcomeContinue = () => {
+    const storedData = localStorage.getItem("anmi_user_data");
+    
+    if (storedData) {
+        // SI ya hay datos guardados -> Saltamos directo al chat
+        navigate("/chat-real");
+    } else {
+        // NO hay datos -> Vamos al paso 2 (Términos)
+        setStep(2);
     }
   };
 
+  const handleAcceptTerms = () => {
+    if (agreed) setStep(3);
+  };
+
+  const handleFinishData = (data) => {
+    localStorage.setItem("anmi_user_data", JSON.stringify(data));
+    navigate("/chat-real");
+  };
+
+  const handleSkip = () => {
+    localStorage.setItem("anmi_user_data", JSON.stringify({ skipped: true }));
+    navigate("/chat-real");
+  };
+
   return (
-    // Contenedor principal de la pantalla (centrado)
     <div className="min-h-screen flex flex-col items-center justify-center p-4">
-      {/* Contenedor del contenido (Onboarding steps) */}
       <div className="bg-white/90 backdrop-blur-md rounded-2xl shadow-2xl p-4 max-w-full w-[600px] min-h-[700px] flex flex-col items-center">
         
+        {/* Paso 1: SIEMPRE se muestra al inicio */}
         {step === 1 && (
-          <WelcomeScreen nextStep={() => setStep(2)} />
-        )}
-
-        {step === 2 && (
-          <TermsScreen agree={agreed} setAgree={setAgreed} handleAccept={handleAccept} />
+            <WelcomeScreen handleContinue={handleWelcomeContinue} />
         )}
         
+        {step === 2 && (
+          <TermsScreen 
+            agree={agreed} 
+            setAgree={setAgreed} 
+            handleAccept={handleAcceptTerms} 
+          />
+        )}
+
+        {step === 3 && (
+          <DataFormScreen 
+            onFinish={handleFinishData} 
+            onSkip={handleSkip} 
+          />
+        )}
+
       </div>
       
-      {/* 🔘 Botón Volver (FUERA del div del contenido, para que el navegador lo posicione abajo) */} 
       <div className="flex justify-center mt-8">
-        <Link
-          to="/"
-          // Estilo modificado para verse bien en el fondo morado
-          className="inline-block border-2 border-white text-white hover:bg-white hover:text-indigo-700 font-semibold py-2 px-6 rounded-full shadow-md transition-all duration-300"
-        >
-          Volver al Menú Principal
-        </Link>
-      </div> 
+         <Link to="/" className="inline-block border-2 border-white text-white hover:bg-white hover:text-indigo-700 font-semibold py-2 px-6 rounded-full shadow-md transition-all duration-300">
+           Volver al Menú Principal
+         </Link>
+      </div>
     </div>
   );
 }
